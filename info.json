@@ -1,0 +1,14 @@
+{
+    "arguments": [],
+    "clean_list_file": "clean.list",
+    "clean_original": "1",
+    "commit_autosave_message": "Test of CoinBlockerLists (hosts_optional)",
+    "currently_under_test": "0",
+    "days_until_next_test": "1",
+    "last_test": "0",
+    "list_name": "CoinBlockerLists.list",
+    "name": "CoinBlockerLists",
+    "ping": [],
+    "raw_link": "https://zerodot1.gitlab.io/CoinBlockerLists/hosts_optional",
+    "stable": "0"
+}
