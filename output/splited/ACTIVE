@@ -1,5 +1,5 @@
 # File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Mon 17 Sep 18:09:54 UTC 2018 
+# Date of generation: Tue 18 Sep 18:09:34 UTC 2018 
 
 Domain                                                                                               Status      HTTP Code 
 1safe.link                                                                                           ACTIVE      WHOIS     
@@ -99,7 +99,7 @@ getbitcoin.nz                                                                   
 getmonero.org                                                                                        ACTIVE      WHOIS     
 global.binance.com                                                                                   ACTIVE      NSLOOKUP  
 go.cur.lv                                                                                            ACTIVE      NSLOOKUP  
-hashcoin.io                                                                                          ACTIVE      WHOIS     
+hashcoin.io                                                                                          ACTIVE      NSLOOKUP  
 hashcoins.com                                                                                        ACTIVE      WHOIS     
 hashcoins.ee                                                                                         ACTIVE      WHOIS     
 hashcoins.ru                                                                                         ACTIVE      WHOIS     
@@ -208,6 +208,7 @@ webmail.awesomeminer.com                                                        
 webmail.imperiumminer.com                                                                            ACTIVE      NSLOOKUP  
 webmail.uclick.in                                                                                    ACTIVE      NSLOOKUP  
 whattomine.com                                                                                       ACTIVE      WHOIS     
+wiki.emercoin.com                                                                                    ACTIVE      NSLOOKUP  
 wiki.evergreencoin.org                                                                               ACTIVE      NSLOOKUP  
 wiki.trezor.io                                                                                       ACTIVE      NSLOOKUP  
 ws.ledgerwallet.com                                                                                  ACTIVE      NSLOOKUP  
