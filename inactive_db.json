@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_optional_git_ZeroDot1/CoinBlockerLists.list": {
-        "1537641120": [
+        "1537727616": [
             "ad001.a-ads.com",
             "ad004.a-ads.com",
             "ad005.a-ads.com",
@@ -50,6 +50,7 @@
             "mail.peerhash.com",
             "minecraft.cryptopia.co.nz",
             "mm.a-ads.com",
+            "monero-miner.000webhostapp.com",
             "mx.peerhash.com",
             "nodes1.cryptopia.co.nz",
             "nodes2.cryptopia.co.nz",
@@ -84,6 +85,7 @@
             "www.getbitcoin.nz",
             "www.ico.icerockmining.io",
             "www.ltc-bitcore3.trezor.io",
+            "www.monero-miner.000webhostapp.com",
             "www.old-wallet.trezor.io",
             "www.preorder.trezor.io",
             "www.rm.cointraffic.io",

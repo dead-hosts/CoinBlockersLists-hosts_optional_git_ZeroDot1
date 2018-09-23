@@ -1,5 +1,5 @@
 # File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Sat 22 Sep 18:09:57 UTC 2018 
+# Date of generation: Sun 23 Sep 18:09:33 UTC 2018 
 
 0.0.0.0 ad001.a-ads.com
 0.0.0.0 ad004.a-ads.com
@@ -50,6 +50,7 @@
 0.0.0.0 mail.peerhash.com
 0.0.0.0 minecraft.cryptopia.co.nz
 0.0.0.0 mm.a-ads.com
+0.0.0.0 monero-miner.000webhostapp.com
 0.0.0.0 mx.peerhash.com
 0.0.0.0 nodes1.cryptopia.co.nz
 0.0.0.0 nodes2.cryptopia.co.nz
@@ -84,6 +85,7 @@
 0.0.0.0 www.getbitcoin.nz
 0.0.0.0 www.ico.icerockmining.io
 0.0.0.0 www.ltc-bitcore3.trezor.io
+0.0.0.0 www.monero-miner.000webhostapp.com
 0.0.0.0 www.old-wallet.trezor.io
 0.0.0.0 www.preorder.trezor.io
 0.0.0.0 www.rm.cointraffic.io
