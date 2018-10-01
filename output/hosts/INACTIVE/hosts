@@ -1,5 +1,5 @@
 # File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Wed 26 Sep 18:09:19 UTC 2018 
+# Date of generation: Mon 01 Oct 18:10:28 UTC 2018 
 
 0.0.0.0 ad001.a-ads.com
 0.0.0.0 ad004.a-ads.com
@@ -39,13 +39,15 @@
 0.0.0.0 btc.a-ads.com
 0.0.0.0 cdn1.cryptopia.co.nz
 0.0.0.0 chf.a-ads.com
+0.0.0.0 cpanel.imperiumminer.com
 0.0.0.0 dev.a-ads.com
 0.0.0.0 forum.bitcoin.org
 0.0.0.0 forum.uclick.in
+0.0.0.0 ftp.imperiumminer.com
 0.0.0.0 ftp.miningfarmasics.com
 0.0.0.0 i2p.emercoin.com
 0.0.0.0 lb4.a-ads.com
-0.0.0.0 mail.miningfarmasics.com
+0.0.0.0 mail.imperiumminer.com
 0.0.0.0 mail.mymonero.com
 0.0.0.0 mail.peerhash.com
 0.0.0.0 minecraft.cryptopia.co.nz
@@ -55,6 +57,7 @@
 0.0.0.0 nodes2.cryptopia.co.nz
 0.0.0.0 nostalgia.bitfinex.com
 0.0.0.0 ns2.a-ads.com
+0.0.0.0 pay.bithumb.com
 0.0.0.0 pools1.cryptopia.co.nz
 0.0.0.0 pools2.cryptopia.co.nz
 0.0.0.0 redmine.emercoin.com
@@ -62,6 +65,7 @@
 0.0.0.0 stats.ethc.io
 0.0.0.0 upload.a-ads.com
 0.0.0.0 webdisk.api.cryptoguiminer.com
+0.0.0.0 webmail.imperiumminer.com
 0.0.0.0 ws.bitfinex.com
 0.0.0.0 www1.a-ads.com
 0.0.0.0 www3.a-ads.com
@@ -82,6 +86,7 @@
 0.0.0.0 www.forum.bitcoin.org
 0.0.0.0 www.getbitcoin.nz
 0.0.0.0 www.ico.icerockmining.io
+0.0.0.0 www.imperiumminer.com
 0.0.0.0 www.ltc-bitcore3.trezor.io
 0.0.0.0 www.old-wallet.trezor.io
 0.0.0.0 www.preorder.trezor.io

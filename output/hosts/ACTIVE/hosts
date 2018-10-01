@@ -1,5 +1,5 @@
 # File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Wed 26 Sep 18:09:19 UTC 2018 
+# Date of generation: Mon 01 Oct 18:10:28 UTC 2018 
 
 0.0.0.0 1safe.link
 0.0.0.0 803mine.com
@@ -59,7 +59,6 @@
 0.0.0.0 cosigner.electrum.org
 0.0.0.0 cpanel.antminer-store.com
 0.0.0.0 cpanel.cryptoguiminer.com
-0.0.0.0 cpanel.imperiumminer.com
 0.0.0.0 cpanel.uclick.in
 0.0.0.0 cryptoguiminer.com
 0.0.0.0 cryptonaut.org
@@ -90,7 +89,6 @@
 0.0.0.0 ftp.antminer-store.com
 0.0.0.0 ftp.awesomeminer.com
 0.0.0.0 ftp.binance.com
-0.0.0.0 ftp.imperiumminer.com
 0.0.0.0 ftp.inwemo.com
 0.0.0.0 ftp.mellowads.com
 0.0.0.0 ftp.uclick.in
@@ -130,7 +128,7 @@
 0.0.0.0 mail.awesomeminer.com
 0.0.0.0 mail.coinadnet.com
 0.0.0.0 mail.cur.lv
-0.0.0.0 mail.imperiumminer.com
+0.0.0.0 mail.miningfarmasics.com
 0.0.0.0 mail.uclick.in
 0.0.0.0 masternode-agent.com
 0.0.0.0 masternodes4everyone.com
@@ -156,7 +154,6 @@
 0.0.0.0 p2pool.in
 0.0.0.0 pandaminer.co
 0.0.0.0 parthk.co.uk
-0.0.0.0 pay.bithumb.com
 0.0.0.0 peerhash.com
 0.0.0.0 pool2.emercoin.com
 0.0.0.0 pool.emercoin.com
@@ -204,7 +201,6 @@
 0.0.0.0 webdisk.uclick.in
 0.0.0.0 webmail.antminer-store.com
 0.0.0.0 webmail.awesomeminer.com
-0.0.0.0 webmail.imperiumminer.com
 0.0.0.0 webmail.uclick.in
 0.0.0.0 whattomine.com
 0.0.0.0 wiki.emercoin.com
@@ -259,7 +255,6 @@
 0.0.0.0 www.hashcoins.ru
 0.0.0.0 www.hitbtc.com
 0.0.0.0 www.icerockmining.io
-0.0.0.0 www.imperiumminer.com
 0.0.0.0 www.inwemo.com
 0.0.0.0 www.jaxx.io
 0.0.0.0 www.joinslack.binance.com
