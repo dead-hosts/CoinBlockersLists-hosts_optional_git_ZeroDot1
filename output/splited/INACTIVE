@@ -1,5 +1,5 @@
 # File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Mon 22 Oct 18:10:54 UTC 2018 
+# Date of generation: Wed 24 Oct 18:10:29 UTC 2018 
 
 Domain                                                                                               Status      HTTP Code 
 ad001.a-ads.com                                                                                      INACTIVE    NSLOOKUP  
@@ -44,10 +44,13 @@ cpanel.imperiumminer.com                                                        
 dev.a-ads.com                                                                                        INACTIVE    NSLOOKUP  
 forum.bitcoin.org                                                                                    INACTIVE    NSLOOKUP  
 forum.uclick.in                                                                                      INACTIVE    NSLOOKUP  
+ftp.awesomeminer.com                                                                                 INACTIVE    NSLOOKUP  
 ftp.imperiumminer.com                                                                                INACTIVE    NSLOOKUP  
 ftp.miningfarmasics.com                                                                              INACTIVE    NSLOOKUP  
 i2p.emercoin.com                                                                                     INACTIVE    NSLOOKUP  
 lb4.a-ads.com                                                                                        INACTIVE    NSLOOKUP  
+mail2.awesomeminer.com                                                                               INACTIVE    NSLOOKUP  
+mail.awesomeminer.com                                                                                INACTIVE    NSLOOKUP  
 mail.imperiumminer.com                                                                               INACTIVE    NSLOOKUP  
 mail.mymonero.com                                                                                    INACTIVE    NSLOOKUP  
 mail.peerhash.com                                                                                    INACTIVE    NSLOOKUP  
@@ -61,8 +64,10 @@ ns2.a-ads.com                                                                   
 pay.bithumb.com                                                                                      INACTIVE    NSLOOKUP  
 pools1.cryptopia.co.nz                                                                               INACTIVE    NSLOOKUP  
 pools2.cryptopia.co.nz                                                                               INACTIVE    NSLOOKUP  
+pop3.awesomeminer.com                                                                                INACTIVE    NSLOOKUP  
 redmine.emercoin.com                                                                                 INACTIVE    NSLOOKUP  
 s.a-ads.com                                                                                          INACTIVE    NSLOOKUP  
+smtp.awesomeminer.com                                                                                INACTIVE    NSLOOKUP  
 stats.ethc.io                                                                                        INACTIVE    NSLOOKUP  
 upload.a-ads.com                                                                                     INACTIVE    NSLOOKUP  
 webdisk.api.cryptoguiminer.com                                                                       INACTIVE    NSLOOKUP  

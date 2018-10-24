@@ -1,8 +1,8 @@
 # File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Mon 22 Oct 18:10:54 UTC 2018 
+# Date of generation: Wed 24 Oct 18:10:29 UTC 2018 
 
 Domain                                                                                               Status      HTTP Code 
-1safe.link                                                                                           ACTIVE      WHOIS     
+1safe.link                                                                                           ACTIVE      NSLOOKUP  
 803mine.com                                                                                          ACTIVE      WHOIS     
 a-ads.com                                                                                            ACTIVE      WHOIS     
 acceptable.a-ads.com                                                                                 ACTIVE      NSLOOKUP  
@@ -88,7 +88,6 @@ files.cointraffic.io                                                            
 forminerpro.com                                                                                      ACTIVE      WHOIS     
 foundry.electrum.org                                                                                 ACTIVE      NSLOOKUP  
 ftp.antminer-store.com                                                                               ACTIVE      NSLOOKUP  
-ftp.awesomeminer.com                                                                                 ACTIVE      NSLOOKUP  
 ftp.binance.com                                                                                      ACTIVE      NSLOOKUP  
 ftp.inwemo.com                                                                                       ACTIVE      NSLOOKUP  
 ftp.mellowads.com                                                                                    ACTIVE      NSLOOKUP  
@@ -124,9 +123,7 @@ link.cur.lv                                                                     
 links.upcoin.com                                                                                     ACTIVE      NSLOOKUP  
 ltc-bitcore3.trezor.io                                                                               ACTIVE      NSLOOKUP  
 luckybits.io                                                                                         ACTIVE      WHOIS     
-mail2.awesomeminer.com                                                                               ACTIVE      NSLOOKUP  
 mail.antminer-store.com                                                                              ACTIVE      NSLOOKUP  
-mail.awesomeminer.com                                                                                ACTIVE      NSLOOKUP  
 mail.coinadnet.com                                                                                   ACTIVE      NSLOOKUP  
 mail.cur.lv                                                                                          ACTIVE      NSLOOKUP  
 mail.miningfarmasics.com                                                                             ACTIVE      NSLOOKUP  
@@ -158,7 +155,6 @@ parthk.co.uk                                                                    
 peerhash.com                                                                                         ACTIVE      WHOIS     
 pool2.emercoin.com                                                                                   ACTIVE      NSLOOKUP  
 pool.emercoin.com                                                                                    ACTIVE      NSLOOKUP  
-pop3.awesomeminer.com                                                                                ACTIVE      NSLOOKUP  
 preorder.trezor.io                                                                                   ACTIVE      NSLOOKUP  
 pricing.jaxx.io                                                                                      ACTIVE      NSLOOKUP  
 psychomining.de                                                                                      ACTIVE      NSLOOKUP  
@@ -175,7 +171,6 @@ selfx1.typeform.com                                                             
 sftp.binance.com                                                                                     ACTIVE      NSLOOKUP  
 shapeshift.io                                                                                        ACTIVE      WHOIS     
 shop.trezor.io                                                                                       ACTIVE      NSLOOKUP  
-smtp.awesomeminer.com                                                                                ACTIVE      NSLOOKUP  
 start.ledgerwallet.com                                                                               ACTIVE      NSLOOKUP  
 static.a-ads.com                                                                                     ACTIVE      NSLOOKUP  
 status.trezor.io                                                                                     ACTIVE      NSLOOKUP  

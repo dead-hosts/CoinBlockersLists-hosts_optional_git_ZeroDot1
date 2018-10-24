@@ -1,5 +1,5 @@
 # File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Mon 22 Oct 18:10:54 UTC 2018 
+# Date of generation: Wed 24 Oct 18:10:29 UTC 2018 
 
 0.0.0.0 ad001.a-ads.com
 0.0.0.0 ad004.a-ads.com
@@ -43,10 +43,13 @@
 0.0.0.0 dev.a-ads.com
 0.0.0.0 forum.bitcoin.org
 0.0.0.0 forum.uclick.in
+0.0.0.0 ftp.awesomeminer.com
 0.0.0.0 ftp.imperiumminer.com
 0.0.0.0 ftp.miningfarmasics.com
 0.0.0.0 i2p.emercoin.com
 0.0.0.0 lb4.a-ads.com
+0.0.0.0 mail2.awesomeminer.com
+0.0.0.0 mail.awesomeminer.com
 0.0.0.0 mail.imperiumminer.com
 0.0.0.0 mail.mymonero.com
 0.0.0.0 mail.peerhash.com
@@ -60,8 +63,10 @@
 0.0.0.0 pay.bithumb.com
 0.0.0.0 pools1.cryptopia.co.nz
 0.0.0.0 pools2.cryptopia.co.nz
+0.0.0.0 pop3.awesomeminer.com
 0.0.0.0 redmine.emercoin.com
 0.0.0.0 s.a-ads.com
+0.0.0.0 smtp.awesomeminer.com
 0.0.0.0 stats.ethc.io
 0.0.0.0 upload.a-ads.com
 0.0.0.0 webdisk.api.cryptoguiminer.com

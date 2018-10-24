@@ -1,5 +1,5 @@
 # File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Mon 22 Oct 18:10:54 UTC 2018 
+# Date of generation: Wed 24 Oct 18:10:29 UTC 2018 
 
 0.0.0.0 1safe.link
 0.0.0.0 803mine.com
@@ -87,7 +87,6 @@
 0.0.0.0 forminerpro.com
 0.0.0.0 foundry.electrum.org
 0.0.0.0 ftp.antminer-store.com
-0.0.0.0 ftp.awesomeminer.com
 0.0.0.0 ftp.binance.com
 0.0.0.0 ftp.inwemo.com
 0.0.0.0 ftp.mellowads.com
@@ -123,9 +122,7 @@
 0.0.0.0 links.upcoin.com
 0.0.0.0 ltc-bitcore3.trezor.io
 0.0.0.0 luckybits.io
-0.0.0.0 mail2.awesomeminer.com
 0.0.0.0 mail.antminer-store.com
-0.0.0.0 mail.awesomeminer.com
 0.0.0.0 mail.coinadnet.com
 0.0.0.0 mail.cur.lv
 0.0.0.0 mail.miningfarmasics.com
@@ -157,7 +154,6 @@
 0.0.0.0 peerhash.com
 0.0.0.0 pool2.emercoin.com
 0.0.0.0 pool.emercoin.com
-0.0.0.0 pop3.awesomeminer.com
 0.0.0.0 preorder.trezor.io
 0.0.0.0 pricing.jaxx.io
 0.0.0.0 psychomining.de
@@ -174,7 +170,6 @@
 0.0.0.0 sftp.binance.com
 0.0.0.0 shapeshift.io
 0.0.0.0 shop.trezor.io
-0.0.0.0 smtp.awesomeminer.com
 0.0.0.0 start.ledgerwallet.com
 0.0.0.0 static.a-ads.com
 0.0.0.0 status.trezor.io
