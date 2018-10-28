@@ -1,6 +1,7 @@
 # File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Fri 26 Oct 18:10:22 UTC 2018 
+# Date of generation: Sun 28 Oct 18:10:20 UTC 2018 
 
+0.0.0.0 bitcore1.trezor.io
 0.0.0.0 blog.a-ads.com
 0.0.0.0 cdn2.inwemo.com
 0.0.0.0 cdn.inwemo.com
@@ -11,6 +12,7 @@
 0.0.0.0 inwemo.com
 0.0.0.0 links.upcoin.com
 0.0.0.0 monero-miner.000webhostapp.com
+0.0.0.0 seed.emercoin.com
 0.0.0.0 sftp.binance.com
 0.0.0.0 test.ledgerwallet.com
 0.0.0.0 www.ethereumproject.github.io
