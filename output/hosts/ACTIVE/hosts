@@ -1,5 +1,5 @@
 # File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Sat 03 Nov 18:11:28 UTC 2018 
+# Date of generation: Mon 05 Nov 18:11:19 UTC 2018 
 
 0.0.0.0 1safe.link
 0.0.0.0 803mine.com
@@ -18,7 +18,6 @@
 0.0.0.0 api.ledgerwallet.com
 0.0.0.0 api.mymonero.com
 0.0.0.0 apps.ledgerwallet.com
-0.0.0.0 autodiscover.uclick.in
 0.0.0.0 awesomeminer.com
 0.0.0.0 basicdemo.emercoin.com
 0.0.0.0 bch-bitcore2.trezor.io
@@ -59,7 +58,6 @@
 0.0.0.0 cosigner.electrum.org
 0.0.0.0 cpanel.antminer-store.com
 0.0.0.0 cpanel.cryptoguiminer.com
-0.0.0.0 cpanel.uclick.in
 0.0.0.0 cryptoguiminer.com
 0.0.0.0 cryptonaut.org
 0.0.0.0 cryptonotemining.org
@@ -90,7 +88,6 @@
 0.0.0.0 ftp.binance.com
 0.0.0.0 ftp.inwemo.com
 0.0.0.0 ftp.mellowads.com
-0.0.0.0 ftp.uclick.in
 0.0.0.0 getbitcoin.nz
 0.0.0.0 getmonero.org
 0.0.0.0 global.binance.com
@@ -105,7 +102,6 @@
 0.0.0.0 hitbtc.com
 0.0.0.0 icerockmining.io
 0.0.0.0 ico.icerockmining.io
-0.0.0.0 imperiumminer.com
 0.0.0.0 in.cur.lv
 0.0.0.0 inwemo.com
 0.0.0.0 iota.bitfinex.com
@@ -126,7 +122,6 @@
 0.0.0.0 mail.coinadnet.com
 0.0.0.0 mail.cur.lv
 0.0.0.0 mail.miningfarmasics.com
-0.0.0.0 mail.uclick.in
 0.0.0.0 masternode-agent.com
 0.0.0.0 masternodes4everyone.com
 0.0.0.0 me.cur.lv
@@ -193,9 +188,7 @@
 0.0.0.0 wallet.trezor.io
 0.0.0.0 webdisk.antminer-store.com
 0.0.0.0 webdisk.cryptoguiminer.com
-0.0.0.0 webdisk.uclick.in
 0.0.0.0 webmail.antminer-store.com
-0.0.0.0 webmail.uclick.in
 0.0.0.0 whattomine.com
 0.0.0.0 wiki.emercoin.com
 0.0.0.0 wiki.evergreencoin.org
@@ -285,7 +278,6 @@
 0.0.0.0 www.superbitcoiner.com
 0.0.0.0 www.support.binance.com
 0.0.0.0 www.trezor.io
-0.0.0.0 www.uclick.in
 0.0.0.0 www.upcoin.com
 0.0.0.0 www.us.binance.com
 0.0.0.0 www.whattomine.com

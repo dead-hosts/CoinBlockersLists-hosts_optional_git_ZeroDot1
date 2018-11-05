@@ -1,5 +1,5 @@
 # File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Sat 03 Nov 18:11:28 UTC 2018 
+# Date of generation: Mon 05 Nov 18:11:19 UTC 2018 
 
 Domain                                                                                               Status      HTTP Code 
 ad001.a-ads.com                                                                                      INACTIVE    NSLOOKUP  
@@ -35,25 +35,30 @@ api.inwemo.com                                                                  
 app0.a-ads.com                                                                                       INACTIVE    NSLOOKUP  
 apps2.cointraffic.io                                                                                 INACTIVE    NSLOOKUP  
 apps.cointraffic.io                                                                                  INACTIVE    NSLOOKUP  
+autodiscover.uclick.in                                                                               INACTIVE    NSLOOKUP  
 beta.bitfinex.com                                                                                    INACTIVE    NSLOOKUP  
 bitcoinminers.eu                                                                                     INACTIVE    NSLOOKUP  
 btc.a-ads.com                                                                                        INACTIVE    NSLOOKUP  
 cdn1.cryptopia.co.nz                                                                                 INACTIVE    NSLOOKUP  
 chf.a-ads.com                                                                                        INACTIVE    NSLOOKUP  
 cpanel.imperiumminer.com                                                                             INACTIVE    NSLOOKUP  
+cpanel.uclick.in                                                                                     INACTIVE    NSLOOKUP  
 dev.a-ads.com                                                                                        INACTIVE    NSLOOKUP  
 forum.bitcoin.org                                                                                    INACTIVE    NSLOOKUP  
 forum.uclick.in                                                                                      INACTIVE    NSLOOKUP  
 ftp.awesomeminer.com                                                                                 INACTIVE    NSLOOKUP  
 ftp.imperiumminer.com                                                                                INACTIVE    NSLOOKUP  
 ftp.miningfarmasics.com                                                                              INACTIVE    NSLOOKUP  
+ftp.uclick.in                                                                                        INACTIVE    NSLOOKUP  
 i2p.emercoin.com                                                                                     INACTIVE    NSLOOKUP  
+imperiumminer.com                                                                                    INACTIVE    NSLOOKUP  
 lb4.a-ads.com                                                                                        INACTIVE    NSLOOKUP  
 mail2.awesomeminer.com                                                                               INACTIVE    NSLOOKUP  
 mail.awesomeminer.com                                                                                INACTIVE    NSLOOKUP  
 mail.imperiumminer.com                                                                               INACTIVE    NSLOOKUP  
 mail.mymonero.com                                                                                    INACTIVE    NSLOOKUP  
 mail.peerhash.com                                                                                    INACTIVE    NSLOOKUP  
+mail.uclick.in                                                                                       INACTIVE    NSLOOKUP  
 minecraft.cryptopia.co.nz                                                                            INACTIVE    NSLOOKUP  
 mm.a-ads.com                                                                                         INACTIVE    NSLOOKUP  
 mx.peerhash.com                                                                                      INACTIVE    NSLOOKUP  
@@ -71,8 +76,10 @@ smtp.awesomeminer.com                                                           
 stats.ethc.io                                                                                        INACTIVE    NSLOOKUP  
 upload.a-ads.com                                                                                     INACTIVE    NSLOOKUP  
 webdisk.api.cryptoguiminer.com                                                                       INACTIVE    NSLOOKUP  
+webdisk.uclick.in                                                                                    INACTIVE    NSLOOKUP  
 webmail.awesomeminer.com                                                                             INACTIVE    NSLOOKUP  
 webmail.imperiumminer.com                                                                            INACTIVE    NSLOOKUP  
+webmail.uclick.in                                                                                    INACTIVE    NSLOOKUP  
 ws.bitfinex.com                                                                                      INACTIVE    NSLOOKUP  
 www1.a-ads.com                                                                                       INACTIVE    NSLOOKUP  
 www3.a-ads.com                                                                                       INACTIVE    NSLOOKUP  
@@ -101,6 +108,7 @@ www.rm.cointraffic.io                                                           
 www.rpc.myetherwallet.com                                                                            INACTIVE    NSLOOKUP  
 www.shop.trezor.io                                                                                   INACTIVE    NSLOOKUP  
 www.status.trezor.io                                                                                 INACTIVE    NSLOOKUP  
+www.uclick.in                                                                                        INACTIVE    NSLOOKUP  
 www.wallet.trezor.io                                                                                 INACTIVE    NSLOOKUP  
 www.wiki.trezor.io                                                                                   INACTIVE    NSLOOKUP  
 www.zec-bitcore1.trezor.io                                                                           INACTIVE    NSLOOKUP  

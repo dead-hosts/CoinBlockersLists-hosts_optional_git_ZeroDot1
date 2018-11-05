@@ -1,5 +1,5 @@
 # File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Sat 03 Nov 18:11:28 UTC 2018 
+# Date of generation: Mon 05 Nov 18:11:19 UTC 2018 
 
 0.0.0.0 ad001.a-ads.com
 0.0.0.0 ad004.a-ads.com
@@ -34,25 +34,30 @@
 0.0.0.0 app0.a-ads.com
 0.0.0.0 apps2.cointraffic.io
 0.0.0.0 apps.cointraffic.io
+0.0.0.0 autodiscover.uclick.in
 0.0.0.0 beta.bitfinex.com
 0.0.0.0 bitcoinminers.eu
 0.0.0.0 btc.a-ads.com
 0.0.0.0 cdn1.cryptopia.co.nz
 0.0.0.0 chf.a-ads.com
 0.0.0.0 cpanel.imperiumminer.com
+0.0.0.0 cpanel.uclick.in
 0.0.0.0 dev.a-ads.com
 0.0.0.0 forum.bitcoin.org
 0.0.0.0 forum.uclick.in
 0.0.0.0 ftp.awesomeminer.com
 0.0.0.0 ftp.imperiumminer.com
 0.0.0.0 ftp.miningfarmasics.com
+0.0.0.0 ftp.uclick.in
 0.0.0.0 i2p.emercoin.com
+0.0.0.0 imperiumminer.com
 0.0.0.0 lb4.a-ads.com
 0.0.0.0 mail2.awesomeminer.com
 0.0.0.0 mail.awesomeminer.com
 0.0.0.0 mail.imperiumminer.com
 0.0.0.0 mail.mymonero.com
 0.0.0.0 mail.peerhash.com
+0.0.0.0 mail.uclick.in
 0.0.0.0 minecraft.cryptopia.co.nz
 0.0.0.0 mm.a-ads.com
 0.0.0.0 mx.peerhash.com
@@ -70,8 +75,10 @@
 0.0.0.0 stats.ethc.io
 0.0.0.0 upload.a-ads.com
 0.0.0.0 webdisk.api.cryptoguiminer.com
+0.0.0.0 webdisk.uclick.in
 0.0.0.0 webmail.awesomeminer.com
 0.0.0.0 webmail.imperiumminer.com
+0.0.0.0 webmail.uclick.in
 0.0.0.0 ws.bitfinex.com
 0.0.0.0 www1.a-ads.com
 0.0.0.0 www3.a-ads.com
@@ -100,6 +107,7 @@
 0.0.0.0 www.rpc.myetherwallet.com
 0.0.0.0 www.shop.trezor.io
 0.0.0.0 www.status.trezor.io
+0.0.0.0 www.uclick.in
 0.0.0.0 www.wallet.trezor.io
 0.0.0.0 www.wiki.trezor.io
 0.0.0.0 www.zec-bitcore1.trezor.io
