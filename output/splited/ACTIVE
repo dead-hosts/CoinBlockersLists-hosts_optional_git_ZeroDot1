@@ -1,5 +1,5 @@
 # File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Tue 06 Nov 18:11:10 UTC 2018 
+# Date of generation: Wed 07 Nov 18:11:39 UTC 2018 
 
 Domain                                                                                               Status      HTTP Code 
 1safe.link                                                                                           ACTIVE      WHOIS     
@@ -19,6 +19,7 @@ api.jaxx.io                                                                     
 api.ledgerwallet.com                                                                                 ACTIVE      NSLOOKUP  
 api.mymonero.com                                                                                     ACTIVE      NSLOOKUP  
 apps.ledgerwallet.com                                                                                ACTIVE      NSLOOKUP  
+autodiscover.uclick.in                                                                               ACTIVE      NSLOOKUP  
 awesomeminer.com                                                                                     ACTIVE      WHOIS     
 basicdemo.emercoin.com                                                                               ACTIVE      NSLOOKUP  
 bch-bitcore2.trezor.io                                                                               ACTIVE      NSLOOKUP  
@@ -59,6 +60,7 @@ connect.trezor.io                                                               
 cosigner.electrum.org                                                                                ACTIVE      NSLOOKUP  
 cpanel.antminer-store.com                                                                            ACTIVE      NSLOOKUP  
 cpanel.cryptoguiminer.com                                                                            ACTIVE      NSLOOKUP  
+cpanel.uclick.in                                                                                     ACTIVE      NSLOOKUP  
 cryptoguiminer.com                                                                                   ACTIVE      WHOIS     
 cryptonaut.org                                                                                       ACTIVE      WHOIS     
 cryptonotemining.org                                                                                 ACTIVE      WHOIS     
@@ -84,11 +86,13 @@ faucethub.io                                                                    
 files.a-ads.com                                                                                      ACTIVE      NSLOOKUP  
 files.cointraffic.io                                                                                 ACTIVE      NSLOOKUP  
 forminerpro.com                                                                                      ACTIVE      WHOIS     
+forum.uclick.in                                                                                      ACTIVE      NSLOOKUP  
 foundry.electrum.org                                                                                 ACTIVE      NSLOOKUP  
 ftp.antminer-store.com                                                                               ACTIVE      NSLOOKUP  
 ftp.binance.com                                                                                      ACTIVE      NSLOOKUP  
 ftp.inwemo.com                                                                                       ACTIVE      NSLOOKUP  
 ftp.mellowads.com                                                                                    ACTIVE      NSLOOKUP  
+ftp.uclick.in                                                                                        ACTIVE      NSLOOKUP  
 getbitcoin.nz                                                                                        ACTIVE      NSLOOKUP  
 getmonero.org                                                                                        ACTIVE      WHOIS     
 global.binance.com                                                                                   ACTIVE      NSLOOKUP  
@@ -123,6 +127,7 @@ mail.antminer-store.com                                                         
 mail.coinadnet.com                                                                                   ACTIVE      NSLOOKUP  
 mail.cur.lv                                                                                          ACTIVE      NSLOOKUP  
 mail.miningfarmasics.com                                                                             ACTIVE      NSLOOKUP  
+mail.uclick.in                                                                                       ACTIVE      NSLOOKUP  
 masternode-agent.com                                                                                 ACTIVE      WHOIS     
 masternodes4everyone.com                                                                             ACTIVE      WHOIS     
 me.cur.lv                                                                                            ACTIVE      NSLOOKUP  
@@ -189,7 +194,9 @@ utils.jaxx.io                                                                   
 wallet.trezor.io                                                                                     ACTIVE      NSLOOKUP  
 webdisk.antminer-store.com                                                                           ACTIVE      NSLOOKUP  
 webdisk.cryptoguiminer.com                                                                           ACTIVE      NSLOOKUP  
+webdisk.uclick.in                                                                                    ACTIVE      NSLOOKUP  
 webmail.antminer-store.com                                                                           ACTIVE      NSLOOKUP  
+webmail.uclick.in                                                                                    ACTIVE      NSLOOKUP  
 whattomine.com                                                                                       ACTIVE      WHOIS     
 wiki.emercoin.com                                                                                    ACTIVE      NSLOOKUP  
 wiki.evergreencoin.org                                                                               ACTIVE      NSLOOKUP  
@@ -279,6 +286,7 @@ www.stream.binance.com                                                          
 www.superbitcoiner.com                                                                               ACTIVE      NSLOOKUP  
 www.support.binance.com                                                                              ACTIVE      NSLOOKUP  
 www.trezor.io                                                                                        ACTIVE      NSLOOKUP  
+www.uclick.in                                                                                        ACTIVE      NSLOOKUP  
 www.upcoin.com                                                                                       ACTIVE      NSLOOKUP  
 www.us.binance.com                                                                                   ACTIVE      NSLOOKUP  
 www.whattomine.com                                                                                   ACTIVE      NSLOOKUP  
