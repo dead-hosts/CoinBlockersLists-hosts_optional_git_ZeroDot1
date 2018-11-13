@@ -1,5 +1,5 @@
 # File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Mon 12 Nov 19:11:36 UTC 2018 
+# Date of generation: Tue 13 Nov 19:11:24 UTC 2018 
 
 Domain                                                                                               Status      HTTP Code 
 1safe.link                                                                                           ACTIVE      WHOIS     
@@ -7,6 +7,7 @@ Domain                                                                          
 a-ads.com                                                                                            ACTIVE      WHOIS     
 acceptable.a-ads.com                                                                                 ACTIVE      NSLOOKUP  
 ad.a-ads.com                                                                                         ACTIVE      NSLOOKUP  
+adconity.com                                                                                         ACTIVE      WHOIS     
 antminer-store.com                                                                                   ACTIVE      WHOIS     
 api01.ledgerwallet.com                                                                               ACTIVE      NSLOOKUP  
 api02.ledgerwallet.com                                                                               ACTIVE      NSLOOKUP  
@@ -60,6 +61,7 @@ connect.trezor.io                                                               
 cosigner.electrum.org                                                                                ACTIVE      NSLOOKUP  
 cpanel.antminer-store.com                                                                            ACTIVE      NSLOOKUP  
 cpanel.cryptoguiminer.com                                                                            ACTIVE      NSLOOKUP  
+cpanel.gameofbitcoins.com                                                                            ACTIVE      NSLOOKUP  
 cpanel.uclick.in                                                                                     ACTIVE      NSLOOKUP  
 cryptoguiminer.com                                                                                   ACTIVE      WHOIS     
 cryptonaut.org                                                                                       ACTIVE      WHOIS     
@@ -90,9 +92,11 @@ forum.uclick.in                                                                 
 foundry.electrum.org                                                                                 ACTIVE      NSLOOKUP  
 ftp.antminer-store.com                                                                               ACTIVE      NSLOOKUP  
 ftp.binance.com                                                                                      ACTIVE      NSLOOKUP  
+ftp.gameofbitcoins.com                                                                               ACTIVE      NSLOOKUP  
 ftp.inwemo.com                                                                                       ACTIVE      NSLOOKUP  
 ftp.mellowads.com                                                                                    ACTIVE      NSLOOKUP  
 ftp.uclick.in                                                                                        ACTIVE      NSLOOKUP  
+gameofbitcoins.com                                                                                   ACTIVE      WHOIS     
 getbitcoin.nz                                                                                        ACTIVE      NSLOOKUP  
 getmonero.org                                                                                        ACTIVE      WHOIS     
 global.binance.com                                                                                   ACTIVE      NSLOOKUP  
@@ -197,6 +201,7 @@ webdisk.uclick.in                                                               
 webmail.antminer-store.com                                                                           ACTIVE      NSLOOKUP  
 webmail.uclick.in                                                                                    ACTIVE      NSLOOKUP  
 whattomine.com                                                                                       ACTIVE      WHOIS     
+whm.gameofbitcoins.com                                                                               ACTIVE      NSLOOKUP  
 wiki.emercoin.com                                                                                    ACTIVE      NSLOOKUP  
 wiki.evergreencoin.org                                                                               ACTIVE      NSLOOKUP  
 wiki.trezor.io                                                                                       ACTIVE      NSLOOKUP  
@@ -205,6 +210,7 @@ wss.bithumb.com                                                                 
 www.1safe.link                                                                                       ACTIVE      NSLOOKUP  
 www.803mine.com                                                                                      ACTIVE      NSLOOKUP  
 www.a-ads.com                                                                                        ACTIVE      NSLOOKUP  
+www.adconity.com                                                                                     ACTIVE      NSLOOKUP  
 www.antminer-store.com                                                                               ACTIVE      NSLOOKUP  
 www.api.binance.com                                                                                  ACTIVE      NSLOOKUP  
 www.awesomeminer.com                                                                                 ACTIVE      NSLOOKUP  
@@ -241,6 +247,7 @@ www.evergreencoin.org                                                           
 www.faucethub.io                                                                                     ACTIVE      NSLOOKUP  
 www.forminerpro.com                                                                                  ACTIVE      NSLOOKUP  
 www.ftp.binance.com                                                                                  ACTIVE      NSLOOKUP  
+www.gameofbitcoins.com                                                                               ACTIVE      NSLOOKUP  
 www.getmonero.org                                                                                    ACTIVE      NSLOOKUP  
 www.global.binance.com                                                                               ACTIVE      NSLOOKUP  
 www.hashcoin.io                                                                                      ACTIVE      NSLOOKUP  
