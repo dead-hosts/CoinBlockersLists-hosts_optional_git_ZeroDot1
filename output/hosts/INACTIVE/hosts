@@ -1,5 +1,5 @@
 # File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Tue 13 Nov 19:11:24 UTC 2018 
+# Date of generation: Thu 15 Nov 19:11:04 UTC 2018 
 
 0.0.0.0 ad001.a-ads.com
 0.0.0.0 ad004.a-ads.com
@@ -46,14 +46,12 @@
 0.0.0.0 ftp.adconity.com
 0.0.0.0 ftp.awesomeminer.com
 0.0.0.0 ftp.imperiumminer.com
-0.0.0.0 ftp.miningfarmasics.com
 0.0.0.0 i2p.emercoin.com
 0.0.0.0 imperiumminer.com
 0.0.0.0 lb4.a-ads.com
 0.0.0.0 mail2.awesomeminer.com
 0.0.0.0 mail.awesomeminer.com
 0.0.0.0 mail.imperiumminer.com
-0.0.0.0 mail.miningfarmasics.com
 0.0.0.0 mail.mymonero.com
 0.0.0.0 mail.peerhash.com
 0.0.0.0 minecraft.cryptopia.co.nz
@@ -97,7 +95,6 @@
 0.0.0.0 www.ico.icerockmining.io
 0.0.0.0 www.imperiumminer.com
 0.0.0.0 www.ltc-bitcore3.trezor.io
-0.0.0.0 www.miningfarmasics.com
 0.0.0.0 www.old-wallet.trezor.io
 0.0.0.0 www.preorder.trezor.io
 0.0.0.0 www.rm.cointraffic.io
