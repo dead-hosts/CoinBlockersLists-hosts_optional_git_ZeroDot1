@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_optional_git_ZeroDot1/CoinBlockerLists.list": {
-        "1542913590": [
+        "1543086425": [
             "ad001.a-ads.com",
             "ad004.a-ads.com",
             "ad005.a-ads.com",
@@ -41,6 +41,7 @@
             "chf.a-ads.com",
             "cpanel.imperiumminer.com",
             "dev.a-ads.com",
+            "download.emercoin.com",
             "forum.bitcoin.org",
             "ftp.adconity.com",
             "ftp.awesomeminer.com",
