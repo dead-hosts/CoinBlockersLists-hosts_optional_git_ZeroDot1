@@ -55,6 +55,11 @@
             "expiration_date": "16-jun-2021",
             "state": "future"
         },
+        "btc-alpha.com": {
+            "epoch": "1611532800",
+            "expiration_date": "25-jan-2021",
+            "state": "future"
+        },
         "cex.io": {
             "epoch": "1561852800",
             "expiration_date": "30-jun-2019",
