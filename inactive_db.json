@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_optional_git_ZeroDot1/CoinBlockerLists.list": {
-        "1544382942": [
+        "1544469407": [
             "ad001.a-ads.com",
             "ad004.a-ads.com",
             "ad005.a-ads.com",
@@ -107,7 +107,8 @@
             "www.status.trezor.io",
             "www.wallet.trezor.io",
             "www.wiki.trezor.io",
-            "www.zec-bitcore1.trezor.io"
+            "www.zec-bitcore1.trezor.io",
+            "zec-bitcore1.trezor.io"
         ],
         "to_test": []
     }
