@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_optional_git_ZeroDot1/CoinBlockerLists.list": {
-        "1545679555": [
+        "1545852263": [
             "ad001.a-ads.com",
             "ad004.a-ads.com",
             "ad005.a-ads.com",
@@ -51,6 +51,7 @@
             "ftp.adconity.com",
             "ftp.awesomeminer.com",
             "ftp.imperiumminer.com",
+            "ftp.miningfarmasics.com",
             "ftp.uclick.in",
             "i2p.emercoin.com",
             "imperiumminer.com",
@@ -58,6 +59,7 @@
             "mail2.awesomeminer.com",
             "mail.awesomeminer.com",
             "mail.imperiumminer.com",
+            "mail.miningfarmasics.com",
             "mail.mymonero.com",
             "mail.peerhash.com",
             "mail.uclick.in",
@@ -106,6 +108,7 @@
             "www.ico.icerockmining.io",
             "www.imperiumminer.com",
             "www.ltc-bitcore3.trezor.io",
+            "www.miningfarmasics.com",
             "www.old-wallet.trezor.io",
             "www.preorder.trezor.io",
             "www.rm.cointraffic.io",
