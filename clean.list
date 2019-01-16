@@ -16,8 +16,10 @@ api01.ledgerwallet.com
 api02.ledgerwallet.com
 api2.bitfinex.com
 api2.jaxx.io
+app.bixin.im
 apps.ledgerwallet.com
 awesomeminer.com
+aws.simplemining.net
 basicdemo.emercoin.com
 bch-bitcore2.trezor.io
 beta-wallet.trezor.io
@@ -30,6 +32,7 @@ bitcore1.trezor.io
 bitcore3.trezor.io
 bitfinex.com
 bithumb.com
+bixin.im
 blocked.mymonero.com
 blog.a-ads.com
 blog.jaxx.io
@@ -38,12 +41,14 @@ bng.btc-alpha.com
 btc-alpha.com
 btc-bitcore1.trezor.io
 btc-bitcore3.trezor.io
+bullet.simplemining.net
 cdn.inwemo.com
 cdn2.inwemo.com
 cex.io
 chainradar.com
 changelly.com
 chat.binance.com
+chat.simplemining.net
 chat2.binance.com
 chef.a-ads.com
 click.a-ads.com
@@ -69,10 +74,13 @@ cur.lv
 dash-bitcore1.trezor.io
 dashboard.inwemo.com
 dev.cointraffic.io
+dev.simplemining.net
+dl.bixin.im
 docs.bitfinex.com
 docs.electrum.org
 dogeminer.cc
 download.electrum.org
+download.simplemining.net
 easypc.io
 elderhash.com
 electrum.org
@@ -96,6 +104,7 @@ getbitcoin.nz
 getmonero.org
 global.binance.com
 go.cur.lv
+graphql.bixin.im
 hashcoin.io
 hashcoins.com
 hashcoins.ee
@@ -152,6 +161,7 @@ peerhash.com
 pool.emercoin.com
 pool2.emercoin.com
 preorder.trezor.io
+preprod.simplemining.net
 pricing.jaxx.io
 psychomining.de
 pubapi.bithumb.com
@@ -166,7 +176,9 @@ seed2.emercoin.com
 selfx1.typeform.com
 sftp.binance.com
 shapeshift.io
+shop.simplemining.net
 shop.trezor.io
+simplemining.net
 start.ledgerwallet.com
 static.a-ads.com
 status.trezor.io
@@ -179,6 +191,7 @@ support.bitfinex.com
 support.evergreencoin.org
 support.ledgerwallet.com
 test.ledgerwallet.com
+test.simplemining.net
 to.cur.lv
 transactions.evergreencoin.org
 trezor.io
@@ -188,6 +201,7 @@ upload.coinad.com
 us.binance.com
 utils.jaxx.io
 wallet.trezor.io
+web.bixin.im
 webdisk.antminer-store.com
 webdisk.cryptoguiminer.com
 webmail.antminer-store.com
@@ -196,6 +210,7 @@ whm.gameofbitcoins.com
 wiki.emercoin.com
 wiki.evergreencoin.org
 wiki.trezor.io
+ws.bixin.im
 ws.ledgerwallet.com
 wss.bithumb.com
 www.1safe.link
@@ -210,6 +225,7 @@ www.binance.com
 www.bitcoin.org
 www.bitfinex.com
 www.bithumb.com
+www.bixin.im
 www.chainradar.com
 www.changelly.com
 www.chat.binance.com
@@ -276,6 +292,7 @@ www.safelinkconverter.com
 www.selfx1.typeform.com
 www.sftp.binance.com
 www.shapeshift.io
+www.simplemining.net
 www.stream.binance.com
 www.stream2.binance.com
 www.superbitcoiner.com

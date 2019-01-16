@@ -55,6 +55,11 @@
             "expiration_date": "16-jun-2021",
             "state": "future"
         },
+        "bixin.im": {
+            "epoch": "1566000000",
+            "expiration_date": "17-aug-2019",
+            "state": "future"
+        },
         "btc-alpha.com": {
             "epoch": "1611532800",
             "expiration_date": "25-jan-2021",
@@ -308,6 +313,11 @@
         "shapeshift.io": {
             "epoch": "1550448000",
             "expiration_date": "18-feb-2019",
+            "state": "future"
+        },
+        "simplemining.net": {
+            "epoch": "1719792000",
+            "expiration_date": "01-jul-2024",
             "state": "future"
         },
         "superbitcoiner.com": {

@@ -46,6 +46,7 @@ api01.ledgerwallet.com
 api02.ledgerwallet.com
 api2.bitfinex.com
 api2.jaxx.io
+app.bixin.im
 app0.a-ads.com
 apps.cointraffic.io
 apps.ledgerwallet.com
@@ -53,10 +54,12 @@ apps2.cointraffic.io
 autodiscover.btc-alpha.com
 autodiscover.uclick.in
 awesomeminer.com
+aws.simplemining.net
 basicdemo.emercoin.com
 bch-bitcore2.trezor.io
 beta-wallet.trezor.io
 beta.bitfinex.com
+beta.simplemining.net
 bfgminer.org
 binance.com
 bit.cur.lv
@@ -66,6 +69,7 @@ bitcore1.trezor.io
 bitcore3.trezor.io
 bitfinex.com
 bithumb.com
+bixin.im
 blocked.mymonero.com
 blog.a-ads.com
 blog.jaxx.io
@@ -75,6 +79,7 @@ btc-alpha.com
 btc-bitcore1.trezor.io
 btc-bitcore3.trezor.io
 btc.a-ads.com
+bullet.simplemining.net
 cdn.inwemo.com
 cdn1.cryptopia.co.nz
 cdn2.inwemo.com
@@ -82,6 +87,7 @@ cex.io
 chainradar.com
 changelly.com
 chat.binance.com
+chat.simplemining.net
 chat2.binance.com
 chef.a-ads.com
 chf.a-ads.com
@@ -111,11 +117,14 @@ dash-bitcore1.trezor.io
 dashboard.inwemo.com
 dev.a-ads.com
 dev.cointraffic.io
+dev.simplemining.net
+dl.bixin.im
 docs.bitfinex.com
 docs.electrum.org
 dogeminer.cc
 download.electrum.org
 download.emercoin.com
+download.simplemining.net
 easypc.io
 elderhash.com
 electrum.org
@@ -147,6 +156,7 @@ getbitcoin.nz
 getmonero.org
 global.binance.com
 go.cur.lv
+graphql.bixin.im
 hashcoin.io
 hashcoins.com
 hashcoins.ee
@@ -164,6 +174,7 @@ inwemo.com
 iota.bitfinex.com
 jaxx.io
 joinslack.binance.com
+jp.simplemining.net
 jump.cur.lv
 jwallet.network
 kncminer.com
@@ -220,12 +231,14 @@ pandaminer.co
 parthk.co.uk
 pay.bithumb.com
 peerhash.com
+poc.simplemining.net
 pool.emercoin.com
 pool2.emercoin.com
 pools1.cryptopia.co.nz
 pools2.cryptopia.co.nz
 pop3.awesomeminer.com
 preorder.trezor.io
+preprod.simplemining.net
 pricing.jaxx.io
 psychomining.de
 pubapi.bithumb.com
@@ -242,7 +255,9 @@ seed2.emercoin.com
 selfx1.typeform.com
 sftp.binance.com
 shapeshift.io
+shop.simplemining.net
 shop.trezor.io
+simplemining.net
 smtp.awesomeminer.com
 start.ledgerwallet.com
 static.a-ads.com
@@ -257,6 +272,7 @@ support.bitfinex.com
 support.evergreencoin.org
 support.ledgerwallet.com
 test.ledgerwallet.com
+test.simplemining.net
 to.cur.lv
 transactions.evergreencoin.org
 trezor.io
@@ -267,6 +283,7 @@ upload.coinad.com
 us.binance.com
 utils.jaxx.io
 wallet.trezor.io
+web.bixin.im
 webdisk.antminer-store.com
 webdisk.api.cryptoguiminer.com
 webdisk.cryptoguiminer.com
@@ -281,6 +298,7 @@ wiki.emercoin.com
 wiki.evergreencoin.org
 wiki.trezor.io
 ws.bitfinex.com
+ws.bixin.im
 ws.ledgerwallet.com
 wss.bithumb.com
 www.1safe.link
@@ -303,6 +321,7 @@ www.bitcore1.trezor.io
 www.bitcore3.trezor.io
 www.bitfinex.com
 www.bithumb.com
+www.bixin.im
 www.blog.trezor.io
 www.btc-alpha.com
 www.btc-bitcore1.trezor.io
@@ -387,7 +406,9 @@ www.safelinkconverter.com
 www.selfx1.typeform.com
 www.sftp.binance.com
 www.shapeshift.io
+www.shop.simplemining.net
 www.shop.trezor.io
+www.simplemining.net
 www.status.trezor.io
 www.stream.binance.com
 www.stream2.binance.com

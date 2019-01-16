@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_optional_git_ZeroDot1/CoinBlockerLists.list": {
-        "1547494443": [
+        "1547667288": [
             "ad001.a-ads.com",
             "ad004.a-ads.com",
             "ad005.a-ads.com",
@@ -38,6 +38,7 @@
             "autodiscover.btc-alpha.com",
             "autodiscover.uclick.in",
             "beta.bitfinex.com",
+            "beta.simplemining.net",
             "btc.a-ads.com",
             "cdn1.cryptopia.co.nz",
             "chf.a-ads.com",
@@ -55,6 +56,7 @@
             "ftp.uclick.in",
             "i2p.emercoin.com",
             "imperiumminer.com",
+            "jp.simplemining.net",
             "lb4.a-ads.com",
             "mail2.awesomeminer.com",
             "mail.awesomeminer.com",
@@ -73,6 +75,7 @@
             "ns2.a-ads.com",
             "pandaminer.co",
             "pay.bithumb.com",
+            "poc.simplemining.net",
             "pools1.cryptopia.co.nz",
             "pools2.cryptopia.co.nz",
             "pop3.awesomeminer.com",
@@ -115,6 +118,7 @@
             "www.preorder.trezor.io",
             "www.rm.cointraffic.io",
             "www.rpc.myetherwallet.com",
+            "www.shop.simplemining.net",
             "www.shop.trezor.io",
             "www.status.trezor.io",
             "www.uclick.in",
