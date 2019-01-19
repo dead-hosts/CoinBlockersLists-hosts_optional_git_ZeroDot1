@@ -18,6 +18,7 @@ api2.bitfinex.com
 api2.jaxx.io
 app.bixin.im
 apps.ledgerwallet.com
+autodiscover.uclick.in
 awesomeminer.com
 aws.simplemining.net
 basicdemo.emercoin.com
@@ -66,6 +67,7 @@ cosigner.electrum.org
 cpanel.antminer-store.com
 cpanel.cryptoguiminer.com
 cpanel.gameofbitcoins.com
+cpanel.uclick.in
 cryptoguiminer.com
 cryptonaut.org
 cryptonotemining.org
@@ -93,12 +95,14 @@ faucethub.io
 files.a-ads.com
 files.cointraffic.io
 forminerpro.com
+forum.uclick.in
 foundry.electrum.org
 ftp.antminer-store.com
 ftp.binance.com
 ftp.gameofbitcoins.com
 ftp.inwemo.com
 ftp.mellowads.com
+ftp.uclick.in
 gameofbitcoins.com
 getbitcoin.nz
 getmonero.org
@@ -134,6 +138,7 @@ luckybits.io
 mail.antminer-store.com
 mail.coinadnet.com
 mail.cur.lv
+mail.uclick.in
 masternode-agent.com
 masternodes4everyone.com
 me.cur.lv
@@ -204,7 +209,9 @@ wallet.trezor.io
 web.bixin.im
 webdisk.antminer-store.com
 webdisk.cryptoguiminer.com
+webdisk.uclick.in
 webmail.antminer-store.com
+webmail.uclick.in
 whattomine.com
 whm.gameofbitcoins.com
 wiki.emercoin.com
@@ -298,6 +305,7 @@ www.stream2.binance.com
 www.superbitcoiner.com
 www.support.binance.com
 www.trezor.io
+www.uclick.in
 www.upcoin.com
 www.us.binance.com
 www.whattomine.com
