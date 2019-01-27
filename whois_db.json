@@ -116,8 +116,8 @@
             "state": "future"
         },
         "cryptoguiminer.com": {
-            "epoch": "1548288000",
-            "expiration_date": "24-jan-2019",
+            "epoch": "1579824000",
+            "expiration_date": "24-jan-2020",
             "state": "future"
         },
         "cryptonaut.org": {
@@ -176,8 +176,8 @@
             "state": "future"
         },
         "gameofbitcoins.com": {
-            "epoch": "1548547200",
-            "expiration_date": "27-jan-2019",
+            "epoch": "1580083200",
+            "expiration_date": "27-jan-2020",
             "state": "future"
         },
         "getmonero.org": {
@@ -321,8 +321,8 @@
             "state": "future"
         },
         "superbitcoiner.com": {
-            "epoch": "1548460800",
-            "expiration_date": "26-jan-2019",
+            "epoch": "1579996800",
+            "expiration_date": "26-jan-2020",
             "state": "future"
         },
         "trezor.io": {
