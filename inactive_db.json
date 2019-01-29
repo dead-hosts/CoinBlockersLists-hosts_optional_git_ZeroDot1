@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_optional_git_ZeroDot1/CoinBlockerLists.list": {
-        "1548704403": [
+        "1548790848": [
             "ad001.a-ads.com",
             "ad004.a-ads.com",
             "ad005.a-ads.com",
@@ -36,9 +36,11 @@
             "apps2.cointraffic.io",
             "apps.cointraffic.io",
             "autodiscover.btc-alpha.com",
+            "aws.simplemining.net",
             "beta.bitfinex.com",
             "beta.simplemining.net",
             "btc.a-ads.com",
+            "bullet.simplemining.net",
             "cdn1.cryptopia.co.nz",
             "chf.a-ads.com",
             "cpanel.imperiumminer.com",
@@ -75,6 +77,7 @@
             "pools1.cryptopia.co.nz",
             "pools2.cryptopia.co.nz",
             "pop3.awesomeminer.com",
+            "preprod.simplemining.net",
             "redmine.emercoin.com",
             "rpc.myetherwallet.com",
             "s.a-ads.com",
