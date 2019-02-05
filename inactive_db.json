@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_optional_git_ZeroDot1/CoinBlockerLists.list": {
-        "1549222915": [
+        "1549395747": [
             "ad001.a-ads.com",
             "ad004.a-ads.com",
             "ad005.a-ads.com",
@@ -40,6 +40,7 @@
             "autodiscover.btc-alpha.com",
             "aws.simplemining.net",
             "basicdemo.emercoin.com",
+            "bch-bitcore2.trezor.io",
             "beta.bitfinex.com",
             "beta.simplemining.net",
             "btc.a-ads.com",
@@ -87,6 +88,7 @@
             "mineshaft1.cryptopia.co.nz",
             "mineshaft.cryptopia.co.nz",
             "mm.a-ads.com",
+            "monero-miner.000webhostapp.com",
             "mx.peerhash.com",
             "n1.cryptopia.co.nz",
             "netvision.cryptopia.co.nz",
@@ -147,6 +149,7 @@
             "www.ltc-bitcore3.trezor.io",
             "www.ltc.cryptopia.co.nz",
             "www.miningfarmasics.com",
+            "www.monero-miner.000webhostapp.com",
             "www.old-wallet.trezor.io",
             "www.pandaminer.co",
             "www.preorder.trezor.io",
