@@ -159,7 +159,14 @@
             "www.wallet.trezor.io",
             "www.wiki.trezor.io",
             "www.zec-bitcore1.trezor.io",
-            "zec-bitcore1.trezor.io"
+            "zec-bitcore1.trezor.io",
+            "api.mycrypto.com"
+        ],
+        "1550087231": [
+            "ftp.quadrigacx.com",
+            "localhost.quadrigacx.com",
+            "www.0x.mycrypto.com",
+            "www.overflow.mycrypto.com"
         ],
         "to_test": []
     }
