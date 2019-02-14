@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_optional_git_ZeroDot1/CoinBlockerLists.list": {
-        "1550000787": [
+        "1550173649": [
             "ad001.a-ads.com",
             "ad004.a-ads.com",
             "ad005.a-ads.com",
@@ -34,6 +34,7 @@
             "api.cryptoguiminer.com",
             "api.cryptopia.co.nz",
             "api.inwemo.com",
+            "api.mycrypto.com",
             "app0.a-ads.com",
             "apps2.cointraffic.io",
             "apps.cointraffic.io",
@@ -60,6 +61,7 @@
             "ftp.awesomeminer.com",
             "ftp.imperiumminer.com",
             "ftp.miningfarmasics.com",
+            "ftp.quadrigacx.com",
             "games.cryptopia.co.nz",
             "healthbeauty.cryptopia.co.nz",
             "help.cryptopia.co.nz",
@@ -72,6 +74,7 @@
             "linfen.cryptopia.co.nz",
             "load.cryptopia.co.nz",
             "localhost.cryptopia.co.nz",
+            "localhost.quadrigacx.com",
             "ltc.cryptopia.co.nz",
             "lt.cryptopia.co.nz",
             "mail2.awesomeminer.com",
@@ -125,6 +128,7 @@
             "webmail.imperiumminer.com",
             "ws.bitfinex.com",
             "ww.cryptopia.co.nz",
+            "www.0x.mycrypto.com",
             "www1.a-ads.com",
             "www3.a-ads.com",
             "www.alpha.myetherwallet.com",
@@ -149,6 +153,7 @@
             "www.ltc.cryptopia.co.nz",
             "www.miningfarmasics.com",
             "www.old-wallet.trezor.io",
+            "www.overflow.mycrypto.com",
             "www.pandaminer.co",
             "www.preorder.trezor.io",
             "www.rm.cointraffic.io",
@@ -159,14 +164,7 @@
             "www.wallet.trezor.io",
             "www.wiki.trezor.io",
             "www.zec-bitcore1.trezor.io",
-            "zec-bitcore1.trezor.io",
-            "api.mycrypto.com"
-        ],
-        "1550087231": [
-            "ftp.quadrigacx.com",
-            "localhost.quadrigacx.com",
-            "www.0x.mycrypto.com",
-            "www.overflow.mycrypto.com"
+            "zec-bitcore1.trezor.io"
         ],
         "to_test": []
     }
