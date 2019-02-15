@@ -138,7 +138,7 @@
         "dogeminer.cc": {
             "epoch": "1550188800",
             "expiration_date": "15-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "easypc.io": {
             "epoch": "1559692800",
