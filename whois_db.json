@@ -310,6 +310,11 @@
             "expiration_date": "18-dec-2018",
             "state": "past"
         },
+        "parthk.co.uk": {
+            "epoch": "1556409600",
+            "expiration_date": "28-apr-2019",
+            "state": "future"
+        },
         "peerhash.com": {
             "epoch": "1566000000",
             "expiration_date": "17-aug-2019",
