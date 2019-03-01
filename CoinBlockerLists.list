@@ -1,4 +1,3 @@
-1safe.link
 0x.mycrypto.com
 1safe.link
 803mine.com
@@ -36,13 +35,18 @@ ad302.a-ads.com
 adc.cryptopia.co.nz
 adconity.com
 admin.adconity.com
+admin.coinmama.com
+affiliates.coinmama.com
 aimenterprise.blog21.fc2.com
 alpha.cryptopia.co.nz
 alpha.myetherwallet.com
 antminer-store.com
+api..coinmama.com
 api.binance.com
 api.bitfinex.com
 api.bithumb.com
+api.btcturk.com
+api.coinmama.com
 api.cryptoguiminer.com
 api.cryptopia.co.nz
 api.inwemo.com
@@ -60,12 +64,14 @@ app0.a-ads.com
 apps.cointraffic.io
 apps.ledgerwallet.com
 apps2.cointraffic.io
+assets.coinmama.com
 autoconfig.bitcoin-doubler.us
 autodiscover.btc-alpha.com
 autodiscover.cryptopia.co.nz
 autodiscover.uclick.in
 awesomeminer.com
 aws.simplemining.net
+babyalex.coinmama.com
 basicdemo.emercoin.com
 bch-bitcore2.trezor.io
 beta-wallet.trezor.io
@@ -93,8 +99,11 @@ btc-alpha.com
 btc-bitcore1.trezor.io
 btc-bitcore3.trezor.io
 btc.a-ads.com
+btcturk.com
 bullet.simplemining.net
 buy.mycrypto.com
+calendar.coinmama.com
+careers.coinmama.com
 cdn.inwemo.com
 cdn1.cryptopia.co.nz
 cdn2.inwemo.com
@@ -102,6 +111,7 @@ cex.io
 chainradar.com
 changelly.com
 chat.binance.com
+chat.coinmama.com
 chat.quadrigacx.com
 chat.simplemining.net
 chat2.binance.com
@@ -113,6 +123,7 @@ cloud.cryptoguiminer.com
 coinad.com
 coinadnet.com
 coincube.io
+coinmama.com
 coinmarketcap.com
 coinminerz.com
 cointraffic.io
@@ -132,12 +143,16 @@ cur.lv
 dash-bitcore1.trezor.io
 dashboard.inwemo.com
 dc.rockwall.investments
+destek.btcturk.com
+dev-xhlkashd.coinmama.com
 dev.a-ads.com
+dev.coinmama.com
 dev.cointraffic.io
 dev.quadrigacx.com
 dev.rockwall.investments
 dev.simplemining.net
 devapi.quadrigacx.com
+development.btcturk.com
 development.cryptopia.co.nz
 devtopia.cryptopia.co.nz
 devweb2.cryptopia.co.nz
@@ -165,7 +180,9 @@ event.rockwall.investments
 evergreencoin.org
 faucet.evergreencoin.org
 faucethub.io
+feedback.coinmama.com
 files.a-ads.com
+files.btcturk.com
 files.cointraffic.io
 forminerpro.com
 forum.bitcoin.org
@@ -176,6 +193,7 @@ ftp.antminer-store.com
 ftp.awesomeminer.com
 ftp.binance.com
 ftp.bitcoin-doubler.us
+ftp.coinmama.com
 ftp.gameofbitcoins.com
 ftp.imperiumminer.com
 ftp.inwemo.com
@@ -188,6 +206,7 @@ games.cryptopia.co.nz
 getbitcoin.nz
 getmonero.org
 global.binance.com
+go.coinmama.com
 go.cur.lv
 graphql.bixin.im
 hashcoin.io
@@ -219,6 +238,7 @@ jump.cur.lv
 jwallet.network
 kncminer.com
 kr.binance.com
+kriptometre.btcturk.com
 labs.binance.com
 launchpad.binance.com
 lb4.a-ads.com
@@ -230,10 +250,12 @@ links.upcoin.com
 load.cryptopia.co.nz
 localhost.cryptopia.co.nz
 localhost.quadrigacx.com
+lp.coinmama.com
 lt.cryptopia.co.nz
 ltc-bitcore3.trezor.io
 ltc.cryptopia.co.nz
 luckybits.io
+lyncdiscover.btcturk.com
 lyncdiscover.cryptopia.co.nz
 m.cryptopia.co.nz
 mail.antminer-store.com
@@ -284,6 +306,7 @@ nodes2.cryptopia.co.nz
 nostalgia.bitfinex.com
 ns2.a-ads.com
 o1.em.quadrigacx.com
+o1.mail.coinmama.com
 o2.em.quadrigacx.com
 o3.em.quadrigacx.com
 o4.em.quadrigacx.com
@@ -314,6 +337,7 @@ prelive.cryptopia.co.nz
 preorder.trezor.io
 preprod.simplemining.net
 pricing.jaxx.io
+privacy.coinmama.com
 psychomining.de
 pubapi.bithumb.com
 quadrigacx.com
@@ -330,6 +354,7 @@ s.a-ads.com
 sadmin.rockwall.investments
 safelinkconverter.com
 saml.cryptopia.co.nz
+secure.coinmama.com
 seed.emercoin.com
 seed1.emercoin.com
 seed2.emercoin.com
@@ -341,9 +366,11 @@ shop.trezor.io
 simplemining.net
 smtp.awesomeminer.com
 socket.quadrigacx.com
+staging..coinmama.com
 start.ledgerwallet.com
 static.a-ads.com
 stats.ethc.io
+status.coinmama.com
 status.trezor.io
 stream.binance.com
 stream2.binance.com
@@ -351,6 +378,7 @@ superbitcoiner.com
 support.a-ads.com
 support.binance.com
 support.bitfinex.com
+support.coinmama.com
 support.evergreencoin.org
 support.ledgerwallet.com
 support.mycrypto.com
@@ -359,10 +387,12 @@ test.cryptopia.co.nz
 test.ledgerwallet.com
 test.rockwall.investments
 test.simplemining.net
+tm.btcturk.com
 to.cur.lv
 transactions.evergreencoin.org
 trezor.io
 uclick.in
+unauthorized.btcturk.com
 unauthorized.cryptopia.co.nz
 upcoin.com
 upload.a-ads.com
@@ -370,6 +400,7 @@ upload.coinad.com
 ups.cryptopia.co.nz
 us.binance.com
 utils.jaxx.io
+vip.coinmama.com
 w.cryptopia.co.nz
 wallet.trezor.io
 web.bixin.im
@@ -383,6 +414,7 @@ webmail.imperiumminer.com
 webmail.uclick.in
 whattomine.com
 whm.gameofbitcoins.com
+widget.coinmama.com
 wiki.emercoin.com
 wiki.evergreencoin.org
 wiki.trezor.io
@@ -420,6 +452,8 @@ www.blog.trezor.io
 www.btc-alpha.com
 www.btc-bitcore1.trezor.io
 www.btc-bitcore3.trezor.io
+www.btcturk.com
+www.careers.coinmama.com
 www.chainradar.com
 www.changelly.com
 www.chat.binance.com
@@ -428,6 +462,7 @@ www.cloud.cryptoguiminer.com
 www.coinad.com
 www.coinadnet.com
 www.coincube.io
+www.coinmama.com
 www.coinmarketcap.com
 www.coinminerz.com
 www.cointraffic.io
@@ -457,6 +492,7 @@ www.gameofbitcoins.com
 www.getbitcoin.nz
 www.getmonero.org
 www.global.binance.com
+www.go.coinmama.com
 www.hashcoin.io
 www.hashcoins.com
 www.hashcoins.ee
