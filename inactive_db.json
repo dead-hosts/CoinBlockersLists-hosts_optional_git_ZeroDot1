@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_optional_git_ZeroDot1/CoinBlockerLists.list": {
-        "1551470245": [
+        "1551642969": [
             "ad001.a-ads.com",
             "ad004.a-ads.com",
             "ad005.a-ads.com",
@@ -60,6 +60,7 @@
             "dev.coinmama.com",
             "development.btcturk.com",
             "devweb2.cryptopia.co.nz",
+            "dev-xhlkashd.coinmama.com",
             "disney.cryptopia.co.nz",
             "doge.cryptopia.co.nz",
             "download.emercoin.com",
