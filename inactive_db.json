@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_optional_git_ZeroDot1/CoinBlockerLists.list": {
-        "1551815860": [
+        "1551902319": [
             "ad001.a-ads.com",
             "ad004.a-ads.com",
             "ad005.a-ads.com",
@@ -104,6 +104,7 @@
             "n1.cryptopia.co.nz",
             "netvision.cryptopia.co.nz",
             "network.cryptopia.co.nz",
+            "next.btc-alpha.com",
             "nodes1.cryptopia.co.nz",
             "nodes2.cryptopia.co.nz",
             "nostalgia.bitfinex.com",
