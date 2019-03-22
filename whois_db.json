@@ -188,7 +188,7 @@
         "forminerpro.com": {
             "epoch": "1553212800",
             "expiration_date": "22-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "gameofbitcoins.com": {
             "epoch": "1580083200",
