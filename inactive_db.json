@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_optional_git_ZeroDot1/CoinBlockerLists.list": {
-        "1554581769": [
+        "1554754783": [
             "ad.s.a-ads.com",
             "ad001.a-ads.com",
             "ad004.a-ads.com",
@@ -37,6 +37,7 @@
             "api.cryptopia.co.nz",
             "api.inwemo.com",
             "api.mycrypto.com",
+            "api1.bithumb.com",
             "api2.bitfinex.com",
             "app0.a-ads.com",
             "apps.cointraffic.io",
@@ -76,6 +77,7 @@
             "honeypot.cryptopia.co.nz",
             "i2p.emercoin.com",
             "imperiumminer.com",
+            "infra2.bithumb.com",
             "investor.cryptopia.co.nz",
             "jira.cryptopia.co.nz",
             "jp.simplemining.net",
@@ -83,7 +85,6 @@
             "linfen.cryptopia.co.nz",
             "load.cryptopia.co.nz",
             "localhost.cryptopia.co.nz",
-            "localhost.quadrigacx.com",
             "lt.cryptopia.co.nz",
             "ltc-bitcore3.trezor.io",
             "ltc.cryptopia.co.nz",
@@ -122,6 +123,7 @@
             "pport.cryptopia.co.nz",
             "prelive.cryptopia.co.nz",
             "preprod.simplemining.net",
+            "rc.bithumb.com",
             "redmine.emercoin.com",
             "rpc.myetherwallet.com",
             "ru.cryptopia.co.nz",
@@ -144,6 +146,7 @@
             "widget.coinmama.com",
             "wiki.emercoin.com",
             "ws.bitfinex.com",
+            "wss1.bithumb.com",
             "ww.cryptopia.co.nz",
             "www.0x.mycrypto.com",
             "www.alpha.myetherwallet.com",
@@ -171,6 +174,7 @@
             "www.old-wallet.trezor.io",
             "www.overflow.mycrypto.com",
             "www.pandaminer.co",
+            "www.pay.bithumb.com",
             "www.preorder.trezor.io",
             "www.rm.cointraffic.io",
             "www.rpc.myetherwallet.com",
@@ -181,6 +185,7 @@
             "www.wiki.trezor.io",
             "www.zec-bitcore1.trezor.io",
             "www1.a-ads.com",
+            "www1.bithumb.com",
             "www3.a-ads.com",
             "zec-bitcore1.trezor.io"
         ],
