@@ -280,6 +280,11 @@
             "expiration_date": "03-mar-2020",
             "state": "future"
         },
+        "miner.hosting": {
+            "epoch": "1562198400",
+            "expiration_date": "04-jul-2019",
+            "state": "future"
+        },
         "minerboard.com": {
             "epoch": "1603152000",
             "expiration_date": "20-oct-2020",
