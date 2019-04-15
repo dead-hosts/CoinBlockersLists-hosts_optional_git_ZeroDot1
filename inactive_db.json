@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_optional_git_ZeroDot1/CoinBlockerLists.list": {
-        "1555186831": [
+        "1555359688": [
             "ad.s.a-ads.com",
             "ad001.a-ads.com",
             "ad004.a-ads.com",
@@ -49,6 +49,7 @@
             "bch-bitcore2.trezor.io",
             "beta.bitfinex.com",
             "beta.simplemining.net",
+            "bng.btc-alpha.com",
             "btc.a-ads.com",
             "bullet.simplemining.net",
             "calendar.coinmama.com",
