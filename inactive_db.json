@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_optional_git_ZeroDot1/CoinBlockerLists.list": {
-        "1555359688": [
+        "1555532541": [
             "ad.s.a-ads.com",
             "ad001.a-ads.com",
             "ad004.a-ads.com",
@@ -57,11 +57,13 @@
             "chat.coinmama.com",
             "chf.a-ads.com",
             "cpanel.imperiumminer.com",
+            "cpanel.support.hashgains.com",
             "dash-bitcore1.trezor.io",
             "dev-xhlkashd.coinmama.com",
             "dev.a-ads.com",
             "dev.coinmama.com",
             "development.btcturk.com",
+            "devtopia.cryptopia.co.nz",
             "devweb2.cryptopia.co.nz",
             "disney.cryptopia.co.nz",
             "doge.cryptopia.co.nz",
@@ -69,6 +71,7 @@
             "forum.bitcoin.org",
             "ftp.adconity.com",
             "ftp.awesomeminer.com",
+            "ftp.hashgains.com",
             "ftp.imperiumminer.com",
             "ftp.miningfarmasics.com",
             "ftp.quadrigacx.com",
@@ -104,6 +107,7 @@
             "mineshaft.cryptopia.co.nz",
             "mineshaft1.cryptopia.co.nz",
             "mm.a-ads.com",
+            "mta82.hashgains.com",
             "mx.peerhash.com",
             "n1.cryptopia.co.nz",
             "netvision.cryptopia.co.nz",
@@ -141,6 +145,9 @@
             "upload.a-ads.com",
             "ups.cryptopia.co.nz",
             "w.cryptopia.co.nz",
+            "web3.hashgains.com",
+            "web4.hashgains.com",
+            "web5.hashgains.com",
             "webdisk.api.cryptoguiminer.com",
             "webmail.awesomeminer.com",
             "webmail.imperiumminer.com",
