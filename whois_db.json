@@ -213,7 +213,7 @@
         "hashcoin.io": {
             "epoch": "1557014400",
             "expiration_date": "05-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "hashcoins.com": {
             "epoch": "1639180800",
