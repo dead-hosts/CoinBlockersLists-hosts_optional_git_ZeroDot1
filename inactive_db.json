@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_optional_git_ZeroDot1/CoinBlockerLists.list": {
-        "1557693520": [
+        "1557866361": [
             "ad.s.a-ads.com",
             "ad001.a-ads.com",
             "ad004.a-ads.com",
@@ -69,6 +69,7 @@
             "disney.cryptopia.co.nz",
             "doge.cryptopia.co.nz",
             "event.btc-alpha.com",
+            "files.btcturk.com",
             "forum.bitcoin.org",
             "ftp.adconity.com",
             "ftp.awesomeminer.com",
