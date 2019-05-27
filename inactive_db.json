@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_optional_git_ZeroDot1/CoinBlockerLists.list": {
-        "1558817048": [
+        "1558989910": [
             "ad.s.a-ads.com",
             "ad001.a-ads.com",
             "ad004.a-ads.com",
@@ -32,7 +32,6 @@
             "admin.adconity.com",
             "admin.coinmama.com",
             "alpha.myetherwallet.com",
-            "api..coinmama.com",
             "api.cryptoguiminer.com",
             "api.cryptopia.co.nz",
             "api.inwemo.com",
@@ -139,7 +138,6 @@
             "saml.cryptopia.co.nz",
             "secure.coinmama.com",
             "smtp.awesomeminer.com",
-            "staging..coinmama.com",
             "stats.ethc.io",
             "status.coinmama.com",
             "tm.btcturk.com",
@@ -202,6 +200,9 @@
             "www3.a-ads.com",
             "zec-bitcore1.trezor.io"
         ],
-        "to_test": []
+        "to_test": [
+            "api..coinmama.com",
+            "staging..coinmama.com"
+        ]
     }
 }
