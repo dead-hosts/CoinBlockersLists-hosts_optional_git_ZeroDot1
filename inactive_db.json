@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_optional_git_ZeroDot1/CoinBlockerLists.list": {
-        "1559767721": [
+        "1559940547": [
             "ad.s.a-ads.com",
             "ad001.a-ads.com",
             "ad004.a-ads.com",
@@ -69,7 +69,6 @@
             "doge.cryptopia.co.nz",
             "event.btc-alpha.com",
             "files.btcturk.com",
-            "forum.bitcoin.org",
             "ftp.adconity.com",
             "ftp.awesomeminer.com",
             "ftp.bitcoin-doubler.us",
@@ -96,12 +95,6 @@
             "ltc-bitcore3.trezor.io",
             "ltc.cryptopia.co.nz",
             "m.cryptopia.co.nz",
-            "mail.awesomeminer.com",
-            "mail.imperiumminer.com",
-            "mail.miningfarmasics.com",
-            "mail.mymonero.com",
-            "mail.peerhash.com",
-            "mail2.awesomeminer.com",
             "management.cryptopia.co.nz",
             "mars.cryptopia.co.nz",
             "mike.cryptopia.co.nz",
@@ -118,6 +111,7 @@
             "nodes2.cryptopia.co.nz",
             "nostalgia.bitfinex.com",
             "ns2.a-ads.com",
+            "o1.coinmama.com",
             "office.cryptopia.co.nz",
             "parners.cryptopia.co.nz",
             "parthk.co.uk",
@@ -137,7 +131,6 @@
             "s.a-ads.com",
             "saml.cryptopia.co.nz",
             "secure.coinmama.com",
-            "smtp.awesomeminer.com",
             "stats.ethc.io",
             "status.coinmama.com",
             "tm.btcturk.com",
@@ -150,8 +143,6 @@
             "web4.hashgains.com",
             "web5.hashgains.com",
             "webdisk.api.cryptoguiminer.com",
-            "webmail.awesomeminer.com",
-            "webmail.imperiumminer.com",
             "widget.coinmama.com",
             "wiki.emercoin.com",
             "ws.bitfinex.com",
@@ -167,14 +158,12 @@
             "www.bitcoin-doubler.us",
             "www.bitcore1.trezor.io",
             "www.bitcore3.trezor.io",
-            "www.blog.trezor.io",
             "www.btc-bitcore1.trezor.io",
             "www.btc-bitcore3.trezor.io",
             "www.connect.trezor.io",
             "www.dash-bitcore1.trezor.io",
             "www.files.cointraffic.io",
             "www.forminerpro.com",
-            "www.forum.bitcoin.org",
             "www.getbitcoin.nz",
             "www.go.coinmama.com",
             "www.ico.icerockmining.io",
@@ -196,13 +185,25 @@
             "www.wiki.trezor.io",
             "www.zec-bitcore1.trezor.io",
             "www1.a-ads.com",
-            "www1.bithumb.com",
             "www3.a-ads.com",
             "zec-bitcore1.trezor.io"
         ],
         "to_test": [
             "api..coinmama.com",
-            "staging..coinmama.com"
+            "forum.bitcoin.org",
+            "mail.awesomeminer.com",
+            "mail.imperiumminer.com",
+            "mail.miningfarmasics.com",
+            "mail.mymonero.com",
+            "mail.peerhash.com",
+            "mail2.awesomeminer.com",
+            "smtp.awesomeminer.com",
+            "staging..coinmama.com",
+            "webmail.awesomeminer.com",
+            "webmail.imperiumminer.com",
+            "www.blog.trezor.io",
+            "www.forum.bitcoin.org",
+            "www1.bithumb.com"
         ]
     }
 }
