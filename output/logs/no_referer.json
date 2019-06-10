@@ -1,122 +1,18 @@
 {
-    "1560026964.0793512": {
-        "domain": "1safe.link",
-        "extension": "link"
+    "1560199842.6950805": {
+        "domain": "autoconfig.bitcoin-doubler.us",
+        "extension": "us"
     },
-    "1560026977.3024583": {
-        "domain": "app.bixin.im",
-        "extension": "im"
+    "1560199845.7853749": {
+        "domain": "bitcoin-doubler.us",
+        "extension": "us"
     },
-    "1560026985.9644747": {
-        "domain": "bixin.im",
-        "extension": "im"
+    "1560199924.984685": {
+        "domain": "ftp.bitcoin-doubler.us",
+        "extension": "us"
     },
-    "1560027009.5659657": {
-        "domain": "dc.rockwall.investments",
-        "extension": "investments"
-    },
-    "1560027016.36658": {
-        "domain": "dev.rockwall.investments",
-        "extension": "investments"
-    },
-    "1560027020.7152934": {
-        "domain": "dl.bixin.im",
-        "extension": "im"
-    },
-    "1560027021.3945994": {
-        "domain": "dns3.rockwall.investments",
-        "extension": "investments"
-    },
-    "1560027022.873606": {
-        "domain": "dogeminer.cc",
-        "extension": "cc"
-    },
-    "1560027023.6681328": {
-        "domain": "domainkey.rockwall.investments",
-        "extension": "investments"
-    },
-    "1560027055.2835517": {
-        "domain": "event.rockwall.investments",
-        "extension": "investments"
-    },
-    "1560027068.4692948": {
-        "domain": "graphql.bixin.im",
-        "extension": "im"
-    },
-    "1560027080.7475963": {
-        "domain": "io.rockwall.investments",
-        "extension": "investments"
-    },
-    "1560027096.8082776": {
-        "domain": "mike.rockwall.investments",
-        "extension": "investments"
-    },
-    "1560027098.047675": {
-        "domain": "miner.hosting",
-        "extension": "hosting"
-    },
-    "1560027101.2032404": {
-        "domain": "minneapolis.rockwall.investments",
-        "extension": "investments"
-    },
-    "1560027151.6075697": {
-        "domain": "parthk.co.uk",
-        "extension": "uk"
-    },
-    "1560027171.4365473": {
-        "domain": "rockwall.investments",
-        "extension": "investments"
-    },
-    "1560027175.5573297": {
-        "domain": "sadmin.rockwall.investments",
-        "extension": "investments"
-    },
-    "1560027232.4494338": {
-        "domain": "test.rockwall.investments",
-        "extension": "investments"
-    },
-    "1560027234.1891296": {
-        "domain": "tradewin.online",
-        "extension": "online"
-    },
-    "1560027249.008802": {
-        "domain": "web.bixin.im",
-        "extension": "im"
-    },
-    "1560027256.749346": {
-        "domain": "ws.bixin.im",
-        "extension": "im"
-    },
-    "1560027258.808054": {
-        "domain": "www.1safe.link",
-        "extension": "link"
-    },
-    "1560027266.1760514": {
-        "domain": "www.bixin.im",
-        "extension": "im"
-    },
-    "1560027273.4406624": {
-        "domain": "www.dogeminer.cc",
-        "extension": "cc"
-    },
-    "1560027278.3716004": {
-        "domain": "www.event.rockwall.investments",
-        "extension": "investments"
-    },
-    "1560027287.6245637": {
-        "domain": "www.miner.hosting",
-        "extension": "hosting"
-    },
-    "1560027293.9764202": {
-        "domain": "www.parthk.co.uk",
-        "extension": "uk"
-    },
-    "1560027297.7498686": {
-        "domain": "www.rockwall.investments",
-        "extension": "investments"
-    },
-    "1560027301.8147922": {
-        "domain": "www.tradewin.online",
-        "extension": "online"
+    "1560200144.0442572": {
+        "domain": "www.bitcoin-doubler.us",
+        "extension": "us"
     }
 }

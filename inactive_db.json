@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_optional_git_ZeroDot1/CoinBlockerLists.list": {
-        "1560026966": [
+        "1560199829": [
             "ad.s.a-ads.com",
             "ad001.a-ads.com",
             "ad004.a-ads.com",
@@ -49,6 +49,7 @@
             "bch-bitcore2.trezor.io",
             "beta.bitfinex.com",
             "beta.simplemining.net",
+            "bitcoin-doubler.us",
             "bng.btc-alpha.com",
             "btc.a-ads.com",
             "bullet.simplemining.net",
@@ -114,7 +115,6 @@
             "o1.coinmama.com",
             "office.cryptopia.co.nz",
             "parners.cryptopia.co.nz",
-            "parthk.co.uk",
             "pay.bithumb.com",
             "poc.simplemining.net",
             "pools.cryptopia.co.nz",
@@ -197,6 +197,7 @@
             "mail.mymonero.com",
             "mail.peerhash.com",
             "mail2.awesomeminer.com",
+            "parthk.co.uk",
             "smtp.awesomeminer.com",
             "staging..coinmama.com",
             "webmail.awesomeminer.com",
