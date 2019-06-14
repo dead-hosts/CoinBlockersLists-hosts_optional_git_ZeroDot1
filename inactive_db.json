@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_optional_git_ZeroDot1/CoinBlockerLists.list": {
-        "1560459107": [
+        "1560545565": [
             "ad.s.a-ads.com",
             "ad001.a-ads.com",
             "ad004.a-ads.com",
@@ -163,7 +163,6 @@
             "www.connect.trezor.io",
             "www.dash-bitcore1.trezor.io",
             "www.files.cointraffic.io",
-            "www.forminerpro.com",
             "www.getbitcoin.nz",
             "www.go.coinmama.com",
             "www.ico.icerockmining.io",
@@ -203,6 +202,7 @@
             "webmail.awesomeminer.com",
             "webmail.imperiumminer.com",
             "www.blog.trezor.io",
+            "www.forminerpro.com",
             "www.forum.bitcoin.org",
             "www1.bithumb.com"
         ]
