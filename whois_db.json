@@ -370,9 +370,9 @@
         "state": "future"
     },
     "safelinkconverter.com": {
-        "epoch": "1560729600",
+        "epoch": 1560729600,
         "expiration_date": "17-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "shapeshift.io": {
         "epoch": "1708214400",
