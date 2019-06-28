@@ -6,7 +6,8 @@
         "1561064792": {},
         "1561237821": {},
         "1561410757": {},
-        "1561583010": {
+        "1561583010": {},
+        "1561756051": {
             "ad.s.a-ads.com": "INACTIVE",
             "ad001.a-ads.com": "INACTIVE",
             "ad004.a-ads.com": "INACTIVE",
@@ -64,6 +65,7 @@
             "cdn1.cryptopia.co.nz": "INACTIVE",
             "chat.coinmama.com": "INACTIVE",
             "chf.a-ads.com": "INACTIVE",
+            "cosigner.electrum.org": "INACTIVE",
             "cpanel.imperiumminer.com": "INACTIVE",
             "cpanel.support.hashgains.com": "INACTIVE",
             "dash-bitcore1.trezor.io": "INACTIVE",
@@ -78,6 +80,7 @@
             "event.btc-alpha.com": "INACTIVE",
             "files.btcturk.com": "INACTIVE",
             "forum.bitcoin.org": "INACTIVE",
+            "foundry.electrum.org": "INACTIVE",
             "ftp.adconity.com": "INACTIVE",
             "ftp.awesomeminer.com": "INACTIVE",
             "ftp.bitcoin-doubler.us": "INACTIVE",
@@ -86,6 +89,7 @@
             "ftp.miningfarmasics.com": "INACTIVE",
             "ftp.quadrigacx.com": "INACTIVE",
             "games.cryptopia.co.nz": "INACTIVE",
+            "headers.electrum.org": "INACTIVE",
             "healthbeauty.cryptopia.co.nz": "INACTIVE",
             "help.cryptopia.co.nz": "INACTIVE",
             "honeypot.cryptopia.co.nz": "INACTIVE",
