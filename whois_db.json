@@ -85,9 +85,9 @@
         "state": "future"
     },
     "cex.io": {
-        "epoch": "1561852800",
+        "epoch": 1561852800,
         "expiration_date": "30-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "chainradar.com": {
         "epoch": "1563753600",
