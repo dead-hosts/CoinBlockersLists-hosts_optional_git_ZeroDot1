@@ -10,8 +10,8 @@
         "state": "future"
     },
     "a-ads.com": {
-        "epoch": "1562457600",
-        "expiration_date": "07-jul-2019",
+        "epoch": 1594080000,
+        "expiration_date": "07-jul-2020",
         "state": "future"
     },
     "adconity.com": {
@@ -387,6 +387,11 @@
     "superbitcoiner.com": {
         "epoch": "1579996800",
         "expiration_date": "26-jan-2020",
+        "state": "future"
+    },
+    "tradewin.online": {
+        "epoch": 1695513600,
+        "expiration_date": "24-sep-2023",
         "state": "future"
     },
     "trezor.io": {
