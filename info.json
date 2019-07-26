@@ -5,7 +5,7 @@
     "commit_autosave_message": "Test of CoinBlockerLists (hosts_optional)",
     "currently_under_test": "0",
     "days_until_next_test": "0",
-    "last_test": "1564089612",
+    "last_test": "1564175986",
     "list_name": "CoinBlockerLists.list",
     "name": "CoinBlockerLists",
     "ping": [],
