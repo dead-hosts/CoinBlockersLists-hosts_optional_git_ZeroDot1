@@ -229,6 +229,9 @@
             "www1.a-ads.com": "INACTIVE",
             "www3.a-ads.com": "INACTIVE",
             "zec-bitcore1.trezor.io": "INACTIVE"
+        },
+        "1564521730": {
+            "www.cryptonaut.org": "INACTIVE"
         }
     }
 }
