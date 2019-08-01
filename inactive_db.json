@@ -23,7 +23,9 @@
         "1563916693": {},
         "1564089578": {},
         "1564262420": {},
-        "1564435141": {
+        "1564435141": {},
+        "1564521730": {},
+        "1564694649": {
             "ad.s.a-ads.com": "INACTIVE",
             "ad001.a-ads.com": "INACTIVE",
             "ad004.a-ads.com": "INACTIVE",
@@ -149,7 +151,6 @@
             "o1.coinmama.com": "INACTIVE",
             "office.cryptopia.co.nz": "INACTIVE",
             "parners.cryptopia.co.nz": "INACTIVE",
-            "parthk.co.uk": "INACTIVE",
             "pay.bithumb.com": "INACTIVE",
             "poc.simplemining.net": "INACTIVE",
             "pools.cryptopia.co.nz": "INACTIVE",
@@ -229,9 +230,6 @@
             "www1.a-ads.com": "INACTIVE",
             "www3.a-ads.com": "INACTIVE",
             "zec-bitcore1.trezor.io": "INACTIVE"
-        },
-        "1564521730": {
-            "www.cryptonaut.org": "INACTIVE"
         }
     }
 }

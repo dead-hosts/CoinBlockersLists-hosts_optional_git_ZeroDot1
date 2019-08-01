@@ -345,9 +345,9 @@
         "state": "future"
     },
     "parthk.co.uk": {
-        "epoch": 1556409600,
-        "expiration_date": "28-apr-2019",
-        "state": "past"
+        "epoch": 1596067200,
+        "expiration_date": "30-jul-2020",
+        "state": "future"
     },
     "peerhash.com": {
         "epoch": "1566000000",
