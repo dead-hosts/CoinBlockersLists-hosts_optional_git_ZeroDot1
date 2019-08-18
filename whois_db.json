@@ -70,8 +70,8 @@
         "state": "future"
     },
     "bixin.im": {
-        "epoch": "1566000000",
-        "expiration_date": "17-aug-2019",
+        "epoch": 1597708800,
+        "expiration_date": "18-aug-2020",
         "state": "future"
     },
     "btc-alpha.com": {
@@ -260,8 +260,8 @@
         "state": "future"
     },
     "jwallet.network": {
-        "epoch": "1566000000",
-        "expiration_date": "17-aug-2019",
+        "epoch": 1597622400,
+        "expiration_date": "17-aug-2020",
         "state": "future"
     },
     "kncminer.com": {
@@ -350,8 +350,8 @@
         "state": "future"
     },
     "peerhash.com": {
-        "epoch": "1566000000",
-        "expiration_date": "17-aug-2019",
+        "epoch": 1597622400,
+        "expiration_date": "17-aug-2020",
         "state": "future"
     },
     "quadrigacx.com": {

@@ -237,7 +237,8 @@
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_optional_git_ZeroDot1/domains.list": {
         "1565614968": {},
         "1565731741": {},
-        "1565991012": {
+        "1565991012": {},
+        "1566143431": {
             "ad.s.a-ads.com": "INACTIVE",
             "ad001.a-ads.com": "INACTIVE",
             "ad004.a-ads.com": "INACTIVE",
@@ -404,7 +405,6 @@
             "www.connect.trezor.io": "INACTIVE",
             "www.dash-bitcore1.trezor.io": "INACTIVE",
             "www.files.cointraffic.io": "INACTIVE",
-            "www.forminerpro.com": "INACTIVE",
             "www.getbitcoin.nz": "INACTIVE",
             "www.go.coinmama.com": "INACTIVE",
             "www.hashcoin.io": "INACTIVE",
