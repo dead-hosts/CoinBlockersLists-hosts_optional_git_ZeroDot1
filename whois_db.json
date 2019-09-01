@@ -255,9 +255,9 @@
         "state": "future"
     },
     "jaxx.io": {
-        "epoch": "1567296000",
+        "epoch": 1567296000,
         "expiration_date": "01-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "jwallet.network": {
         "epoch": 1597622400,
