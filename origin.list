@@ -3,7 +3,7 @@
 # Description: This list disables browser based miners such as coin-hive
 # Donate: http://bit.ly/CBLDonate Every donation keeps the future development going. Thank you.
 # Homepage: https://github.com/ZeroDot1/CoinBlockerLists
-# Last modified: 2019-06-06 13:14
+# Last modified: 2019-09-10 03:34:13
 # License: https://gitlab.io/ZeroDot1/CoinBlockerLists/LICENSE
 # [CoinBlocker hosts List optional by ZeroDot1]
 0.0.0.0 0x.mycrypto.com
@@ -278,6 +278,8 @@
 0.0.0.0 lb4.a-ads.com
 0.0.0.0 ledgerwallet.com
 0.0.0.0 legacy.mycrypto.com
+0.0.0.0 lightning.network
+0.0.0.0 lightninginabox.co
 0.0.0.0 linfen.cryptopia.co.nz
 0.0.0.0 link.cur.lv
 0.0.0.0 links.upcoin.com
@@ -566,6 +568,8 @@
 0.0.0.0 www.labs.binance.com
 0.0.0.0 www.launchpad.binance.com
 0.0.0.0 www.ledgerwallet.com
+0.0.0.0 www.lightning.network
+0.0.0.0 www.lightninginabox.co
 0.0.0.0 www.ltc-bitcore3.trezor.io
 0.0.0.0 www.ltc.cryptopia.co.nz
 0.0.0.0 www.luckybits.io

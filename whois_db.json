@@ -135,8 +135,8 @@
         "state": "future"
     },
     "coinzilla.io": {
-        "epoch": "1568160000",
-        "expiration_date": "11-sep-2019",
+        "epoch": 1599782400,
+        "expiration_date": "11-sep-2020",
         "state": "future"
     },
     "cryptoguiminer.com": {
@@ -272,6 +272,16 @@
     "ledgerwallet.com": {
         "epoch": "1598918400",
         "expiration_date": "01-sep-2020",
+        "state": "future"
+    },
+    "lightning.network": {
+        "epoch": 1582243200,
+        "expiration_date": "21-feb-2020",
+        "state": "future"
+    },
+    "lightninginabox.co": {
+        "epoch": 1594425600,
+        "expiration_date": "11-jul-2020",
         "state": "future"
     },
     "luckybits.io": {
