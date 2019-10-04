@@ -262,18 +262,6 @@
         "1569620832": {},
         "1569793695": {},
         "1569966838": {
-            "office.cryptopia.co.nz": "INACTIVE",
-            "parners.cryptopia.co.nz": "INACTIVE",
-            "pay.bithumb.com": "INACTIVE",
-            "poc.simplemining.net": "INACTIVE",
-            "pools.cryptopia.co.nz": "INACTIVE",
-            "pools1.cryptopia.co.nz": "INACTIVE",
-            "pools2.cryptopia.co.nz": "INACTIVE",
-            "pop3.awesomeminer.com": "INACTIVE",
-            "pport.cryptopia.co.nz": "INACTIVE",
-            "prelive.cryptopia.co.nz": "INACTIVE",
-            "preprod.simplemining.net": "INACTIVE",
-            "rc.bithumb.com": "INACTIVE",
             "redmine.emercoin.com": "INACTIVE",
             "rm.cointraffic.io": "INACTIVE",
             "rpc.myetherwallet.com": "INACTIVE",
@@ -461,7 +449,19 @@
             "nodes2.cryptopia.co.nz": "INACTIVE",
             "nostalgia.bitfinex.com": "INACTIVE",
             "ns2.a-ads.com": "INACTIVE",
-            "o1.coinmama.com": "INACTIVE"
+            "o1.coinmama.com": "INACTIVE",
+            "office.cryptopia.co.nz": "INACTIVE",
+            "parners.cryptopia.co.nz": "INACTIVE",
+            "pay.bithumb.com": "INACTIVE",
+            "poc.simplemining.net": "INACTIVE",
+            "pools.cryptopia.co.nz": "INACTIVE",
+            "pools1.cryptopia.co.nz": "INACTIVE",
+            "pools2.cryptopia.co.nz": "INACTIVE",
+            "pop3.awesomeminer.com": "INACTIVE",
+            "pport.cryptopia.co.nz": "INACTIVE",
+            "prelive.cryptopia.co.nz": "INACTIVE",
+            "preprod.simplemining.net": "INACTIVE",
+            "rc.bithumb.com": "INACTIVE"
         }
     }
 }
