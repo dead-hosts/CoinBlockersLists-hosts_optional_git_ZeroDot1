@@ -303,7 +303,9 @@
             "vip.coinmama.com",
             "waiting.bithumb.com",
             "wallet.trezor.io",
-            "web1.hashgains.com"
+            "web1.hashgains.com",
+            "web2.hashgains.com",
+            "web6.hashgains.com"
         ],
         "INACTIVE": [
             "ad001.a-ads.com",
@@ -455,7 +457,10 @@
             "unauthorized.cryptopia.co.nz",
             "upload.a-ads.com",
             "ups.cryptopia.co.nz",
-            "w.cryptopia.co.nz"
+            "w.cryptopia.co.nz",
+            "web3.hashgains.com",
+            "web4.hashgains.com",
+            "web5.hashgains.com"
         ]
     }
 }
