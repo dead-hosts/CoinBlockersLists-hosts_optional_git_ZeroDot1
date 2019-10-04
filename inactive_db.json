@@ -262,16 +262,6 @@
         "1569620832": {},
         "1569793695": {},
         "1569966838": {
-            "redmine.emercoin.com": "INACTIVE",
-            "rm.cointraffic.io": "INACTIVE",
-            "rpc.myetherwallet.com": "INACTIVE",
-            "ru.cryptopia.co.nz": "INACTIVE",
-            "s.a-ads.com": "INACTIVE",
-            "sadmin.rockwall.investments": "INACTIVE",
-            "saml.cryptopia.co.nz": "INACTIVE",
-            "secure.coinmama.com": "INACTIVE",
-            "stats.ethc.io": "INACTIVE",
-            "status.coinmama.com": "INACTIVE",
             "test.rockwall.investments": "INACTIVE",
             "tm.btcturk.com": "INACTIVE",
             "unauthorized.btcturk.com": "INACTIVE",
@@ -461,7 +451,17 @@
             "pport.cryptopia.co.nz": "INACTIVE",
             "prelive.cryptopia.co.nz": "INACTIVE",
             "preprod.simplemining.net": "INACTIVE",
-            "rc.bithumb.com": "INACTIVE"
+            "rc.bithumb.com": "INACTIVE",
+            "redmine.emercoin.com": "INACTIVE",
+            "rm.cointraffic.io": "INACTIVE",
+            "rpc.myetherwallet.com": "INACTIVE",
+            "ru.cryptopia.co.nz": "INACTIVE",
+            "s.a-ads.com": "INACTIVE",
+            "sadmin.rockwall.investments": "INACTIVE",
+            "saml.cryptopia.co.nz": "INACTIVE",
+            "secure.coinmama.com": "INACTIVE",
+            "stats.ethc.io": "INACTIVE",
+            "status.coinmama.com": "INACTIVE"
         }
     }
 }
