@@ -262,8 +262,6 @@
         "1569620832": {},
         "1569793695": {},
         "1569966838": {
-            "doge.cryptopia.co.nz": "INACTIVE",
-            "domainkey.rockwall.investments": "INACTIVE",
             "event.btc-alpha.com": "INACTIVE",
             "event.rockwall.investments": "INACTIVE",
             "files.btcturk.com": "INACTIVE",
@@ -461,7 +459,9 @@
             "devtopia.cryptopia.co.nz": "INACTIVE",
             "devweb2.cryptopia.co.nz": "INACTIVE",
             "disney.cryptopia.co.nz": "INACTIVE",
-            "dns3.rockwall.investments": "INACTIVE"
+            "dns3.rockwall.investments": "INACTIVE",
+            "doge.cryptopia.co.nz": "INACTIVE",
+            "domainkey.rockwall.investments": "INACTIVE"
         }
     }
 }

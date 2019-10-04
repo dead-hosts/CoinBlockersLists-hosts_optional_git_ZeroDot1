@@ -104,7 +104,19 @@
             "dev.simplemining.net",
             "dl.bixin.im",
             "docs.bitfinex.com",
-            "docs.electrum.org"
+            "docs.electrum.org",
+            "dogeminer.cc",
+            "download.electrum.org",
+            "download.emercoin.com",
+            "download.mycrypto.com",
+            "download.simplemining.net",
+            "easypc.io",
+            "elderhash.com",
+            "electrum.org",
+            "emercoin.com",
+            "em.quadrigacx.com",
+            "ems01.bithumb.com",
+            "ems02.bithumb.com"
         ],
         "INACTIVE": [
             "ad001.a-ads.com",
@@ -173,7 +185,9 @@
             "devweb2.cryptopia.co.nz",
             "dev-xhlkashd.coinmama.com",
             "disney.cryptopia.co.nz",
-            "dns3.rockwall.investments"
+            "dns3.rockwall.investments",
+            "doge.cryptopia.co.nz",
+            "domainkey.rockwall.investments"
         ]
     }
 }
