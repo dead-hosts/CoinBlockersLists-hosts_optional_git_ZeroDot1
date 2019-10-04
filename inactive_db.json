@@ -262,11 +262,6 @@
         "1569620832": {},
         "1569793695": {},
         "1569966838": {
-            "nodes1.cryptopia.co.nz": "INACTIVE",
-            "nodes2.cryptopia.co.nz": "INACTIVE",
-            "nostalgia.bitfinex.com": "INACTIVE",
-            "ns2.a-ads.com": "INACTIVE",
-            "o1.coinmama.com": "INACTIVE",
             "office.cryptopia.co.nz": "INACTIVE",
             "parners.cryptopia.co.nz": "INACTIVE",
             "pay.bithumb.com": "INACTIVE",
@@ -461,7 +456,12 @@
             "mx.peerhash.com": "INACTIVE",
             "n1.cryptopia.co.nz": "INACTIVE",
             "netvision.cryptopia.co.nz": "INACTIVE",
-            "network.cryptopia.co.nz": "INACTIVE"
+            "network.cryptopia.co.nz": "INACTIVE",
+            "nodes1.cryptopia.co.nz": "INACTIVE",
+            "nodes2.cryptopia.co.nz": "INACTIVE",
+            "nostalgia.bitfinex.com": "INACTIVE",
+            "ns2.a-ads.com": "INACTIVE",
+            "o1.coinmama.com": "INACTIVE"
         }
     }
 }

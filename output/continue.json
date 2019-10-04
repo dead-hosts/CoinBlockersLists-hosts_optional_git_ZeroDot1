@@ -221,7 +221,9 @@
             "name.cur.lv",
             "n.cur.lv",
             "next.btc-alpha.com",
-            "node.jwallet.network"
+            "node.jwallet.network",
+            "o1.em.quadrigacx.com",
+            "o2.em.quadrigacx.com"
         ],
         "INACTIVE": [
             "ad001.a-ads.com",
@@ -339,7 +341,12 @@
             "mx.peerhash.com",
             "n1.cryptopia.co.nz",
             "netvision.cryptopia.co.nz",
-            "network.cryptopia.co.nz"
+            "network.cryptopia.co.nz",
+            "nodes1.cryptopia.co.nz",
+            "nodes2.cryptopia.co.nz",
+            "nostalgia.bitfinex.com",
+            "ns2.a-ads.com",
+            "o1.coinmama.com"
         ]
     }
 }
