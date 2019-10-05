@@ -226,7 +226,26 @@
             "o2.em.quadrigacx.com",
             "o3.em.quadrigacx.com",
             "o4.em.quadrigacx.com",
-            "o5.em.quadrigacx.com"
+            "o5.em.quadrigacx.com",
+            "o6.em.quadrigacx.com",
+            "offers.cryptopia.co.nz",
+            "old.coinad.com",
+            "old-wallet.trezor.io",
+            "oracolxor.io",
+            "orders.whattomine.com",
+            "overflow.mycrypto.com",
+            "p2pool.in",
+            "pandaminer.co",
+            "parthk.co.uk",
+            "peerhash.com",
+            "pg-relay.bithumb.com",
+            "pool2.emercoin.com",
+            "pool.emercoin.com",
+            "pop.quadrigacx.com",
+            "preorder.trezor.io",
+            "pricing.jaxx.io",
+            "privacy.coinmama.com",
+            "psychomining.de"
         ],
         "INACTIVE": [
             "ad001.a-ads.com",
@@ -349,7 +368,18 @@
             "nodes2.cryptopia.co.nz",
             "nostalgia.bitfinex.com",
             "ns2.a-ads.com",
-            "o1.coinmama.com"
+            "o1.coinmama.com",
+            "office.cryptopia.co.nz",
+            "parners.cryptopia.co.nz",
+            "pay.bithumb.com",
+            "poc.simplemining.net",
+            "pools1.cryptopia.co.nz",
+            "pools2.cryptopia.co.nz",
+            "pools.cryptopia.co.nz",
+            "pop3.awesomeminer.com",
+            "pport.cryptopia.co.nz",
+            "prelive.cryptopia.co.nz",
+            "preprod.simplemining.net"
         ]
     }
 }
