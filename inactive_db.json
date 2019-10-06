@@ -263,10 +263,6 @@
         "1569793695": {},
         "1569966838": {},
         "1570141654": {
-            "rc.bithumb.com": "INACTIVE",
-            "redmine.emercoin.com": "INACTIVE",
-            "rm.cointraffic.io": "INACTIVE",
-            "rpc.myetherwallet.com": "INACTIVE",
             "ru.cryptopia.co.nz": "INACTIVE",
             "s.a-ads.com": "INACTIVE",
             "sadmin.rockwall.investments": "INACTIVE",
@@ -462,7 +458,11 @@
             "pop3.awesomeminer.com": "INACTIVE",
             "pport.cryptopia.co.nz": "INACTIVE",
             "prelive.cryptopia.co.nz": "INACTIVE",
-            "preprod.simplemining.net": "INACTIVE"
+            "preprod.simplemining.net": "INACTIVE",
+            "rc.bithumb.com": "INACTIVE",
+            "redmine.emercoin.com": "INACTIVE",
+            "rm.cointraffic.io": "INACTIVE",
+            "rpc.myetherwallet.com": "INACTIVE"
         }
     }
 }

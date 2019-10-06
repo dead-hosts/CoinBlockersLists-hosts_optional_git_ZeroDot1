@@ -245,7 +245,22 @@
             "preorder.trezor.io",
             "pricing.jaxx.io",
             "privacy.coinmama.com",
-            "psychomining.de"
+            "psychomining.de",
+            "pubapi.bithumb.com",
+            "push.bithumb.com",
+            "quadrigacx.com",
+            "r1.bithumb.com",
+            "r2.bithumb.com",
+            "r3.bithumb.com",
+            "r4.bithumb.com",
+            "r5.bithumb.com",
+            "realtime.quadrigacx.com",
+            "resource2.binance.com",
+            "resource.binance.com",
+            "return.bithumb.com",
+            "ripple.com",
+            "rockwall.investments",
+            "rt.quadrigacx.com"
         ],
         "INACTIVE": [
             "ad001.a-ads.com",
@@ -379,7 +394,11 @@
             "pop3.awesomeminer.com",
             "pport.cryptopia.co.nz",
             "prelive.cryptopia.co.nz",
-            "preprod.simplemining.net"
+            "preprod.simplemining.net",
+            "rc.bithumb.com",
+            "redmine.emercoin.com",
+            "rm.cointraffic.io",
+            "rpc.myetherwallet.com"
         ]
     }
 }
