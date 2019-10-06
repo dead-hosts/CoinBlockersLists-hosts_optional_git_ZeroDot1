@@ -260,7 +260,25 @@
             "return.bithumb.com",
             "ripple.com",
             "rockwall.investments",
-            "rt.quadrigacx.com"
+            "rt.quadrigacx.com",
+            "safelinkconverter.com",
+            "seed1.emercoin.com",
+            "seed2.emercoin.com",
+            "seed.emercoin.com",
+            "selfx1.typeform.com",
+            "sftp.binance.com",
+            "shapeshift.io",
+            "shop.simplemining.net",
+            "shop.trezor.io",
+            "simplemining.net",
+            "socket.quadrigacx.com",
+            "staging.coinmama.com",
+            "start.ledgerwallet.com",
+            "static.a-ads.com",
+            "static.bithumb.com",
+            "status.trezor.io",
+            "stream2.binance.com",
+            "stream.binance.com"
         ],
         "INACTIVE": [
             "ad001.a-ads.com",
@@ -398,7 +416,14 @@
             "rc.bithumb.com",
             "redmine.emercoin.com",
             "rm.cointraffic.io",
-            "rpc.myetherwallet.com"
+            "rpc.myetherwallet.com",
+            "ru.cryptopia.co.nz",
+            "s.a-ads.com",
+            "sadmin.rockwall.investments",
+            "saml.cryptopia.co.nz",
+            "secure.coinmama.com",
+            "stats.ethc.io",
+            "status.coinmama.com"
         ]
     }
 }
