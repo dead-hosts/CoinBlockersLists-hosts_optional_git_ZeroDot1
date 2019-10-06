@@ -263,13 +263,6 @@
         "1569793695": {},
         "1569966838": {},
         "1570141654": {
-            "web3.hashgains.com": "INACTIVE",
-            "web4.hashgains.com": "INACTIVE",
-            "web5.hashgains.com": "INACTIVE",
-            "webdisk.antminer-store.com": "INACTIVE",
-            "webdisk.api.cryptoguiminer.com": "INACTIVE",
-            "widget.coinmama.com": "INACTIVE",
-            "wiki.emercoin.com": "INACTIVE",
             "ws.bitfinex.com": "INACTIVE",
             "wss1.bithumb.com": "INACTIVE",
             "ww.cryptopia.co.nz": "INACTIVE",
@@ -462,7 +455,14 @@
             "unauthorized.cryptopia.co.nz": "INACTIVE",
             "upload.a-ads.com": "INACTIVE",
             "ups.cryptopia.co.nz": "INACTIVE",
-            "w.cryptopia.co.nz": "INACTIVE"
+            "w.cryptopia.co.nz": "INACTIVE",
+            "web3.hashgains.com": "INACTIVE",
+            "web4.hashgains.com": "INACTIVE",
+            "web5.hashgains.com": "INACTIVE",
+            "webdisk.antminer-store.com": "INACTIVE",
+            "webdisk.api.cryptoguiminer.com": "INACTIVE",
+            "widget.coinmama.com": "INACTIVE",
+            "wiki.emercoin.com": "INACTIVE"
         }
     }
 }

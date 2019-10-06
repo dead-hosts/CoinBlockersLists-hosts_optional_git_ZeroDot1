@@ -304,7 +304,14 @@
             "waiting.bithumb.com",
             "wallet.trezor.io",
             "web1.hashgains.com",
-            "web2.hashgains.com"
+            "web2.hashgains.com",
+            "web6.hashgains.com",
+            "web.bixin.im",
+            "webdisk.cryptoguiminer.com",
+            "webdisk.uclick.in",
+            "whattomine.com",
+            "whm.gameofbitcoins.com",
+            "wiki.evergreencoin.org"
         ],
         "INACTIVE": [
             "ad001.a-ads.com",
@@ -456,7 +463,14 @@
             "unauthorized.cryptopia.co.nz",
             "upload.a-ads.com",
             "ups.cryptopia.co.nz",
-            "w.cryptopia.co.nz"
+            "w.cryptopia.co.nz",
+            "web3.hashgains.com",
+            "web4.hashgains.com",
+            "web5.hashgains.com",
+            "webdisk.antminer-store.com",
+            "webdisk.api.cryptoguiminer.com",
+            "widget.coinmama.com",
+            "wiki.emercoin.com"
         ]
     }
 }
