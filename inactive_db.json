@@ -264,13 +264,6 @@
         "1569966838": {},
         "1570141654": {},
         "1570273279": {
-            "test.rockwall.investments": "INACTIVE",
-            "tm.btcturk.com": "INACTIVE",
-            "unauthorized.btcturk.com": "INACTIVE",
-            "unauthorized.cryptopia.co.nz": "INACTIVE",
-            "upload.a-ads.com": "INACTIVE",
-            "ups.cryptopia.co.nz": "INACTIVE",
-            "w.cryptopia.co.nz": "INACTIVE",
             "web3.hashgains.com": "INACTIVE",
             "web4.hashgains.com": "INACTIVE",
             "web5.hashgains.com": "INACTIVE",
@@ -463,7 +456,14 @@
             "saml.cryptopia.co.nz": "INACTIVE",
             "secure.coinmama.com": "INACTIVE",
             "stats.ethc.io": "INACTIVE",
-            "status.coinmama.com": "INACTIVE"
+            "status.coinmama.com": "INACTIVE",
+            "test.rockwall.investments": "INACTIVE",
+            "tm.btcturk.com": "INACTIVE",
+            "unauthorized.btcturk.com": "INACTIVE",
+            "unauthorized.cryptopia.co.nz": "INACTIVE",
+            "upload.a-ads.com": "INACTIVE",
+            "ups.cryptopia.co.nz": "INACTIVE",
+            "w.cryptopia.co.nz": "INACTIVE"
         }
     }
 }
