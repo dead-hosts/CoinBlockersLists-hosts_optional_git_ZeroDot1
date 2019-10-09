@@ -235,36 +235,6 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_optional_git_ZeroDot1/domains.list": {
-        "1565614968": {},
-        "1565731741": {},
-        "1565991012": {},
-        "1566143431": {},
-        "1566250288": {},
-        "1566422884": {},
-        "1566509629": {},
-        "1566682655": {},
-        "1566855348": {},
-        "1567114632": {},
-        "1567287513": {},
-        "1567546808": {},
-        "1567719611": {},
-        "1567892559": {},
-        "1568065408": {},
-        "1568238305": {},
-        "1568411136": {},
-        "1568583680": {},
-        "1568756536": {},
-        "1568842985": {},
-        "1568974441": {},
-        "1569103069": {},
-        "1569275265": {},
-        "1569448373": {},
-        "1569620832": {},
-        "1569793695": {},
-        "1569966838": {},
-        "1570141654": {},
-        "1570273279": {},
-        "1570360301": {},
         "1570451767": {
             "office.cryptopia.co.nz": "INACTIVE",
             "parners.cryptopia.co.nz": "INACTIVE",
@@ -466,6 +436,30 @@
             "nostalgia.bitfinex.com": "INACTIVE",
             "ns2.a-ads.com": "INACTIVE",
             "o1.coinmama.com": "INACTIVE"
+        },
+        "1570664305": {
+            "offers.cryptopia.co.nz": "INACTIVE"
+        },
+        "1570664309": {
+            "pg-relay.bithumb.com": "INACTIVE"
+        },
+        "1570664441": {
+            "psychomining.de": "INACTIVE"
+        },
+        "1570664572": {
+            "realtime.quadrigacx.com": "INACTIVE"
+        },
+        "1570664591": {
+            "return.bithumb.com": "INACTIVE"
+        },
+        "1570664721": {
+            "rt.quadrigacx.com": "INACTIVE"
+        },
+        "1570664854": {
+            "stream2.binance.com": "INACTIVE"
+        },
+        "1570664986": {
+            "stream.binance.com": "INACTIVE"
         }
     }
 }
