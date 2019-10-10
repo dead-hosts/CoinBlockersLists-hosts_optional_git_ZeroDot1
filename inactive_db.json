@@ -460,6 +460,29 @@
         },
         "1570664986": {
             "stream.binance.com": "INACTIVE"
+        },
+        "1570669065": {
+            "api.coinmama.com": "INACTIVE"
+        },
+        "1570669071": {
+            "bit.cur.lv": "INACTIVE"
+        },
+        "1570669204": {
+            "btc-smtp.bithumb.com": "INACTIVE"
+        },
+        "1570669205": {
+            "careers.coinmama.com": "INACTIVE",
+            "cdn.inwemo.com": "INACTIVE",
+            "cdn2.inwemo.com": "INACTIVE"
+        },
+        "1570669335": {
+            "certification.bithumb.com": "INACTIVE"
+        },
+        "1570669610": {
+            "ems01.bithumb.com": "INACTIVE"
+        },
+        "1570669741": {
+            "ems02.bithumb.com": "INACTIVE"
         }
     }
 }
