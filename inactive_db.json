@@ -685,6 +685,12 @@
             "stats.ethc.io": "INACTIVE",
             "www.dash-bitcore1.trezor.io": "INACTIVE",
             "www.ltc.cryptopia.co.nz": "INACTIVE"
+        },
+        "1570705468": {
+            "api.btcturk.com": "INACTIVE"
+        },
+        "1570705656": {
+            "www.803mine.com": "INACTIVE"
         }
     }
 }
