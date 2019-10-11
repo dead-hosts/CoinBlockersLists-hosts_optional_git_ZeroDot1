@@ -235,49 +235,6 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_optional_git_ZeroDot1/domains.list": {
-        "1570664309": {
-            "pg-relay.bithumb.com": "INACTIVE"
-        },
-        "1570664572": {
-            "realtime.quadrigacx.com": "INACTIVE"
-        },
-        "1570669205": {
-            "cdn2.inwemo.com": "INACTIVE"
-        },
-        "1570669741": {
-            "ems02.bithumb.com": "INACTIVE"
-        },
-        "1570678080": {
-            "me.cur.lv": "INACTIVE"
-        },
-        "1570694871": {
-            "www1.bithumb.com": "INACTIVE"
-        },
-        "1570695006": {
-            "www.careers.coinmama.com": "INACTIVE"
-        },
-        "1570695179": {
-            "api.mycrypto.com": "INACTIVE"
-        },
-        "1570695182": {
-            "www.tradewin.online": "INACTIVE"
-        },
-        "1570695185": {
-            "imperiumminer.com": "INACTIVE"
-        },
-        "1570695187": {
-            "mx.peerhash.com": "INACTIVE"
-        },
-        "1570695188": {
-            "admin.coinmama.com": "INACTIVE",
-            "foundry.electrum.org": "INACTIVE"
-        },
-        "1570705468": {
-            "api.btcturk.com": "INACTIVE"
-        },
-        "1570705656": {
-            "www.803mine.com": "INACTIVE"
-        },
         "1570792821": {
             "dash-bitcore1.trezor.io": "INACTIVE"
         },
@@ -699,6 +656,33 @@
         },
         "1570820772": {
             "ems03.bithumb.com": "INACTIVE"
+        },
+        "1570824051": {
+            "www1.bithumb.com": "INACTIVE"
+        },
+        "1570824082": {
+            "admin.coinmama.com": "INACTIVE",
+            "api.btcturk.com": "INACTIVE",
+            "www.tradewin.online": "INACTIVE"
+        },
+        "1570824084": {
+            "foundry.electrum.org": "INACTIVE",
+            "pg-relay.bithumb.com": "INACTIVE",
+            "www.803mine.com": "INACTIVE"
+        },
+        "1570824085": {
+            "me.cur.lv": "INACTIVE",
+            "mx.peerhash.com": "INACTIVE",
+            "www.careers.coinmama.com": "INACTIVE"
+        },
+        "1570824215": {
+            "api.mycrypto.com": "INACTIVE",
+            "realtime.quadrigacx.com": "INACTIVE"
+        },
+        "1570824346": {
+            "cdn2.inwemo.com": "INACTIVE",
+            "ems02.bithumb.com": "INACTIVE",
+            "imperiumminer.com": "INACTIVE"
         }
     }
 }
