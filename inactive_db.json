@@ -242,21 +242,11 @@
             "bng.btc-alpha.com": "INACTIVE",
             "o3.em.quadrigacx.com": "INACTIVE"
         },
-        "1570792953": {
-            "beta.bitfinex.com": "INACTIVE",
-            "devweb2.cryptopia.co.nz": "INACTIVE"
-        },
         "1570797511": {
             "admin.adconity.com": "INACTIVE"
         },
         "1570797642": {
             "o5.em.quadrigacx.com": "INACTIVE"
-        },
-        "1570797904": {
-            "api1.bithumb.com": "INACTIVE"
-        },
-        "1570802217": {
-            "pop3.awesomeminer.com": "INACTIVE"
         },
         "1570802348": {
             "pools1.cryptopia.co.nz": "INACTIVE"
@@ -271,9 +261,6 @@
             "dev.a-ads.com": "INACTIVE",
             "www.bitcore3.trezor.io": "INACTIVE"
         },
-        "1570806525": {
-            "mars.cryptopia.co.nz": "INACTIVE"
-        },
         "1570806545": {
             "ad201.a-ads.com": "INACTIVE"
         },
@@ -283,14 +270,8 @@
         "1570806681": {
             "mta85.a.hashgains.com": "INACTIVE"
         },
-        "1570806950": {
-            "mta82.a.hashgains.com": "INACTIVE"
-        },
         "1570806957": {
             "minneapolis.rockwall.investments": "INACTIVE"
-        },
-        "1570806958": {
-            "adc.cryptopia.co.nz": "INACTIVE"
         },
         "1570806960": {
             "ad226.a-ads.com": "INACTIVE"
@@ -303,9 +284,6 @@
         "1570810926": {
             "ad302.a-ads.com": "INACTIVE",
             "merchant.bithumb.com": "INACTIVE"
-        },
-        "1570811057": {
-            "esbc.bithumb.com": "INACTIVE"
         },
         "1570811060": {
             "mta86.a.hashgains.com": "INACTIVE"
@@ -322,17 +300,11 @@
         "1570811334": {
             "helpdesk2.bitfinex.com": "INACTIVE"
         },
-        "1570815534": {
-            "test.ledgerwallet.com": "INACTIVE"
-        },
         "1570815664": {
             "ems06.bithumb.com": "INACTIVE"
         },
         "1570815676": {
             "mta89.a.hashgains.com": "INACTIVE"
-        },
-        "1570815941": {
-            "ems05.bithumb.com": "INACTIVE"
         },
         "1570820639": {
             "bullet.simplemining.net": "INACTIVE",
@@ -342,7 +314,6 @@
             "dc.rockwall.investments": "INACTIVE"
         },
         "1570820641": {
-            "preprod.simplemining.net": "INACTIVE",
             "www.status.trezor.io": "INACTIVE"
         },
         "1570824051": {
@@ -724,6 +695,27 @@
         },
         "1570941780": {
             "web6.hashgains.com": "INACTIVE"
+        },
+        "1570945679": {
+            "adc.cryptopia.co.nz": "INACTIVE",
+            "mars.cryptopia.co.nz": "INACTIVE",
+            "preprod.simplemining.net": "INACTIVE",
+            "test.ledgerwallet.com": "INACTIVE"
+        },
+        "1570945680": {
+            "pop3.awesomeminer.com": "INACTIVE"
+        },
+        "1570945809": {
+            "beta.bitfinex.com": "INACTIVE",
+            "devweb2.cryptopia.co.nz": "INACTIVE",
+            "ems05.bithumb.com": "INACTIVE"
+        },
+        "1570945812": {
+            "api1.bithumb.com": "INACTIVE",
+            "mta82.a.hashgains.com": "INACTIVE"
+        },
+        "1570945942": {
+            "esbc.bithumb.com": "INACTIVE"
         }
     }
 }
