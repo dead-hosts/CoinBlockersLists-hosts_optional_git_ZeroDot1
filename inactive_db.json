@@ -235,89 +235,23 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_optional_git_ZeroDot1/domains.list": {
-        "1570792821": {
-            "dash-bitcore1.trezor.io": "INACTIVE"
-        },
-        "1570792952": {
-            "bng.btc-alpha.com": "INACTIVE",
-            "o3.em.quadrigacx.com": "INACTIVE"
-        },
         "1570797511": {
             "admin.adconity.com": "INACTIVE"
-        },
-        "1570797642": {
-            "o5.em.quadrigacx.com": "INACTIVE"
-        },
-        "1570802348": {
-            "pools1.cryptopia.co.nz": "INACTIVE"
         },
         "1570806385": {
             "webdisk.api.cryptoguiminer.com": "INACTIVE"
         },
-        "1570806522": {
-            "o2.em.quadrigacx.com": "INACTIVE"
-        },
-        "1570806524": {
-            "dev.a-ads.com": "INACTIVE",
-            "www.bitcore3.trezor.io": "INACTIVE"
-        },
-        "1570806545": {
-            "ad201.a-ads.com": "INACTIVE"
-        },
         "1570806548": {
             "mta84.a.hashgains.com": "INACTIVE"
-        },
-        "1570806681": {
-            "mta85.a.hashgains.com": "INACTIVE"
         },
         "1570806957": {
             "minneapolis.rockwall.investments": "INACTIVE"
         },
-        "1570806960": {
-            "ad226.a-ads.com": "INACTIVE"
-        },
-        "1570806961": {
-            "chf.a-ads.com": "INACTIVE",
-            "devtopia.cryptopia.co.nz": "INACTIVE",
-            "dns3.rockwall.investments": "INACTIVE"
-        },
-        "1570810926": {
-            "ad302.a-ads.com": "INACTIVE",
-            "merchant.bithumb.com": "INACTIVE"
-        },
-        "1570811060": {
-            "mta86.a.hashgains.com": "INACTIVE"
-        },
-        "1570811068": {
-            "ad007.a-ads.com": "INACTIVE"
-        },
         "1570811070": {
             "web5.hashgains.com": "INACTIVE"
         },
-        "1570811071": {
-            "rpc.myetherwallet.com": "INACTIVE"
-        },
-        "1570811334": {
-            "helpdesk2.bitfinex.com": "INACTIVE"
-        },
-        "1570815664": {
-            "ems06.bithumb.com": "INACTIVE"
-        },
-        "1570815676": {
-            "mta89.a.hashgains.com": "INACTIVE"
-        },
         "1570820639": {
-            "bullet.simplemining.net": "INACTIVE",
             "ftp.quadrigacx.com": "INACTIVE"
-        },
-        "1570820640": {
-            "dc.rockwall.investments": "INACTIVE"
-        },
-        "1570820641": {
-            "www.status.trezor.io": "INACTIVE"
-        },
-        "1570824051": {
-            "www1.bithumb.com": "INACTIVE"
         },
         "1570824215": {
             "api.mycrypto.com": "INACTIVE"
@@ -716,6 +650,54 @@
         },
         "1570945942": {
             "esbc.bithumb.com": "INACTIVE"
+        },
+        "1570948570": {
+            "ems06.bithumb.com": "INACTIVE"
+        },
+        "1570948573": {
+            "bng.btc-alpha.com": "INACTIVE",
+            "mta85.a.hashgains.com": "INACTIVE",
+            "pools1.cryptopia.co.nz": "INACTIVE"
+        },
+        "1570948575": {
+            "ad302.a-ads.com": "INACTIVE",
+            "devtopia.cryptopia.co.nz": "INACTIVE",
+            "merchant.bithumb.com": "INACTIVE",
+            "www.bitcore3.trezor.io": "INACTIVE",
+            "www.status.trezor.io": "INACTIVE"
+        },
+        "1570948576": {
+            "ad007.a-ads.com": "INACTIVE",
+            "ad226.a-ads.com": "INACTIVE",
+            "bullet.simplemining.net": "INACTIVE",
+            "dash-bitcore1.trezor.io": "INACTIVE",
+            "dc.rockwall.investments": "INACTIVE",
+            "dns3.rockwall.investments": "INACTIVE",
+            "www1.bithumb.com": "INACTIVE"
+        },
+        "1570948706": {
+            "o5.em.quadrigacx.com": "INACTIVE"
+        },
+        "1570948837": {
+            "o3.em.quadrigacx.com": "INACTIVE"
+        },
+        "1570948842": {
+            "mta89.a.hashgains.com": "INACTIVE"
+        },
+        "1570948843": {
+            "chf.a-ads.com": "INACTIVE",
+            "mta86.a.hashgains.com": "INACTIVE",
+            "rpc.myetherwallet.com": "INACTIVE"
+        },
+        "1570948844": {
+            "ad201.a-ads.com": "INACTIVE",
+            "dev.a-ads.com": "INACTIVE"
+        },
+        "1570948974": {
+            "helpdesk2.bitfinex.com": "INACTIVE"
+        },
+        "1570949105": {
+            "o2.em.quadrigacx.com": "INACTIVE"
         }
     }
 }
