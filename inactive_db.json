@@ -331,14 +331,12 @@
         "1570806524": {
             "ad005.a-ads.com": "INACTIVE",
             "ad218.a-ads.com": "INACTIVE",
-            "apps.cointraffic.io": "INACTIVE",
             "beta.simplemining.net": "INACTIVE",
             "dev.a-ads.com": "INACTIVE",
             "network.cryptopia.co.nz": "INACTIVE",
             "www.bitcore3.trezor.io": "INACTIVE"
         },
         "1570806525": {
-            "ad001.a-ads.com": "INACTIVE",
             "ad009.a-ads.com": "INACTIVE",
             "mars.cryptopia.co.nz": "INACTIVE"
         },
@@ -453,7 +451,6 @@
         },
         "1570811070": {
             "ad004.a-ads.com": "INACTIVE",
-            "i2p.emercoin.com": "INACTIVE",
             "web5.hashgains.com": "INACTIVE"
         },
         "1570811071": {
@@ -471,7 +468,6 @@
             "helpdesk2.bitfinex.com": "INACTIVE"
         },
         "1570815256": {
-            "ad210.a-ads.com": "INACTIVE",
             "ad228.a-ads.com": "INACTIVE",
             "api2.bitfinex.com": "INACTIVE",
             "management.cryptopia.co.nz": "INACTIVE",
@@ -492,7 +488,6 @@
             "wiki.evergreencoin.org": "INACTIVE"
         },
         "1570815533": {
-            "domainkey.rockwall.investments": "INACTIVE",
             "ems04.bithumb.com": "INACTIVE"
         },
         "1570815534": {
@@ -539,7 +534,6 @@
         "1570820638": {
             "app0.a-ads.com": "INACTIVE",
             "ftp.miningfarmasics.com": "INACTIVE",
-            "headers.electrum.org": "INACTIVE",
             "load.cryptopia.co.nz": "INACTIVE",
             "ltc-bitcore3.trezor.io": "INACTIVE",
             "n1.cryptopia.co.nz": "INACTIVE",
@@ -559,15 +553,11 @@
         },
         "1570820641": {
             "ad203.a-ads.com": "INACTIVE",
-            "disney.cryptopia.co.nz": "INACTIVE",
             "event.rockwall.investments": "INACTIVE",
             "files.btcturk.com": "INACTIVE",
             "nostalgia.bitfinex.com": "INACTIVE",
             "preprod.simplemining.net": "INACTIVE",
             "www.status.trezor.io": "INACTIVE"
-        },
-        "1570820772": {
-            "ems03.bithumb.com": "INACTIVE"
         },
         "1570824051": {
             "www1.bithumb.com": "INACTIVE"
@@ -588,7 +578,6 @@
             "api.mycrypto.com": "INACTIVE"
         },
         "1570824346": {
-            "ems02.bithumb.com": "INACTIVE",
             "imperiumminer.com": "INACTIVE"
         },
         "1570920262": {
@@ -724,6 +713,24 @@
         },
         "1570925144": {
             "helpdesk.bitfinex.com": "INACTIVE"
+        },
+        "1570929305": {
+            "www.cryptonotemining.org": "INACTIVE"
+        },
+        "1570929459": {
+            "ad001.a-ads.com": "INACTIVE",
+            "ad210.a-ads.com": "INACTIVE",
+            "domainkey.rockwall.investments": "INACTIVE",
+            "ems03.bithumb.com": "INACTIVE",
+            "headers.electrum.org": "INACTIVE",
+            "i2p.emercoin.com": "INACTIVE"
+        },
+        "1570929460": {
+            "apps.cointraffic.io": "INACTIVE",
+            "disney.cryptopia.co.nz": "INACTIVE"
+        },
+        "1570929590": {
+            "ems02.bithumb.com": "INACTIVE"
         }
     }
 }
