@@ -235,20 +235,11 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_optional_git_ZeroDot1/domains.list": {
-        "1570920262": {
-            "www.shop.trezor.io": "INACTIVE"
-        },
         "1570920420": {
             "www3.a-ads.com": "INACTIVE"
         },
-        "1570924484": {
-            "web3.hashgains.com": "INACTIVE"
-        },
         "1570924486": {
             "mta87.a.hashgains.com": "INACTIVE"
-        },
-        "1570924880": {
-            "redmine.emercoin.com": "INACTIVE"
         },
         "1570929459": {
             "ad210.a-ads.com": "INACTIVE",
@@ -276,15 +267,8 @@
         "1570932851": {
             "ww.cryptopia.co.nz": "INACTIVE"
         },
-        "1570932984": {
-            "ems01.bithumb.com": "INACTIVE"
-        },
         "1570933259": {
             "psychomining.de": "INACTIVE"
-        },
-        "1570937410": {
-            "mta82.hashgains.com": "INACTIVE",
-            "www.wiki.trezor.io": "INACTIVE"
         },
         "1570937412": {
             "www.shop.simplemining.net": "INACTIVE"
@@ -292,36 +276,17 @@
         "1570941147": {
             "ad212.a-ads.com": "INACTIVE"
         },
-        "1570941148": {
-            "ftp.inwemo.com": "INACTIVE",
-            "in.cur.lv": "INACTIVE"
-        },
         "1570941413": {
             "infra2.bithumb.com": "INACTIVE"
         },
         "1570941414": {
             "cpanel.support.hashgains.com": "INACTIVE"
         },
-        "1570941647": {
-            "ad203.a-ads.com": "INACTIVE"
-        },
-        "1570941648": {
-            "app0.a-ads.com": "INACTIVE"
-        },
-        "1570948573": {
-            "bng.btc-alpha.com": "INACTIVE"
-        },
         "1570948575": {
             "merchant.bithumb.com": "INACTIVE"
         },
         "1570948576": {
             "dns3.rockwall.investments": "INACTIVE"
-        },
-        "1570948837": {
-            "o3.em.quadrigacx.com": "INACTIVE"
-        },
-        "1570948974": {
-            "helpdesk2.bitfinex.com": "INACTIVE"
         },
         "1571093322": {
             "kriptometre.btcturk.com": "INACTIVE"
@@ -705,6 +670,29 @@
         },
         "1571113931": {
             "helpdesk.bitfinex.com": "INACTIVE"
+        },
+        "1571118052": {
+            "ad203.a-ads.com": "INACTIVE",
+            "ftp.inwemo.com": "INACTIVE",
+            "o3.em.quadrigacx.com": "INACTIVE",
+            "www.wiki.trezor.io": "INACTIVE"
+        },
+        "1571118183": {
+            "helpdesk2.bitfinex.com": "INACTIVE"
+        },
+        "1571118184": {
+            "app0.a-ads.com": "INACTIVE",
+            "bng.btc-alpha.com": "INACTIVE",
+            "in.cur.lv": "INACTIVE",
+            "mta82.hashgains.com": "INACTIVE",
+            "redmine.emercoin.com": "INACTIVE"
+        },
+        "1571118185": {
+            "web3.hashgains.com": "INACTIVE",
+            "www.shop.trezor.io": "INACTIVE"
+        },
+        "1571118316": {
+            "ems01.bithumb.com": "INACTIVE"
         }
     }
 }
