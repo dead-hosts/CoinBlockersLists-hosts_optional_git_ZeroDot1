@@ -776,6 +776,9 @@
             "www.wiki.trezor.io": "INACTIVE",
             "www.zec-bitcore1.trezor.io": "INACTIVE",
             "zec-bitcore1.trezor.io": "INACTIVE"
+        },
+        "1571432368": {
+            "www.cryptonotemining.org": "INACTIVE"
         }
     }
 }
