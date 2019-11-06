@@ -235,106 +235,6 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_optional_git_ZeroDot1/domains.list": {
-        "1572991662": {
-            "ad001.a-ads.com": "INACTIVE",
-            "ad004.a-ads.com": "INACTIVE",
-            "ad005.a-ads.com": "INACTIVE",
-            "ad007.a-ads.com": "INACTIVE",
-            "ad008.a-ads.com": "INACTIVE",
-            "ad009.a-ads.com": "INACTIVE",
-            "ad011.a-ads.com": "INACTIVE",
-            "ad012.a-ads.com": "INACTIVE",
-            "ad013.a-ads.com": "INACTIVE",
-            "ad014.a-ads.com": "INACTIVE"
-        },
-        "1572991663": {
-            "ad015.a-ads.com": "INACTIVE",
-            "ad032.a-ads.com": "INACTIVE",
-            "ad201.a-ads.com": "INACTIVE",
-            "ad203.a-ads.com": "INACTIVE",
-            "ad210.a-ads.com": "INACTIVE",
-            "ad212.a-ads.com": "INACTIVE",
-            "ad213.a-ads.com": "INACTIVE",
-            "ad216.a-ads.com": "INACTIVE",
-            "ad217.a-ads.com": "INACTIVE",
-            "ad218.a-ads.com": "INACTIVE",
-            "ad222.a-ads.com": "INACTIVE"
-        },
-        "1572991664": {
-            "ad224.a-ads.com": "INACTIVE",
-            "ad225.a-ads.com": "INACTIVE",
-            "ad226.a-ads.com": "INACTIVE",
-            "ad228.a-ads.com": "INACTIVE",
-            "ad302.a-ads.com": "INACTIVE",
-            "adc.cryptopia.co.nz": "INACTIVE",
-            "admin.adconity.com": "INACTIVE",
-            "admin.coinmama.com": "INACTIVE"
-        },
-        "1572991665": {
-            "ad.s.a-ads.com": "INACTIVE",
-            "alpha.myetherwallet.com": "INACTIVE"
-        },
-        "1572991666": {
-            "api1.bithumb.com": "INACTIVE",
-            "api2.bitfinex.com": "INACTIVE"
-        },
-        "1572991667": {
-            "api.coinmama.com": "INACTIVE"
-        },
-        "1572991668": {
-            "api.cryptoguiminer.com": "INACTIVE",
-            "api.cryptopia.co.nz": "INACTIVE"
-        },
-        "1572991669": {
-            "api.inwemo.com": "INACTIVE",
-            "api.mycrypto.com": "INACTIVE"
-        },
-        "1572991670": {
-            "app0.a-ads.com": "INACTIVE",
-            "apps2.cointraffic.io": "INACTIVE"
-        },
-        "1572991671": {
-            "apps.cointraffic.io": "INACTIVE"
-        },
-        "1572991672": {
-            "autoconfig.bitcoin-doubler.us": "INACTIVE",
-            "autodiscover.btc-alpha.com": "INACTIVE"
-        },
-        "1572991673": {
-            "aws.simplemining.net": "INACTIVE",
-            "babyalex.coinmama.com": "INACTIVE",
-            "basicdemo.emercoin.com": "INACTIVE",
-            "bch-bitcore2.trezor.io": "INACTIVE",
-            "beta.bitfinex.com": "INACTIVE",
-            "beta.simplemining.net": "INACTIVE"
-        },
-        "1572991674": {
-            "bitcoin-doubler.us": "INACTIVE"
-        },
-        "1572991675": {
-            "bit.cur.lv": "INACTIVE"
-        },
-        "1572991677": {
-            "bng.btc-alpha.com": "INACTIVE",
-            "btc.a-ads.com": "INACTIVE"
-        },
-        "1572991683": {
-            "btc-smtp.bithumb.com": "INACTIVE",
-            "bullet.simplemining.net": "INACTIVE"
-        },
-        "1572991684": {
-            "calendar.coinmama.com": "INACTIVE",
-            "careers.coinmama.com": "INACTIVE",
-            "cdn.inwemo.com": "INACTIVE",
-            "cdn1.cryptopia.co.nz": "INACTIVE",
-            "cdn2.inwemo.com": "INACTIVE"
-        },
-        "1572991690": {
-            "certification.bithumb.com": "INACTIVE"
-        },
-        "1572991691": {
-            "chat.coinmama.com": "INACTIVE"
-        },
         "1572991693": {
             "chf.a-ads.com": "INACTIVE"
         },
@@ -760,6 +660,102 @@
         "1572992114": {
             "www.zec-bitcore1.trezor.io": "INACTIVE",
             "zec-bitcore1.trezor.io": "INACTIVE"
+        },
+        "1573078094": {
+            "ad001.a-ads.com": "INACTIVE",
+            "ad004.a-ads.com": "INACTIVE",
+            "ad005.a-ads.com": "INACTIVE",
+            "ad007.a-ads.com": "INACTIVE",
+            "ad008.a-ads.com": "INACTIVE",
+            "ad009.a-ads.com": "INACTIVE",
+            "ad011.a-ads.com": "INACTIVE",
+            "ad012.a-ads.com": "INACTIVE",
+            "ad013.a-ads.com": "INACTIVE",
+            "ad014.a-ads.com": "INACTIVE",
+            "ad015.a-ads.com": "INACTIVE"
+        },
+        "1573078095": {
+            "ad032.a-ads.com": "INACTIVE",
+            "ad201.a-ads.com": "INACTIVE",
+            "ad203.a-ads.com": "INACTIVE",
+            "ad210.a-ads.com": "INACTIVE",
+            "ad212.a-ads.com": "INACTIVE",
+            "ad213.a-ads.com": "INACTIVE",
+            "ad216.a-ads.com": "INACTIVE",
+            "ad217.a-ads.com": "INACTIVE",
+            "ad218.a-ads.com": "INACTIVE",
+            "ad222.a-ads.com": "INACTIVE",
+            "ad224.a-ads.com": "INACTIVE",
+            "ad225.a-ads.com": "INACTIVE"
+        },
+        "1573078096": {
+            "ad.s.a-ads.com": "INACTIVE",
+            "ad226.a-ads.com": "INACTIVE",
+            "ad228.a-ads.com": "INACTIVE",
+            "ad302.a-ads.com": "INACTIVE",
+            "adc.cryptopia.co.nz": "INACTIVE",
+            "admin.adconity.com": "INACTIVE",
+            "admin.coinmama.com": "INACTIVE"
+        },
+        "1573078097": {
+            "alpha.myetherwallet.com": "INACTIVE"
+        },
+        "1573078098": {
+            "api1.bithumb.com": "INACTIVE",
+            "api2.bitfinex.com": "INACTIVE"
+        },
+        "1573078100": {
+            "api.coinmama.com": "INACTIVE",
+            "api.cryptoguiminer.com": "INACTIVE",
+            "api.cryptopia.co.nz": "INACTIVE"
+        },
+        "1573078101": {
+            "api.inwemo.com": "INACTIVE",
+            "api.mycrypto.com": "INACTIVE"
+        },
+        "1573078102": {
+            "app0.a-ads.com": "INACTIVE"
+        },
+        "1573078103": {
+            "apps.cointraffic.io": "INACTIVE",
+            "apps2.cointraffic.io": "INACTIVE"
+        },
+        "1573078105": {
+            "autoconfig.bitcoin-doubler.us": "INACTIVE",
+            "autodiscover.btc-alpha.com": "INACTIVE",
+            "aws.simplemining.net": "INACTIVE",
+            "babyalex.coinmama.com": "INACTIVE",
+            "basicdemo.emercoin.com": "INACTIVE",
+            "bch-bitcore2.trezor.io": "INACTIVE",
+            "beta.bitfinex.com": "INACTIVE"
+        },
+        "1573078106": {
+            "beta.simplemining.net": "INACTIVE",
+            "bitcoin-doubler.us": "INACTIVE"
+        },
+        "1573078108": {
+            "bit.cur.lv": "INACTIVE"
+        },
+        "1573078109": {
+            "bng.btc-alpha.com": "INACTIVE",
+            "btc.a-ads.com": "INACTIVE"
+        },
+        "1573078116": {
+            "btc-smtp.bithumb.com": "INACTIVE",
+            "bullet.simplemining.net": "INACTIVE",
+            "calendar.coinmama.com": "INACTIVE",
+            "careers.coinmama.com": "INACTIVE",
+            "cdn1.cryptopia.co.nz": "INACTIVE"
+        },
+        "1573078117": {
+            "cdn.inwemo.com": "INACTIVE",
+            "cdn2.inwemo.com": "INACTIVE"
+        },
+        "1573078123": {
+            "certification.bithumb.com": "INACTIVE"
+        },
+        "1573078124": {
+            "chat.coinmama.com": "INACTIVE"
         }
     }
 }
