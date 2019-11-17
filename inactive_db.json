@@ -787,6 +787,9 @@
             "www1.bithumb.com": "INACTIVE",
             "www3.a-ads.com": "INACTIVE",
             "zec-bitcore1.trezor.io": "INACTIVE"
+        },
+        "1574028619": {
+            "www.bitmaintech.com": "INACTIVE"
         }
     }
 }
