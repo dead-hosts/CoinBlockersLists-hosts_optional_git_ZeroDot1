@@ -772,6 +772,9 @@
             "www1.a-ads.com": "INACTIVE",
             "www3.a-ads.com": "INACTIVE",
             "zec-bitcore1.trezor.io": "INACTIVE"
+        },
+        "1574160841": {
+            "iota.bitfinex.com": "INACTIVE"
         }
     }
 }
