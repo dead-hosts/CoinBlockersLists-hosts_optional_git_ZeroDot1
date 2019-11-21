@@ -766,6 +766,18 @@
             "www1.a-ads.com": "INACTIVE",
             "www3.a-ads.com": "INACTIVE",
             "zec-bitcore1.trezor.io": "INACTIVE"
+        },
+        "1574333650": {
+            "iota.bitfinex.com": "INACTIVE"
+        },
+        "1574333655": {
+            "old.coinad.com": "INACTIVE"
+        },
+        "1574333692": {
+            "www.inwemo.com": "INACTIVE"
+        },
+        "1574333703": {
+            "www.peerhash.com": "INACTIVE"
         }
     }
 }
