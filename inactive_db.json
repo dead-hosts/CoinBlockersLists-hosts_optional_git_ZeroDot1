@@ -235,7 +235,7 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_optional_git_ZeroDot1/domains.list": {
-        "1574893447": {
+        "1575120618": {
             "ad.s.a-ads.com": "INACTIVE",
             "ad001.a-ads.com": "INACTIVE",
             "ad004.a-ads.com": "INACTIVE",
@@ -290,7 +290,9 @@
             "bng.btc-alpha.com": "INACTIVE",
             "btc.a-ads.com": "INACTIVE",
             "bullet.simplemining.net": "INACTIVE",
-            "calendar.coinmama.com": "INACTIVE",
+            "calendar.coinmama.com": "INACTIVE"
+        },
+        "1575120619": {
             "cdn.inwemo.com": "INACTIVE",
             "cdn1.cryptopia.co.nz": "INACTIVE",
             "cdn2.inwemo.com": "INACTIVE",
@@ -313,9 +315,7 @@
             "doge.cryptopia.co.nz": "INACTIVE",
             "domainkey.rockwall.investments": "INACTIVE",
             "event.btc-alpha.com": "INACTIVE",
-            "event.rockwall.investments": "INACTIVE"
-        },
-        "1574893448": {
+            "event.rockwall.investments": "INACTIVE",
             "files.btcturk.com": "INACTIVE",
             "foundry.electrum.org": "INACTIVE",
             "ftp.adconity.com": "INACTIVE",
@@ -408,8 +408,10 @@
             "webdisk.api.cryptoguiminer.com": "INACTIVE",
             "wiki.emercoin.com": "INACTIVE",
             "ws.bitfinex.com": "INACTIVE",
+            "ww.cryptopia.co.nz": "INACTIVE"
+        },
+        "1575120620": {
             "wss1.bithumb.com": "INACTIVE",
-            "ww.cryptopia.co.nz": "INACTIVE",
             "www.0x.mycrypto.com": "INACTIVE",
             "www.alpha.myetherwallet.com": "INACTIVE",
             "www.api.mymonero.com": "INACTIVE",
@@ -436,9 +438,7 @@
             "www.ltc.cryptopia.co.nz": "INACTIVE",
             "www.minerboard.com": "INACTIVE",
             "www.miningfarmasics.com": "INACTIVE",
-            "www.old-wallet.trezor.io": "INACTIVE"
-        },
-        "1574893449": {
+            "www.old-wallet.trezor.io": "INACTIVE",
             "www.overflow.mycrypto.com": "INACTIVE",
             "www.pay.bithumb.com": "INACTIVE",
             "www.preorder.trezor.io": "INACTIVE",
