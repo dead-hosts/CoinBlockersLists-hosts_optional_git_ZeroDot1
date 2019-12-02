@@ -235,7 +235,7 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_optional_git_ZeroDot1/domains.list": {
-        "1575120618": {
+        "1575326034": {
             "ad.s.a-ads.com": "INACTIVE",
             "ad001.a-ads.com": "INACTIVE",
             "ad004.a-ads.com": "INACTIVE",
@@ -290,9 +290,7 @@
             "bng.btc-alpha.com": "INACTIVE",
             "btc.a-ads.com": "INACTIVE",
             "bullet.simplemining.net": "INACTIVE",
-            "calendar.coinmama.com": "INACTIVE"
-        },
-        "1575120619": {
+            "calendar.coinmama.com": "INACTIVE",
             "cdn.inwemo.com": "INACTIVE",
             "cdn1.cryptopia.co.nz": "INACTIVE",
             "cdn2.inwemo.com": "INACTIVE",
@@ -341,7 +339,9 @@
             "io.rockwall.investments": "INACTIVE",
             "jira.cryptopia.co.nz": "INACTIVE",
             "jp.simplemining.net": "INACTIVE",
-            "kriptometre.btcturk.com": "INACTIVE",
+            "kriptometre.btcturk.com": "INACTIVE"
+        },
+        "1575326035": {
             "lb4.a-ads.com": "INACTIVE",
             "linfen.cryptopia.co.nz": "INACTIVE",
             "load.cryptopia.co.nz": "INACTIVE",
@@ -408,10 +408,8 @@
             "webdisk.api.cryptoguiminer.com": "INACTIVE",
             "wiki.emercoin.com": "INACTIVE",
             "ws.bitfinex.com": "INACTIVE",
-            "ww.cryptopia.co.nz": "INACTIVE"
-        },
-        "1575120620": {
             "wss1.bithumb.com": "INACTIVE",
+            "ww.cryptopia.co.nz": "INACTIVE",
             "www.0x.mycrypto.com": "INACTIVE",
             "www.alpha.myetherwallet.com": "INACTIVE",
             "www.api.mymonero.com": "INACTIVE",
@@ -454,18 +452,6 @@
             "www1.a-ads.com": "INACTIVE",
             "www3.a-ads.com": "INACTIVE",
             "zec-bitcore1.trezor.io": "INACTIVE"
-        },
-        "1575154278": {
-            "mta82.a.hashgains.com": "INACTIVE",
-            "mta83.a.hashgains.com": "INACTIVE",
-            "mta84.a.hashgains.com": "INACTIVE",
-            "mta85.a.hashgains.com": "INACTIVE",
-            "mta86.a.hashgains.com": "INACTIVE",
-            "mta87.a.hashgains.com": "INACTIVE",
-            "mta88.a.hashgains.com": "INACTIVE",
-            "mta89.a.hashgains.com": "INACTIVE",
-            "mta90.a.hashgains.com": "INACTIVE",
-            "mta91.a.hashgains.com": "INACTIVE"
         }
     }
 }
