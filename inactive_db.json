@@ -387,6 +387,25 @@
             "preprod.simplemining.net": "INACTIVE",
             "rc.bithumb.com": "INACTIVE",
             "redmine.emercoin.com": "INACTIVE",
+            "www.tradewin.online": "INACTIVE",
+            "www.wallet.trezor.io": "INACTIVE",
+            "www.wiki.trezor.io": "INACTIVE",
+            "www.zec-bitcore1.trezor.io": "INACTIVE",
+            "www1.a-ads.com": "INACTIVE",
+            "www3.a-ads.com": "INACTIVE",
+            "zec-bitcore1.trezor.io": "INACTIVE"
+        },
+        "1577573112": {
+            "mta82.a.hashgains.com": "INACTIVE",
+            "mta83.a.hashgains.com": "INACTIVE",
+            "mta84.a.hashgains.com": "INACTIVE",
+            "mta85.a.hashgains.com": "INACTIVE",
+            "mta86.a.hashgains.com": "INACTIVE",
+            "mta87.a.hashgains.com": "INACTIVE",
+            "mta88.a.hashgains.com": "INACTIVE",
+            "mta89.a.hashgains.com": "INACTIVE",
+            "mta90.a.hashgains.com": "INACTIVE",
+            "mta91.a.hashgains.com": "INACTIVE",
             "rm.cointraffic.io": "INACTIVE",
             "rpc.myetherwallet.com": "INACTIVE",
             "ru.cryptopia.co.nz": "INACTIVE",
@@ -435,10 +454,11 @@
             "www.go.coinmama.com": "INACTIVE",
             "www.ico.icerockmining.io": "INACTIVE",
             "www.imperiumminer.com": "INACTIVE",
-            "www.inwemo.com": "INACTIVE",
             "www.ltc-bitcore3.trezor.io": "INACTIVE",
             "www.ltc.cryptopia.co.nz": "INACTIVE",
-            "www.miningfarmasics.com": "INACTIVE",
+            "www.miningfarmasics.com": "INACTIVE"
+        },
+        "1577573113": {
             "www.old-wallet.trezor.io": "INACTIVE",
             "www.oracolxor.io": "INACTIVE",
             "www.overflow.mycrypto.com": "INACTIVE",
@@ -448,14 +468,7 @@
             "www.rpc.myetherwallet.com": "INACTIVE",
             "www.shop.simplemining.net": "INACTIVE",
             "www.shop.trezor.io": "INACTIVE",
-            "www.status.trezor.io": "INACTIVE",
-            "www.tradewin.online": "INACTIVE",
-            "www.wallet.trezor.io": "INACTIVE",
-            "www.wiki.trezor.io": "INACTIVE",
-            "www.zec-bitcore1.trezor.io": "INACTIVE",
-            "www1.a-ads.com": "INACTIVE",
-            "www3.a-ads.com": "INACTIVE",
-            "zec-bitcore1.trezor.io": "INACTIVE"
+            "www.status.trezor.io": "INACTIVE"
         }
     }
 }
