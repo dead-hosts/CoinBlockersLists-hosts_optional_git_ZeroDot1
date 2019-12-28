@@ -24,6 +24,7 @@
 0.0.0.0 api.coinmama.com
 0.0.0.0 apidocs.bithumb.com
 0.0.0.0 apidocs.m.bithumb.com
+0.0.0.0 api.inwemo.com
 0.0.0.0 api.jaxx.io
 0.0.0.0 api.ledgerwallet.com
 0.0.0.0 api.mymonero.com
@@ -56,6 +57,8 @@
 0.0.0.0 btcturk.com
 0.0.0.0 buy.mycrypto.com
 0.0.0.0 careers.coinmama.com
+0.0.0.0 cdn2.inwemo.com
+0.0.0.0 cdn.inwemo.com
 0.0.0.0 certification.bithumb.com
 0.0.0.0 cex.io
 0.0.0.0 chainradar.com
@@ -87,6 +90,7 @@
 0.0.0.0 cryptonotemining.org
 0.0.0.0 cryptopia.co.nz
 0.0.0.0 cur.lv
+0.0.0.0 dashboard.inwemo.com
 0.0.0.0 destek.btcturk.com
 0.0.0.0 devapi.quadrigacx.com
 0.0.0.0 dev.cointraffic.io
@@ -130,6 +134,7 @@
 0.0.0.0 ftp.binance.com
 0.0.0.0 ftp.coinmama.com
 0.0.0.0 ftp.gameofbitcoins.com
+0.0.0.0 ftp.inwemo.com
 0.0.0.0 ftp.mellowads.com
 0.0.0.0 ftp.uclick.in
 0.0.0.0 gameofbitcoins.com
@@ -293,6 +298,7 @@
 0.0.0.0 ws.ledgerwallet.com
 0.0.0.0 ws.quadrigacx.com
 0.0.0.0 wss.bithumb.com
+0.0.0.0 www1.bithumb.com
 0.0.0.0 www.1safe.link
 0.0.0.0 www.803mine.com
 0.0.0.0 www.a-ads.com
@@ -388,3 +394,7 @@
 0.0.0.0 www.stream2.binance.com
 0.0.0.0 www.stream.binance.com
 0.0.0.0 www.superbitcoiner.com
+0.0.0.0 www.support.binance.com
+0.0.0.0 www.trezor.io
+0.0.0.0 www.uclick.in
+0.0.0.0 www.whattomine.com
