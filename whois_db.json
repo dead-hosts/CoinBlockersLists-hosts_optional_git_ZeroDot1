@@ -142,7 +142,7 @@
     "cryptoguiminer.com": {
         "epoch": 1579824000.0,
         "expiration_date": "24-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "cryptonaut.org": {
         "epoch": 1595721600.0,

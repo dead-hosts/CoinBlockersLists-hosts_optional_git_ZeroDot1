@@ -235,7 +235,7 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_optional_git_ZeroDot1/domains.list": {
-        "1579690057": {
+        "1579910360": {
             "ad.s.a-ads.com": "INACTIVE",
             "ad001.a-ads.com": "INACTIVE",
             "ad004.a-ads.com": "INACTIVE",
@@ -267,7 +267,6 @@
             "admin.adconity.com": "INACTIVE",
             "admin.coinmama.com": "INACTIVE",
             "alpha.myetherwallet.com": "INACTIVE",
-            "api.cryptoguiminer.com": "INACTIVE",
             "api.cryptopia.co.nz": "INACTIVE",
             "api.mycrypto.com": "INACTIVE",
             "api1.bithumb.com": "INACTIVE",
@@ -293,9 +292,7 @@
             "cdn1.cryptopia.co.nz": "INACTIVE",
             "chat.coinmama.com": "INACTIVE",
             "chf.a-ads.com": "INACTIVE",
-            "cloud.cryptoguiminer.com": "INACTIVE",
             "cpanel.antminer-store.com": "INACTIVE",
-            "cpanel.cryptoguiminer.com": "INACTIVE",
             "cpanel.imperiumminer.com": "INACTIVE",
             "cpanel.support.hashgains.com": "INACTIVE",
             "cpanel.uclick.in": "INACTIVE",
@@ -334,7 +331,9 @@
             "helpdesk2.bitfinex.com": "INACTIVE",
             "honeypot.cryptopia.co.nz": "INACTIVE",
             "i2p.emercoin.com": "INACTIVE",
-            "imperiumminer.com": "INACTIVE",
+            "imperiumminer.com": "INACTIVE"
+        },
+        "1579910361": {
             "infra2.bithumb.com": "INACTIVE",
             "investor.cryptopia.co.nz": "INACTIVE",
             "io.rockwall.investments": "INACTIVE",
@@ -375,9 +374,7 @@
             "parners.cryptopia.co.nz": "INACTIVE",
             "pay.bithumb.com": "INACTIVE",
             "poc.simplemining.net": "INACTIVE",
-            "pools.cryptopia.co.nz": "INACTIVE"
-        },
-        "1579690058": {
+            "pools.cryptopia.co.nz": "INACTIVE",
             "pools1.cryptopia.co.nz": "INACTIVE",
             "pools2.cryptopia.co.nz": "INACTIVE",
             "pop3.awesomeminer.com": "INACTIVE",
@@ -406,8 +403,6 @@
             "web4.hashgains.com": "INACTIVE",
             "web5.hashgains.com": "INACTIVE",
             "webdisk.antminer-store.com": "INACTIVE",
-            "webdisk.api.cryptoguiminer.com": "INACTIVE",
-            "webdisk.cryptoguiminer.com": "INACTIVE",
             "webdisk.uclick.in": "INACTIVE",
             "wiki.emercoin.com": "INACTIVE",
             "ws.bitfinex.com": "INACTIVE",
@@ -425,9 +420,7 @@
             "www.bitcore3.trezor.io": "INACTIVE",
             "www.btc-bitcore1.trezor.io": "INACTIVE",
             "www.btc-bitcore3.trezor.io": "INACTIVE",
-            "www.cloud.cryptoguiminer.com": "INACTIVE",
             "www.connect.trezor.io": "INACTIVE",
-            "www.cryptoguiminer.com": "INACTIVE",
             "www.dash-bitcore1.trezor.io": "INACTIVE",
             "www.event.rockwall.investments": "INACTIVE",
             "www.files.cointraffic.io": "INACTIVE",
@@ -455,18 +448,6 @@
             "www1.a-ads.com": "INACTIVE",
             "www3.a-ads.com": "INACTIVE",
             "zec-bitcore1.trezor.io": "INACTIVE"
-        },
-        "1579734895": {
-            "mta82.a.hashgains.com": "INACTIVE",
-            "mta83.a.hashgains.com": "INACTIVE",
-            "mta84.a.hashgains.com": "INACTIVE",
-            "mta85.a.hashgains.com": "INACTIVE",
-            "mta86.a.hashgains.com": "INACTIVE",
-            "mta87.a.hashgains.com": "INACTIVE",
-            "mta88.a.hashgains.com": "INACTIVE",
-            "mta89.a.hashgains.com": "INACTIVE",
-            "mta90.a.hashgains.com": "INACTIVE",
-            "mta91.a.hashgains.com": "INACTIVE"
         }
     }
 }
