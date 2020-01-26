@@ -140,9 +140,9 @@
         "state": "future"
     },
     "cryptoguiminer.com": {
-        "epoch": 1579824000.0,
-        "expiration_date": "24-jan-2020",
-        "state": "past"
+        "epoch": 1611446400.0,
+        "expiration_date": "24-jan-2021",
+        "state": "future"
     },
     "cryptonaut.org": {
         "epoch": 1595721600.0,
@@ -395,8 +395,8 @@
         "state": "future"
     },
     "superbitcoiner.com": {
-        "epoch": 1579996800.0,
-        "expiration_date": "26-jan-2020",
+        "epoch": 1643155200.0,
+        "expiration_date": "26-jan-2022",
         "state": "future"
     },
     "tradewin.online": {
