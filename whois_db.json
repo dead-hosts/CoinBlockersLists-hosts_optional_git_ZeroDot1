@@ -69,6 +69,11 @@
         "expiration_date": "03-sep-2020",
         "state": "future"
     },
+    "bitpay.com": {
+        "epoch": 1668470400.0,
+        "expiration_date": "15-nov-2022",
+        "state": "future"
+    },
     "bixin.im": {
         "epoch": 1597708800.0,
         "expiration_date": "18-aug-2020",
@@ -107,6 +112,11 @@
     "coinadnet.com": {
         "epoch": 1602288000.0,
         "expiration_date": "10-oct-2020",
+        "state": "future"
+    },
+    "coinbase.com": {
+        "epoch": 1719878400.0,
+        "expiration_date": "02-jul-2024",
         "state": "future"
     },
     "coincube.io": {
@@ -177,6 +187,11 @@
     "emercoin.com": {
         "epoch": 1826582400.0,
         "expiration_date": "19-nov-2027",
+        "state": "future"
+    },
+    "epic-ticker.tech": {
+        "epoch": 1601337600.0,
+        "expiration_date": "29-sep-2020",
         "state": "future"
     },
     "ether.cards": {
@@ -367,6 +382,11 @@
     "quadrigacx.com": {
         "epoch": 1600300800.0,
         "expiration_date": "17-sep-2020",
+        "state": "future"
+    },
+    "rbminer.net": {
+        "epoch": 1601337600.0,
+        "expiration_date": "29-sep-2020",
         "state": "future"
     },
     "ripple.com": {
