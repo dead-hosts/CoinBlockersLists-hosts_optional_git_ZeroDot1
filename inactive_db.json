@@ -493,6 +493,9 @@
             "www3.a-ads.com": "INACTIVE",
             "wwww.coinbase.com": "INACTIVE",
             "zec-bitcore1.trezor.io": "INACTIVE"
+        },
+        "1580684463": {
+            "www2.coinbase.com": "INACTIVE"
         }
     }
 }
