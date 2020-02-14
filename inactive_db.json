@@ -235,7 +235,28 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_optional_git_ZeroDot1/domains.list": {
-        "1581466086": {
+        "1581466088": {
+            "www.oracolxor.io": "INACTIVE",
+            "www.overflow.mycrypto.com": "INACTIVE",
+            "www.pay.bithumb.com": "INACTIVE",
+            "www.preorder.trezor.io": "INACTIVE",
+            "www.rm.cointraffic.io": "INACTIVE",
+            "www.rpc.myetherwallet.com": "INACTIVE",
+            "www.shop.simplemining.net": "INACTIVE",
+            "www.shop.trezor.io": "INACTIVE",
+            "www.status.trezor.io": "INACTIVE",
+            "www.support.bitpay.com": "INACTIVE",
+            "www.test.bitpay.com": "INACTIVE",
+            "www.tradewin.online": "INACTIVE",
+            "www.wallet.trezor.io": "INACTIVE",
+            "www.wiki.trezor.io": "INACTIVE",
+            "www.zec-bitcore1.trezor.io": "INACTIVE",
+            "www1.a-ads.com": "INACTIVE",
+            "www3.a-ads.com": "INACTIVE",
+            "wwww.coinbase.com": "INACTIVE",
+            "zec-bitcore1.trezor.io": "INACTIVE"
+        },
+        "1581638968": {
             "ad.s.a-ads.com": "INACTIVE",
             "ad001.a-ads.com": "INACTIVE",
             "ad004.a-ads.com": "INACTIVE",
@@ -262,9 +283,7 @@
             "ad225.a-ads.com": "INACTIVE",
             "ad226.a-ads.com": "INACTIVE",
             "ad228.a-ads.com": "INACTIVE",
-            "ad302.a-ads.com": "INACTIVE"
-        },
-        "1581466087": {
+            "ad302.a-ads.com": "INACTIVE",
             "adc.cryptopia.co.nz": "INACTIVE",
             "admin.adconity.com": "INACTIVE",
             "admin.coinmama.com": "INACTIVE",
@@ -277,8 +296,6 @@
             "app0.a-ads.com": "INACTIVE",
             "apps.cointraffic.io": "INACTIVE",
             "apps2.cointraffic.io": "INACTIVE",
-            "artus-mining.de": "INACTIVE",
-            "assets.coinbase.com": "INACTIVE",
             "autoconfig.bitcoin-doubler.us": "INACTIVE",
             "autodiscover.btc-alpha.com": "INACTIVE",
             "autodiscover.uclick.in": "INACTIVE",
@@ -296,6 +313,8 @@
             "bng.btc-alpha.com": "INACTIVE",
             "btc.a-ads.com": "INACTIVE",
             "bullet.simplemining.net": "INACTIVE",
+            "buy.coinbase.com": "INACTIVE",
+            "buy.mycrypto.com": "INACTIVE",
             "calendar.coinmama.com": "INACTIVE",
             "cdn1.cryptopia.co.nz": "INACTIVE",
             "cf-ssl28641-protected.coinbase.com": "INACTIVE",
@@ -317,6 +336,8 @@
             "dns3.rockwall.investments": "INACTIVE",
             "doge.cryptopia.co.nz": "INACTIVE",
             "domainkey.rockwall.investments": "INACTIVE",
+            "ems04.bithumb.com": "INACTIVE",
+            "ems05.bithumb.com": "INACTIVE",
             "ent-api.sandbox.coinbase.com": "INACTIVE",
             "ethoca-sandbox.coinbase.com": "INACTIVE",
             "event.btc-alpha.com": "INACTIVE",
@@ -354,7 +375,9 @@
             "io.rockwall.investments": "INACTIVE",
             "jira.cryptopia.co.nz": "INACTIVE",
             "jp.simplemining.net": "INACTIVE",
-            "justin.bitpay.com": "INACTIVE",
+            "justin.bitpay.com": "INACTIVE"
+        },
+        "1581638969": {
             "kriptometre.btcturk.com": "INACTIVE",
             "lb4.a-ads.com": "INACTIVE",
             "linfen.cryptopia.co.nz": "INACTIVE",
@@ -385,6 +408,9 @@
             "mta86.a.hashgains.com": "INACTIVE",
             "mta87.a.hashgains.com": "INACTIVE",
             "mta88.a.hashgains.com": "INACTIVE",
+            "mta89.a.hashgains.com": "INACTIVE",
+            "mta90.a.hashgains.com": "INACTIVE",
+            "mta91.a.hashgains.com": "INACTIVE",
             "mx.peerhash.com": "INACTIVE",
             "n1.cryptopia.co.nz": "INACTIVE",
             "netvision.cryptopia.co.nz": "INACTIVE",
@@ -423,9 +449,7 @@
             "sandbox.exchange.coinbase.com": "INACTIVE",
             "sandbox.prime.coinbase.com": "INACTIVE",
             "sandbox.pro.coinbase.com": "INACTIVE",
-            "secure.coinmama.com": "INACTIVE"
-        },
-        "1581466088": {
+            "secure.coinmama.com": "INACTIVE",
             "staging.community.coinbase.com": "INACTIVE",
             "stats.ethc.io": "INACTIVE",
             "status.coinmama.com": "INACTIVE",
@@ -474,26 +498,7 @@
             "www.ltc-bitcore3.trezor.io": "INACTIVE",
             "www.ltc.cryptopia.co.nz": "INACTIVE",
             "www.miningfarmasics.com": "INACTIVE",
-            "www.old-wallet.trezor.io": "INACTIVE",
-            "www.oracolxor.io": "INACTIVE",
-            "www.overflow.mycrypto.com": "INACTIVE",
-            "www.pay.bithumb.com": "INACTIVE",
-            "www.preorder.trezor.io": "INACTIVE",
-            "www.rm.cointraffic.io": "INACTIVE",
-            "www.rpc.myetherwallet.com": "INACTIVE",
-            "www.shop.simplemining.net": "INACTIVE",
-            "www.shop.trezor.io": "INACTIVE",
-            "www.status.trezor.io": "INACTIVE",
-            "www.support.bitpay.com": "INACTIVE",
-            "www.test.bitpay.com": "INACTIVE",
-            "www.tradewin.online": "INACTIVE",
-            "www.wallet.trezor.io": "INACTIVE",
-            "www.wiki.trezor.io": "INACTIVE",
-            "www.zec-bitcore1.trezor.io": "INACTIVE",
-            "www1.a-ads.com": "INACTIVE",
-            "www3.a-ads.com": "INACTIVE",
-            "wwww.coinbase.com": "INACTIVE",
-            "zec-bitcore1.trezor.io": "INACTIVE"
+            "www.old-wallet.trezor.io": "INACTIVE"
         }
     }
 }
