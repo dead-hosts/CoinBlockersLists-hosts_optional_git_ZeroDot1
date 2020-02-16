@@ -235,7 +235,7 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_optional_git_ZeroDot1/domains.list": {
-        "1581638968": {
+        "1581811568": {
             "ad.s.a-ads.com": "INACTIVE",
             "ad001.a-ads.com": "INACTIVE",
             "ad004.a-ads.com": "INACTIVE",
@@ -292,10 +292,10 @@
             "bng.btc-alpha.com": "INACTIVE",
             "btc.a-ads.com": "INACTIVE",
             "bullet.simplemining.net": "INACTIVE",
-            "buy.coinbase.com": "INACTIVE",
-            "buy.mycrypto.com": "INACTIVE",
             "calendar.coinmama.com": "INACTIVE",
-            "cdn1.cryptopia.co.nz": "INACTIVE",
+            "cdn1.cryptopia.co.nz": "INACTIVE"
+        },
+        "1581811569": {
             "cf-ssl28641-protected.coinbase.com": "INACTIVE",
             "chat.coinmama.com": "INACTIVE",
             "chf.a-ads.com": "INACTIVE",
@@ -315,8 +315,6 @@
             "dns3.rockwall.investments": "INACTIVE",
             "doge.cryptopia.co.nz": "INACTIVE",
             "domainkey.rockwall.investments": "INACTIVE",
-            "ems04.bithumb.com": "INACTIVE",
-            "ems05.bithumb.com": "INACTIVE",
             "ent-api.sandbox.coinbase.com": "INACTIVE",
             "ethoca-sandbox.coinbase.com": "INACTIVE",
             "event.btc-alpha.com": "INACTIVE",
@@ -354,9 +352,7 @@
             "io.rockwall.investments": "INACTIVE",
             "jira.cryptopia.co.nz": "INACTIVE",
             "jp.simplemining.net": "INACTIVE",
-            "justin.bitpay.com": "INACTIVE"
-        },
-        "1581638969": {
+            "justin.bitpay.com": "INACTIVE",
             "kriptometre.btcturk.com": "INACTIVE",
             "lb4.a-ads.com": "INACTIVE",
             "linfen.cryptopia.co.nz": "INACTIVE",
@@ -379,17 +375,7 @@
             "miningfarmasics.com": "INACTIVE",
             "minneapolis.rockwall.investments": "INACTIVE",
             "mm.a-ads.com": "INACTIVE",
-            "mta82.a.hashgains.com": "INACTIVE",
             "mta82.hashgains.com": "INACTIVE",
-            "mta83.a.hashgains.com": "INACTIVE",
-            "mta84.a.hashgains.com": "INACTIVE",
-            "mta85.a.hashgains.com": "INACTIVE",
-            "mta86.a.hashgains.com": "INACTIVE",
-            "mta87.a.hashgains.com": "INACTIVE",
-            "mta88.a.hashgains.com": "INACTIVE",
-            "mta89.a.hashgains.com": "INACTIVE",
-            "mta90.a.hashgains.com": "INACTIVE",
-            "mta91.a.hashgains.com": "INACTIVE",
             "mx.peerhash.com": "INACTIVE",
             "n1.cryptopia.co.nz": "INACTIVE",
             "netvision.cryptopia.co.nz": "INACTIVE",
@@ -446,7 +432,9 @@
             "webdisk.antminer-store.com": "INACTIVE",
             "webdisk.uclick.in": "INACTIVE",
             "wiki.emercoin.com": "INACTIVE",
-            "ws.bitfinex.com": "INACTIVE",
+            "ws.bitfinex.com": "INACTIVE"
+        },
+        "1581811570": {
             "ws.sandbox.coinbase.com": "INACTIVE",
             "wss1.bithumb.com": "INACTIVE",
             "ww.cryptopia.co.nz": "INACTIVE",
@@ -477,9 +465,7 @@
             "www.ltc-bitcore3.trezor.io": "INACTIVE",
             "www.ltc.cryptopia.co.nz": "INACTIVE",
             "www.miningfarmasics.com": "INACTIVE",
-            "www.old-wallet.trezor.io": "INACTIVE"
-        },
-        "1581642341": {
+            "www.old-wallet.trezor.io": "INACTIVE",
             "www.oracolxor.io": "INACTIVE",
             "www.overflow.mycrypto.com": "INACTIVE",
             "www.pay.bithumb.com": "INACTIVE",
