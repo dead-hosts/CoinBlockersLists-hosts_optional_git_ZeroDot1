@@ -3,7 +3,7 @@
 # Description: This list disables browser based miners such as coin-hive
 # Donate: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=XZK7ZDR3W4QM4&source=url Every donation keeps the future development going. Thank you.
 # Homepage: https://github.com/ZeroDot1/CoinBlockerLists
-# Last modified: 2020-02-01 18:35:41
+# Last modified: 2020-02-18 02:24:47
 # License: https://gitlab.io/ZeroDot1/CoinBlockerLists/LICENSE
 # [CoinBlocker hosts List optional by ZeroDot1]
 0.0.0.0 0x.mycrypto.com
@@ -49,6 +49,7 @@
 0.0.0.0 aimenterprise.blog21.fc2.com cdn1.cryptopia.co.nz
 0.0.0.0 alpha.cryptopia.co.nz
 0.0.0.0 alpha.myetherwallet.com
+0.0.0.0 altsbit.com
 0.0.0.0 am.coinbase.com
 0.0.0.0 analytics.coinbase.com
 0.0.0.0 antminer-store.com
@@ -133,6 +134,7 @@
 0.0.0.0 btc.a-ads.com
 0.0.0.0 btcturk.com
 0.0.0.0 bullet.simplemining.net
+0.0.0.0 burstpay.io
 0.0.0.0 buy.coinbase.com
 0.0.0.0 buy.mycrypto.com
 0.0.0.0 bws.bitpay.com
@@ -177,6 +179,7 @@
 0.0.0.0 connect.trezor.io
 0.0.0.0 cosigner.electrum.org
 0.0.0.0 cpanel.antminer-store.com
+0.0.0.0 cpanel.burstpay.io
 0.0.0.0 cpanel.cryptoguiminer.com
 0.0.0.0 cpanel.gameofbitcoins.com
 0.0.0.0 cpanel.imperiumminer.com
@@ -190,6 +193,7 @@
 0.0.0.0 custody.coinbase.com
 0.0.0.0 dash-bitcore1.trezor.io
 0.0.0.0 dashboard.inwemo.com
+0.0.0.0 dc-69ad656f88bf.burstpay.io
 0.0.0.0 dc.rockwall.investments
 0.0.0.0 destek.btcturk.com
 0.0.0.0 dev-xhlkashd.coinmama.com
@@ -259,6 +263,7 @@
 0.0.0.0 ex-notify.coinbase.com
 0.0.0.0 exceptions.coinbase.com
 0.0.0.0 exchange.coinbase.com
+0.0.0.0 explorer.burstpay.io
 0.0.0.0 faucet.evergreencoin.org
 0.0.0.0 faucethub.io
 0.0.0.0 feed.exchange.coinbase.com
@@ -371,6 +376,7 @@
 0.0.0.0 lyncdiscover.hashgains.com
 0.0.0.0 m.bithumb.com
 0.0.0.0 m.cryptopia.co.nz
+0.0.0.0 mail.burstpay.io
 0.0.0.0 mail.coinbase.com
 0.0.0.0 management.cryptopia.co.nz
 0.0.0.0 mars.cryptopia.co.nz
@@ -385,6 +391,7 @@
 0.0.0.0 minecraft.cryptopia.co.nz
 0.0.0.0 miner.hosting
 0.0.0.0 minerboard.com
+0.0.0.0 minerstat.com
 0.0.0.0 mineshaft.cryptopia.co.nz
 0.0.0.0 mineshaft1.cryptopia.co.nz
 0.0.0.0 mineshop.eu
@@ -394,6 +401,7 @@
 0.0.0.0 mm.a-ads.com
 0.0.0.0 mobile-update.bithumb.com
 0.0.0.0 monero-miner.000webhostapp.com
+0.0.0.0 monitorig.com
 0.0.0.0 mta82.a.hashgains.com
 0.0.0.0 mta82.hashgains.com
 0.0.0.0 mta83.a.hashgains.com
@@ -577,6 +585,7 @@
 0.0.0.0 vip.coinmama.com
 0.0.0.0 w.cryptopia.co.nz
 0.0.0.0 waiting.bithumb.com
+0.0.0.0 wallet.burstpay.io
 0.0.0.0 wallet.coinbase.com
 0.0.0.0 wallet.commerce.coinbase.com
 0.0.0.0 wallet.trezor.io
@@ -589,8 +598,10 @@
 0.0.0.0 web6.hashgains.com
 0.0.0.0 webdisk.antminer-store.com
 0.0.0.0 webdisk.api.cryptoguiminer.com
+0.0.0.0 webdisk.burstpay.io
 0.0.0.0 webdisk.cryptoguiminer.com
 0.0.0.0 webdisk.uclick.in
+0.0.0.0 webmail.burstpay.io
 0.0.0.0 whattomine.com
 0.0.0.0 whm.gameofbitcoins.com
 0.0.0.0 widget.coinmama.com
@@ -618,6 +629,7 @@
 0.0.0.0 www.a-ads.com
 0.0.0.0 www.adconity.com
 0.0.0.0 www.alpha.myetherwallet.com
+0.0.0.0 www.altsbit.com
 0.0.0.0 www.antminer-store.com
 0.0.0.0 www.api.binance.com
 0.0.0.0 www.api.mymonero.com
@@ -644,6 +656,7 @@
 0.0.0.0 www.btc-bitcore1.trezor.io
 0.0.0.0 www.btc-bitcore3.trezor.io
 0.0.0.0 www.btcturk.com
+0.0.0.0 www.burstpay.io
 0.0.0.0 www.careers.coinmama.com
 0.0.0.0 www.chainradar.com
 0.0.0.0 www.changelly.com
