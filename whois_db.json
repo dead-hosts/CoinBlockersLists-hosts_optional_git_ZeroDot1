@@ -300,8 +300,8 @@
         "state": "future"
     },
     "lightning.network": {
-        "epoch": 1582243200.0,
-        "expiration_date": "21-feb-2020",
+        "epoch": 1613865600.0,
+        "expiration_date": "21-feb-2021",
         "state": "future"
     },
     "lightninginabox.co": {
@@ -320,9 +320,9 @@
         "state": "future"
     },
     "masternodes4everyone.com": {
-        "epoch": 1582156800.0,
-        "expiration_date": "20-feb-2020",
-        "state": "past"
+        "epoch": 1613779200.0,
+        "expiration_date": "20-feb-2021",
+        "state": "future"
     },
     "mellowads.com": {
         "epoch": 1583193600.0,

@@ -235,7 +235,7 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_optional_git_ZeroDot1/domains.list": {
-        "1582156991": {
+        "1582329983": {
             "ad.s.a-ads.com": "INACTIVE",
             "ad001.a-ads.com": "INACTIVE",
             "ad004.a-ads.com": "INACTIVE",
@@ -251,9 +251,7 @@
             "ad032.a-ads.com": "INACTIVE",
             "ad201.a-ads.com": "INACTIVE",
             "ad203.a-ads.com": "INACTIVE",
-            "ad210.a-ads.com": "INACTIVE"
-        },
-        "1582156992": {
+            "ad210.a-ads.com": "INACTIVE",
             "ad212.a-ads.com": "INACTIVE",
             "ad213.a-ads.com": "INACTIVE",
             "ad216.a-ads.com": "INACTIVE",
@@ -316,7 +314,9 @@
             "doge.cryptopia.co.nz": "INACTIVE",
             "domainkey.rockwall.investments": "INACTIVE",
             "ent-api.sandbox.coinbase.com": "INACTIVE",
-            "ethoca-sandbox.coinbase.com": "INACTIVE",
+            "ethoca-sandbox.coinbase.com": "INACTIVE"
+        },
+        "1582329984": {
             "event.btc-alpha.com": "INACTIVE",
             "event.rockwall.investments": "INACTIVE",
             "ex-notify.coinbase.com": "INACTIVE",
@@ -404,9 +404,7 @@
             "rc.bithumb.com": "INACTIVE",
             "redmine.emercoin.com": "INACTIVE",
             "relay.coinbase.com": "INACTIVE",
-            "rm.cointraffic.io": "INACTIVE"
-        },
-        "1582156993": {
+            "rm.cointraffic.io": "INACTIVE",
             "rpc.myetherwallet.com": "INACTIVE",
             "ru.cryptopia.co.nz": "INACTIVE",
             "s.a-ads.com": "INACTIVE",
@@ -459,7 +457,9 @@
             "www.event.rockwall.investments": "INACTIVE",
             "www.files.cointraffic.io": "INACTIVE",
             "www.getbitcoin.nz": "INACTIVE",
-            "www.gitlab.bitpay.com": "INACTIVE",
+            "www.gitlab.bitpay.com": "INACTIVE"
+        },
+        "1582329985": {
             "www.go.coinmama.com": "INACTIVE",
             "www.ico.icerockmining.io": "INACTIVE",
             "www.imperiumminer.com": "INACTIVE",
