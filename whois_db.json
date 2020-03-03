@@ -95,8 +95,8 @@
         "state": "future"
     },
     "burstpay.io": {
-        "epoch": 1583107200.0,
-        "expiration_date": "02-mar-2020",
+        "epoch": 1614643200.0,
+        "expiration_date": "02-mar-2021",
         "state": "future"
     },
     "cex.io": {
@@ -332,7 +332,7 @@
     "mellowads.com": {
         "epoch": 1583193600.0,
         "expiration_date": "03-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "miner.hosting": {
         "epoch": 1593820800.0,
