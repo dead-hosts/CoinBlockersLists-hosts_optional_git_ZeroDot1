@@ -498,6 +498,15 @@
             "mta89.a.hashgains.com": "INACTIVE",
             "mta90.a.hashgains.com": "INACTIVE",
             "mta91.a.hashgains.com": "INACTIVE"
+        },
+        "1583535550": {
+            "api.cryptoguiminer.com": "INACTIVE",
+            "cloud.cryptoguiminer.com": "INACTIVE",
+            "cpanel.cryptoguiminer.com": "INACTIVE",
+            "webdisk.api.cryptoguiminer.com": "INACTIVE",
+            "webdisk.cryptoguiminer.com": "INACTIVE",
+            "www.cloud.cryptoguiminer.com": "INACTIVE",
+            "www.cryptoguiminer.com": "INACTIVE"
         }
     }
 }
