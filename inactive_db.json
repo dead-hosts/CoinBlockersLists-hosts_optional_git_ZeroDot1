@@ -235,7 +235,7 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_optional_git_ZeroDot1/domains.list": {
-        "1583925385": {
+        "1584058915": {
             "ad.s.a-ads.com": "INACTIVE",
             "ad001.a-ads.com": "INACTIVE",
             "ad004.a-ads.com": "INACTIVE",
@@ -369,7 +369,9 @@
             "mars.cryptopia.co.nz": "INACTIVE",
             "mike.cryptopia.co.nz": "INACTIVE",
             "mike.rockwall.investments": "INACTIVE",
-            "minecraft.cryptopia.co.nz": "INACTIVE",
+            "minecraft.cryptopia.co.nz": "INACTIVE"
+        },
+        "1584058916": {
             "mineshaft.cryptopia.co.nz": "INACTIVE",
             "mineshaft1.cryptopia.co.nz": "INACTIVE",
             "miningfarmasics.com": "INACTIVE",
@@ -381,9 +383,7 @@
             "mta84.a.hashgains.com": "INACTIVE",
             "mta85.a.hashgains.com": "INACTIVE",
             "mta86.a.hashgains.com": "INACTIVE",
-            "mta87.a.hashgains.com": "INACTIVE"
-        },
-        "1583925386": {
+            "mta87.a.hashgains.com": "INACTIVE",
             "mta88.a.hashgains.com": "INACTIVE",
             "mta89.a.hashgains.com": "INACTIVE",
             "mta90.a.hashgains.com": "INACTIVE",
