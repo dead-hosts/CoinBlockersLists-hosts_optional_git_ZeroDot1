@@ -235,7 +235,7 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_optional_git_ZeroDot1/domains.list": {
-        "1584403985": {
+        "1584577076": {
             "ad.s.a-ads.com": "INACTIVE",
             "ad001.a-ads.com": "INACTIVE",
             "ad004.a-ads.com": "INACTIVE",
@@ -263,9 +263,7 @@
             "ad226.a-ads.com": "INACTIVE",
             "ad228.a-ads.com": "INACTIVE",
             "ad302.a-ads.com": "INACTIVE",
-            "adc.cryptopia.co.nz": "INACTIVE"
-        },
-        "1584403986": {
+            "adc.cryptopia.co.nz": "INACTIVE",
             "admin.adconity.com": "INACTIVE",
             "admin.coinmama.com": "INACTIVE",
             "alpha.myetherwallet.com": "INACTIVE",
@@ -292,7 +290,9 @@
             "blog-dev.coinbase.com": "INACTIVE",
             "blog-staging.coinbase.com": "INACTIVE",
             "bng.btc-alpha.com": "INACTIVE",
-            "btc.a-ads.com": "INACTIVE",
+            "btc.a-ads.com": "INACTIVE"
+        },
+        "1584577077": {
             "bullet.simplemining.net": "INACTIVE",
             "calendar.coinmama.com": "INACTIVE",
             "cdn1.cryptopia.co.nz": "INACTIVE",
@@ -378,7 +378,7 @@
             "minneapolis.rockwall.investments": "INACTIVE",
             "mm.a-ads.com": "INACTIVE",
             "mta82.hashgains.com": "INACTIVE",
-            "mta84.a.hashgains.com": "INACTIVE",
+            "mta87.a.hashgains.com": "INACTIVE",
             "mx.peerhash.com": "INACTIVE",
             "n1.cryptopia.co.nz": "INACTIVE",
             "netvision.cryptopia.co.nz": "INACTIVE",
@@ -416,9 +416,7 @@
             "sandbox.coinbase.com": "INACTIVE",
             "sandbox.exchange.coinbase.com": "INACTIVE",
             "sandbox.prime.coinbase.com": "INACTIVE",
-            "sandbox.pro.coinbase.com": "INACTIVE"
-        },
-        "1584403987": {
+            "sandbox.pro.coinbase.com": "INACTIVE",
             "secure.coinmama.com": "INACTIVE",
             "staging.community.coinbase.com": "INACTIVE",
             "stats.ethc.io": "INACTIVE",
@@ -439,7 +437,9 @@
             "webdisk.api.cryptoguiminer.com": "INACTIVE",
             "webdisk.cryptoguiminer.com": "INACTIVE",
             "webdisk.uclick.in": "INACTIVE",
-            "wiki.emercoin.com": "INACTIVE",
+            "wiki.emercoin.com": "INACTIVE"
+        },
+        "1584577078": {
             "ws.bitfinex.com": "INACTIVE",
             "ws.sandbox.coinbase.com": "INACTIVE",
             "wss1.bithumb.com": "INACTIVE",

@@ -464,6 +464,11 @@
         "expiration_date": "11-mar-2021",
         "state": "future"
     },
+    "vinchain.io": {
+        "epoch": 1822694400.0,
+        "expiration_date": "05-oct-2027",
+        "state": "future"
+    },
     "whattomine.com": {
         "epoch": 1586563200.0,
         "expiration_date": "11-apr-2020",
