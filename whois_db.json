@@ -37,7 +37,7 @@
     "bfgminer.org": {
         "epoch": 1586131200.0,
         "expiration_date": "06-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "binance.com": {
         "epoch": 1617235200.0,

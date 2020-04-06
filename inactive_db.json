@@ -235,7 +235,7 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_optional_git_ZeroDot1/domains.list": {
-        "1586084156": {
+        "1586171837": {
             "ad.s.a-ads.com": "INACTIVE",
             "ad001.a-ads.com": "INACTIVE",
             "ad004.a-ads.com": "INACTIVE",
@@ -296,7 +296,9 @@
             "calendar.coinmama.com": "INACTIVE",
             "cdn1.cryptopia.co.nz": "INACTIVE",
             "cf-ssl28641-protected.coinbase.com": "INACTIVE",
-            "chat.coinmama.com": "INACTIVE",
+            "chat.coinmama.com": "INACTIVE"
+        },
+        "1586171838": {
             "chf.a-ads.com": "INACTIVE",
             "cloud.cryptoguiminer.com": "INACTIVE",
             "cpanel.antminer-store.com": "INACTIVE",
@@ -376,9 +378,7 @@
             "miningfarmasics.com": "INACTIVE",
             "minneapolis.rockwall.investments": "INACTIVE",
             "mm.a-ads.com": "INACTIVE",
-            "mta82.hashgains.com": "INACTIVE"
-        },
-        "1586084157": {
+            "mta82.hashgains.com": "INACTIVE",
             "mx.peerhash.com": "INACTIVE",
             "n1.cryptopia.co.nz": "INACTIVE",
             "netvision.cryptopia.co.nz": "INACTIVE",
@@ -429,7 +429,9 @@
             "unauthorized.btcturk.com": "INACTIVE",
             "unauthorized.cryptopia.co.nz": "INACTIVE",
             "upload.a-ads.com": "INACTIVE",
-            "ups.cryptopia.co.nz": "INACTIVE",
+            "ups.cryptopia.co.nz": "INACTIVE"
+        },
+        "1586171839": {
             "w.cryptopia.co.nz": "INACTIVE",
             "web3.hashgains.com": "INACTIVE",
             "web4.hashgains.com": "INACTIVE",
