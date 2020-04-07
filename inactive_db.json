@@ -235,7 +235,7 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_optional_git_ZeroDot1/domains.list": {
-        "1586171837": {
+        "1586303015": {
             "ad.s.a-ads.com": "INACTIVE",
             "ad001.a-ads.com": "INACTIVE",
             "ad004.a-ads.com": "INACTIVE",
@@ -253,7 +253,9 @@
             "ad203.a-ads.com": "INACTIVE",
             "ad210.a-ads.com": "INACTIVE",
             "ad212.a-ads.com": "INACTIVE",
-            "ad213.a-ads.com": "INACTIVE",
+            "ad213.a-ads.com": "INACTIVE"
+        },
+        "1586303016": {
             "ad216.a-ads.com": "INACTIVE",
             "ad217.a-ads.com": "INACTIVE",
             "ad218.a-ads.com": "INACTIVE",
@@ -296,9 +298,7 @@
             "calendar.coinmama.com": "INACTIVE",
             "cdn1.cryptopia.co.nz": "INACTIVE",
             "cf-ssl28641-protected.coinbase.com": "INACTIVE",
-            "chat.coinmama.com": "INACTIVE"
-        },
-        "1586171838": {
+            "chat.coinmama.com": "INACTIVE",
             "chf.a-ads.com": "INACTIVE",
             "cloud.cryptoguiminer.com": "INACTIVE",
             "cpanel.antminer-store.com": "INACTIVE",
@@ -406,7 +406,9 @@
             "public.sandbox.exchange.coinbase.com": "INACTIVE",
             "rc.bithumb.com": "INACTIVE",
             "redmine.emercoin.com": "INACTIVE",
-            "relay.coinbase.com": "INACTIVE",
+            "relay.coinbase.com": "INACTIVE"
+        },
+        "1586303017": {
             "rm.cointraffic.io": "INACTIVE",
             "rpc.myetherwallet.com": "INACTIVE",
             "ru.cryptopia.co.nz": "INACTIVE",
@@ -415,8 +417,6 @@
             "saml.cryptopia.co.nz": "INACTIVE",
             "sandbox.coinbase.com": "INACTIVE",
             "sandbox.exchange.coinbase.com": "INACTIVE",
-            "sandbox.prime.coinbase.com": "INACTIVE",
-            "sandbox.pro.coinbase.com": "INACTIVE",
             "secure.coinmama.com": "INACTIVE",
             "staging.community.coinbase.com": "INACTIVE",
             "stats.ethc.io": "INACTIVE",
@@ -429,9 +429,7 @@
             "unauthorized.btcturk.com": "INACTIVE",
             "unauthorized.cryptopia.co.nz": "INACTIVE",
             "upload.a-ads.com": "INACTIVE",
-            "ups.cryptopia.co.nz": "INACTIVE"
-        },
-        "1586171839": {
+            "ups.cryptopia.co.nz": "INACTIVE",
             "w.cryptopia.co.nz": "INACTIVE",
             "web3.hashgains.com": "INACTIVE",
             "web4.hashgains.com": "INACTIVE",
