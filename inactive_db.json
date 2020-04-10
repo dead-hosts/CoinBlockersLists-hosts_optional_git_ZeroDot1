@@ -235,7 +235,7 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_optional_git_ZeroDot1/domains.list": {
-        "1586303015": {
+        "1586478722": {
             "ad.s.a-ads.com": "INACTIVE",
             "ad001.a-ads.com": "INACTIVE",
             "ad004.a-ads.com": "INACTIVE",
@@ -253,9 +253,7 @@
             "ad203.a-ads.com": "INACTIVE",
             "ad210.a-ads.com": "INACTIVE",
             "ad212.a-ads.com": "INACTIVE",
-            "ad213.a-ads.com": "INACTIVE"
-        },
-        "1586303016": {
+            "ad213.a-ads.com": "INACTIVE",
             "ad216.a-ads.com": "INACTIVE",
             "ad217.a-ads.com": "INACTIVE",
             "ad218.a-ads.com": "INACTIVE",
@@ -319,7 +317,9 @@
             "doge.cryptopia.co.nz": "INACTIVE",
             "domainkey.rockwall.investments": "INACTIVE",
             "ent-api.sandbox.coinbase.com": "INACTIVE",
-            "ethoca-sandbox.coinbase.com": "INACTIVE",
+            "ethoca-sandbox.coinbase.com": "INACTIVE"
+        },
+        "1586478723": {
             "event.btc-alpha.com": "INACTIVE",
             "event.rockwall.investments": "INACTIVE",
             "ex-notify.coinbase.com": "INACTIVE",
@@ -406,9 +406,7 @@
             "public.sandbox.exchange.coinbase.com": "INACTIVE",
             "rc.bithumb.com": "INACTIVE",
             "redmine.emercoin.com": "INACTIVE",
-            "relay.coinbase.com": "INACTIVE"
-        },
-        "1586303017": {
+            "relay.coinbase.com": "INACTIVE",
             "rm.cointraffic.io": "INACTIVE",
             "rpc.myetherwallet.com": "INACTIVE",
             "ru.cryptopia.co.nz": "INACTIVE",
@@ -464,7 +462,9 @@
             "www.engineering.coinbase.com": "INACTIVE",
             "www.event.rockwall.investments": "INACTIVE",
             "www.files.cointraffic.io": "INACTIVE",
-            "www.getbitcoin.nz": "INACTIVE",
+            "www.getbitcoin.nz": "INACTIVE"
+        },
+        "1586478724": {
             "www.gitlab.bitpay.com": "INACTIVE",
             "www.go.coinmama.com": "INACTIVE",
             "www.ico.icerockmining.io": "INACTIVE",

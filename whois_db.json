@@ -247,7 +247,7 @@
     "hashcoins.ee": {
         "epoch": 1586304000.0,
         "expiration_date": "08-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "hashcoins.ru": {
         "epoch": 1589155200.0,
@@ -392,7 +392,7 @@
     "pandaminer.co": {
         "epoch": 1586476800.0,
         "expiration_date": "10-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "parthk.co.uk": {
         "epoch": 1596067200.0,
