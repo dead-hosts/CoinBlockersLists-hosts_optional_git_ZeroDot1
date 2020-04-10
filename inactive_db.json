@@ -495,6 +495,13 @@
             "www3.a-ads.com": "INACTIVE",
             "wwww.coinbase.com": "INACTIVE",
             "zec-bitcore1.trezor.io": "INACTIVE"
+        },
+        "1586516277": {
+            "mta83.a.hashgains.com": "INACTIVE",
+            "mta86.a.hashgains.com": "INACTIVE",
+            "mta88.a.hashgains.com": "INACTIVE",
+            "mta89.a.hashgains.com": "INACTIVE",
+            "mta91.a.hashgains.com": "INACTIVE"
         }
     }
 }
