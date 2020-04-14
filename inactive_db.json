@@ -235,7 +235,7 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_optional_git_ZeroDot1/domains.list": {
-        "1586734071": {
+        "1586825121": {
             "ad.s.a-ads.com": "INACTIVE",
             "ad001.a-ads.com": "INACTIVE",
             "ad004.a-ads.com": "INACTIVE",
@@ -292,7 +292,6 @@
             "bng.btc-alpha.com": "INACTIVE",
             "btc.a-ads.com": "INACTIVE",
             "bullet.simplemining.net": "INACTIVE",
-            "buy.mycrypto.com": "INACTIVE",
             "calendar.coinmama.com": "INACTIVE",
             "cdn1.cryptopia.co.nz": "INACTIVE",
             "cf-ssl28641-protected.coinbase.com": "INACTIVE",
@@ -347,7 +346,9 @@
             "honeypot.cryptopia.co.nz": "INACTIVE",
             "hostmaster.rbminer.net": "INACTIVE",
             "i2p.emercoin.com": "INACTIVE",
-            "imperiumminer.com": "INACTIVE",
+            "imperiumminer.com": "INACTIVE"
+        },
+        "1586825122": {
             "infra2.bithumb.com": "INACTIVE",
             "investor.cryptopia.co.nz": "INACTIVE",
             "io.rockwall.investments": "INACTIVE",
@@ -376,18 +377,14 @@
             "miningfarmasics.com": "INACTIVE",
             "minneapolis.rockwall.investments": "INACTIVE",
             "mm.a-ads.com": "INACTIVE",
-            "mta82.a.hashgains.com": "INACTIVE",
             "mta82.hashgains.com": "INACTIVE",
-            "mta88.a.hashgains.com": "INACTIVE",
             "mx.peerhash.com": "INACTIVE",
             "n1.cryptopia.co.nz": "INACTIVE",
             "netvision.cryptopia.co.nz": "INACTIVE",
             "network.cryptopia.co.nz": "INACTIVE",
             "next.btc-alpha.com": "INACTIVE",
             "nodes1.cryptopia.co.nz": "INACTIVE",
-            "nodes2.cryptopia.co.nz": "INACTIVE"
-        },
-        "1586734072": {
+            "nodes2.cryptopia.co.nz": "INACTIVE",
             "nostalgia.bitfinex.com": "INACTIVE",
             "ns2.a-ads.com": "INACTIVE",
             "o1.coinmama.com": "INACTIVE",
