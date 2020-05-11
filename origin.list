@@ -3,7 +3,7 @@
 # Description: This list disables browser based miners such as coin-hive
 # Donate: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=XZK7ZDR3W4QM4&source=url Every donation keeps the future development going. Thank you.
 # Homepage: https://github.com/ZeroDot1/CoinBlockerLists
-# Last modified: 2020-03-17 14:58:37
+# Last modified: 2020-05-10 23:22:59
 # License: https://gitlab.io/ZeroDot1/CoinBlockerLists/LICENSE
 # [CoinBlocker hosts List optional by ZeroDot1]
 0.0.0.0 0x.mycrypto.com
@@ -604,6 +604,7 @@
 0.0.0.0 wallet.commerce.coinbase.com
 0.0.0.0 wallet.trezor.io
 0.0.0.0 wallet.vinchain.io
+0.0.0.0 walletgenerator.net
 0.0.0.0 web.bixin.im
 0.0.0.0 web1.hashgains.com
 0.0.0.0 web2.hashgains.com

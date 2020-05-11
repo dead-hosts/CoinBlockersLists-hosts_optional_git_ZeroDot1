@@ -250,8 +250,8 @@
         "state": "past"
     },
     "hashcoins.ru": {
-        "epoch": 1589155200.0,
-        "expiration_date": "11-may-2020",
+        "epoch": 1620691200.0,
+        "expiration_date": "11-may-2021",
         "state": "future"
     },
     "hashgains.com": {
@@ -467,6 +467,11 @@
     "vinchain.io": {
         "epoch": 1822694400.0,
         "expiration_date": "05-oct-2027",
+        "state": "future"
+    },
+    "walletgenerator.net": {
+        "epoch": 1740960000.0,
+        "expiration_date": "03-mar-2025",
         "state": "future"
     },
     "whattomine.com": {
