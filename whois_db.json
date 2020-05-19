@@ -382,7 +382,7 @@
     "oracolxor.io": {
         "epoch": 1589760000.0,
         "expiration_date": "18-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "p2pool.in": {
         "epoch": 1598486400.0,
