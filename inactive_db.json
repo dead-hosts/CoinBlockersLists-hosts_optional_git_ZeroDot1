@@ -2417,6 +2417,20 @@
             "last_retested_at_iso": "2020-06-22T00:22:19.612078",
             "status": "INACTIVE"
         },
+        "mta83.a.hashgains.com": {
+            "included_at_epoch": 1592823514.691099,
+            "included_at_iso": "2020-06-22T10:58:34.691099",
+            "last_retested_at_epoch": 1592823514.691099,
+            "last_retested_at_iso": "2020-06-22T10:58:34.691099",
+            "status": "INACTIVE"
+        },
+        "mta84.a.hashgains.com": {
+            "included_at_epoch": 1592823514.698981,
+            "included_at_iso": "2020-06-22T10:58:34.698981",
+            "last_retested_at_epoch": 1592823514.698981,
+            "last_retested_at_iso": "2020-06-22T10:58:34.698981",
+            "status": "INACTIVE"
+        },
         "mx.peerhash.com": {
             "included_at_epoch": 1592266264.754788,
             "included_at_iso": "2020-06-16T00:11:04.754788",
@@ -3020,10 +3034,10 @@
             "status": "INACTIVE"
         },
         "www.hashcoins.ee": {
-            "included_at_epoch": 1590365995.074708,
-            "included_at_iso": "2020-05-25T00:19:55.074708",
-            "last_retested_at_epoch": 1592785340.579331,
-            "last_retested_at_iso": "2020-06-22T00:22:20.579331",
+            "included_at_epoch": 1592823515.026719,
+            "included_at_iso": "2020-06-22T10:58:35.026719",
+            "last_retested_at_epoch": 1592823515.026719,
+            "last_retested_at_iso": "2020-06-22T10:58:35.026719",
             "status": "INACTIVE"
         },
         "www.ico.icerockmining.io": {
