@@ -2417,6 +2417,13 @@
             "last_retested_at_iso": "2020-07-10T00:27:46.807641",
             "status": "INACTIVE"
         },
+        "mta91.a.hashgains.com": {
+            "included_at_epoch": 1594376320.783662,
+            "included_at_iso": "2020-07-10T10:18:40.783662",
+            "last_retested_at_epoch": 1594376320.783662,
+            "last_retested_at_iso": "2020-07-10T10:18:40.783662",
+            "status": "INACTIVE"
+        },
         "mx.peerhash.com": {
             "included_at_epoch": 1592266264.754788,
             "included_at_iso": "2020-06-16T00:11:04.754788",
