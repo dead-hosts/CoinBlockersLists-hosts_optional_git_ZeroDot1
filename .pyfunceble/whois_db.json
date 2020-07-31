@@ -15,9 +15,9 @@
         "state": "future"
     },
     "adconity.com": {
-        "epoch": 1595980800.0,
-        "expiration_date": "29-jul-2020",
-        "state": "past"
+        "epoch": 1627516800.0,
+        "expiration_date": "29-jul-2021",
+        "state": "future"
     },
     "altsbit.com": {
         "epoch": 1601078400.0,
@@ -397,7 +397,7 @@
     "parthk.co.uk": {
         "epoch": 1596067200.0,
         "expiration_date": "30-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "peerhash.com": {
         "epoch": 1597622400.0,
