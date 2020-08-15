@@ -3321,10 +3321,10 @@
             "status": "INACTIVE"
         },
         "www2.coinbase.com": {
-            "included_at_epoch": 1594982317.553119,
-            "included_at_iso": "2020-07-17T10:38:37.553119",
-            "last_retested_at_epoch": 1597365447.787044,
-            "last_retested_at_iso": "2020-08-14T00:37:27.787044",
+            "included_at_epoch": 1597451834.587735,
+            "included_at_iso": "2020-08-15T00:37:14.587735",
+            "last_retested_at_epoch": 1597451834.587735,
+            "last_retested_at_iso": "2020-08-15T00:37:14.587735",
             "status": "INACTIVE"
         },
         "www3.a-ads.com": {
