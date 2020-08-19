@@ -80,8 +80,8 @@
         "state": "future"
     },
     "bixin.im": {
-        "epoch": 1597708800.0,
-        "expiration_date": "18-aug-2020",
+        "epoch": 1629331200.0,
+        "expiration_date": "19-aug-2021",
         "state": "future"
     },
     "btc-alpha.com": {
@@ -285,9 +285,9 @@
         "state": "future"
     },
     "jwallet.network": {
-        "epoch": 1597622400.0,
-        "expiration_date": "17-aug-2020",
-        "state": "past"
+        "epoch": 1629158400.0,
+        "expiration_date": "17-aug-2021",
+        "state": "future"
     },
     "kncminer.com": {
         "epoch": 1617408000.0,
