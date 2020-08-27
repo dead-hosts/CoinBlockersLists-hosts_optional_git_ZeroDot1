@@ -25,9 +25,9 @@
         "state": "future"
     },
     "antminer-store.com": {
-        "epoch": 1598313600.0,
-        "expiration_date": "25-aug-2020",
-        "state": "past"
+        "epoch": 1629849600.0,
+        "expiration_date": "25-aug-2021",
+        "state": "future"
     },
     "awesomeminer.com": {
         "epoch": 1610496000.0,
@@ -385,8 +385,8 @@
         "state": "future"
     },
     "p2pool.in": {
-        "epoch": 1598486400.0,
-        "expiration_date": "27-aug-2020",
+        "epoch": 1630022400.0,
+        "expiration_date": "27-aug-2021",
         "state": "future"
     },
     "pandaminer.co": {
