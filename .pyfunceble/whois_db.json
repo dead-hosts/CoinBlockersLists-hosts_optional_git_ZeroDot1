@@ -5,8 +5,9 @@
         "state": "future"
     },
     "803mine.com": {
-        "epoch": 1598572800.0,
-        "expiration_date": "28-aug-2020",
+        "epoch": 1605484800.0,
+        "expiration_date": "16-nov-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "a-ads.com": {
@@ -397,6 +398,7 @@
     "parthk.co.uk": {
         "epoch": 1596067200.0,
         "expiration_date": "30-jul-2020",
+        "server": "whois.nic.uk",
         "state": "past"
     },
     "peerhash.com": {
