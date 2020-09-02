@@ -1431,10 +1431,10 @@
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_optional_git_ZeroDot1/domains.list": {
         "0x.mycrypto.com": {
-            "included_at_epoch": 1596501173.46899,
-            "included_at_iso": "2020-08-04T00:32:53.468990",
-            "last_retested_at_epoch": 1598489103.529646,
-            "last_retested_at_iso": "2020-08-27T00:45:03.529646",
+            "included_at_epoch": 1599007833.737333,
+            "included_at_iso": "2020-09-02T00:50:33.737333",
+            "last_retested_at_epoch": 1599007833.737333,
+            "last_retested_at_iso": "2020-09-02T00:50:33.737333",
             "status": "INACTIVE"
         },
         "ad.s.a-ads.com": {
@@ -3153,10 +3153,10 @@
             "status": "INACTIVE"
         },
         "www.minerboard.com": {
-            "included_at_epoch": 1596501176.272532,
-            "included_at_iso": "2020-08-04T00:32:56.272532",
-            "last_retested_at_epoch": 1598489106.355465,
-            "last_retested_at_iso": "2020-08-27T00:45:06.355465",
+            "included_at_epoch": 1599007834.370951,
+            "included_at_iso": "2020-09-02T00:50:34.370951",
+            "last_retested_at_epoch": 1599007834.370951,
+            "last_retested_at_iso": "2020-09-02T00:50:34.370951",
             "status": "INACTIVE"
         },
         "www.miningfarmasics.com": {
