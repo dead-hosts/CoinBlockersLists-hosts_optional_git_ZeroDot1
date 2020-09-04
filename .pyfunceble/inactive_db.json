@@ -2480,6 +2480,13 @@
             "last_retested_at_iso": "2020-08-27T00:45:05.168596",
             "status": "INACTIVE"
         },
+        "mta83.a.hashgains.com": {
+            "included_at_epoch": 1599180505.655626,
+            "included_at_iso": "2020-09-04T00:48:25.655626",
+            "last_retested_at_epoch": 1599180505.655626,
+            "last_retested_at_iso": "2020-09-04T00:48:25.655626",
+            "status": "INACTIVE"
+        },
         "mx.peerhash.com": {
             "included_at_epoch": 1597192572.73561,
             "included_at_iso": "2020-08-12T00:36:12.735610",
