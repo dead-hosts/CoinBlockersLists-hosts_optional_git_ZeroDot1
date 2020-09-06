@@ -1,7 +1,8 @@
 {
     "1safe.link": {
-        "epoch": 1599264000.0,
-        "expiration_date": "05-sep-2020",
+        "epoch": 1630800000.0,
+        "expiration_date": "05-sep-2021",
+        "server": "whois.uniregistry.net",
         "state": "future"
     },
     "803mine.com": {

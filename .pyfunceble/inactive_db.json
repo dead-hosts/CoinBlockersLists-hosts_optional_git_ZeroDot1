@@ -1718,10 +1718,10 @@
             "status": "INACTIVE"
         },
         "app.analytics.coinbase.com": {
-            "included_at_epoch": 1596846851.281388,
-            "included_at_iso": "2020-08-08T00:34:11.281388",
-            "last_retested_at_epoch": 1598489103.93065,
-            "last_retested_at_iso": "2020-08-27T00:45:03.930650",
+            "included_at_epoch": 1599353718.175326,
+            "included_at_iso": "2020-09-06T00:55:18.175326",
+            "last_retested_at_epoch": 1599353718.175326,
+            "last_retested_at_iso": "2020-09-06T00:55:18.175326",
             "status": "INACTIVE"
         },
         "app0.a-ads.com": {
