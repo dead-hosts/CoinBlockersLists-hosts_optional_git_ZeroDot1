@@ -2285,10 +2285,10 @@
             "status": "INACTIVE"
         },
         "iota.bitfinex.com": {
-            "included_at_epoch": 1597019829.246313,
-            "included_at_iso": "2020-08-10T00:37:09.246313",
-            "last_retested_at_epoch": 1598489104.88591,
-            "last_retested_at_iso": "2020-08-27T00:45:04.885910",
+            "included_at_epoch": 1599526422.661912,
+            "included_at_iso": "2020-09-08T00:53:42.661912",
+            "last_retested_at_epoch": 1599526422.661912,
+            "last_retested_at_iso": "2020-09-08T00:53:42.661912",
             "status": "INACTIVE"
         },
         "jira.cryptopia.co.nz": {
@@ -2467,10 +2467,10 @@
             "status": "INACTIVE"
         },
         "monero-miner.000webhostapp.com": {
-            "included_at_epoch": 1597019829.507698,
-            "included_at_iso": "2020-08-10T00:37:09.507698",
-            "last_retested_at_epoch": 1598489105.150502,
-            "last_retested_at_iso": "2020-08-27T00:45:05.150502",
+            "included_at_epoch": 1599526422.728848,
+            "included_at_iso": "2020-09-08T00:53:42.728848",
+            "last_retested_at_epoch": 1599526422.728848,
+            "last_retested_at_iso": "2020-09-08T00:53:42.728848",
             "status": "INACTIVE"
         },
         "mta82.hashgains.com": {
