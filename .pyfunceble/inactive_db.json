@@ -1438,227 +1438,227 @@
             "status": "INACTIVE"
         },
         "ad.s.a-ads.com": {
-            "included_at_epoch": 1597192571.55608,
-            "included_at_iso": "2020-08-12T00:36:11.556080",
-            "last_retested_at_epoch": 1598489103.549134,
-            "last_retested_at_iso": "2020-08-27T00:45:03.549134",
+            "included_at_epoch": 1599699167.412949,
+            "included_at_iso": "2020-09-10T00:52:47.412949",
+            "last_retested_at_epoch": 1599699167.412949,
+            "last_retested_at_iso": "2020-09-10T00:52:47.412949",
             "status": "INACTIVE"
         },
         "ad001.a-ads.com": {
-            "included_at_epoch": 1597192571.52698,
-            "included_at_iso": "2020-08-12T00:36:11.526980",
-            "last_retested_at_epoch": 1598489103.556659,
-            "last_retested_at_iso": "2020-08-27T00:45:03.556659",
+            "included_at_epoch": 1599699167.417656,
+            "included_at_iso": "2020-09-10T00:52:47.417656",
+            "last_retested_at_epoch": 1599699167.417656,
+            "last_retested_at_iso": "2020-09-10T00:52:47.417656",
             "status": "INACTIVE"
         },
         "ad004.a-ads.com": {
-            "included_at_epoch": 1597192571.560657,
-            "included_at_iso": "2020-08-12T00:36:11.560657",
-            "last_retested_at_epoch": 1598489103.564423,
-            "last_retested_at_iso": "2020-08-27T00:45:03.564423",
+            "included_at_epoch": 1599699167.422067,
+            "included_at_iso": "2020-09-10T00:52:47.422067",
+            "last_retested_at_epoch": 1599699167.422067,
+            "last_retested_at_iso": "2020-09-10T00:52:47.422067",
             "status": "INACTIVE"
         },
         "ad005.a-ads.com": {
-            "included_at_epoch": 1597192571.56536,
-            "included_at_iso": "2020-08-12T00:36:11.565360",
-            "last_retested_at_epoch": 1598489103.572321,
-            "last_retested_at_iso": "2020-08-27T00:45:03.572321",
+            "included_at_epoch": 1599699167.430775,
+            "included_at_iso": "2020-09-10T00:52:47.430775",
+            "last_retested_at_epoch": 1599699167.430775,
+            "last_retested_at_iso": "2020-09-10T00:52:47.430775",
             "status": "INACTIVE"
         },
         "ad007.a-ads.com": {
-            "included_at_epoch": 1597192571.569787,
-            "included_at_iso": "2020-08-12T00:36:11.569787",
-            "last_retested_at_epoch": 1598489103.580277,
-            "last_retested_at_iso": "2020-08-27T00:45:03.580277",
+            "included_at_epoch": 1599699167.426386,
+            "included_at_iso": "2020-09-10T00:52:47.426386",
+            "last_retested_at_epoch": 1599699167.426386,
+            "last_retested_at_iso": "2020-09-10T00:52:47.426386",
             "status": "INACTIVE"
         },
         "ad008.a-ads.com": {
-            "included_at_epoch": 1597192571.57437,
-            "included_at_iso": "2020-08-12T00:36:11.574370",
-            "last_retested_at_epoch": 1598489103.588917,
-            "last_retested_at_iso": "2020-08-27T00:45:03.588917",
+            "included_at_epoch": 1599699167.439646,
+            "included_at_iso": "2020-09-10T00:52:47.439646",
+            "last_retested_at_epoch": 1599699167.439646,
+            "last_retested_at_iso": "2020-09-10T00:52:47.439646",
             "status": "INACTIVE"
         },
         "ad009.a-ads.com": {
-            "included_at_epoch": 1597192571.584919,
-            "included_at_iso": "2020-08-12T00:36:11.584919",
-            "last_retested_at_epoch": 1598489103.606803,
-            "last_retested_at_iso": "2020-08-27T00:45:03.606803",
+            "included_at_epoch": 1599699167.43518,
+            "included_at_iso": "2020-09-10T00:52:47.435180",
+            "last_retested_at_epoch": 1599699167.43518,
+            "last_retested_at_iso": "2020-09-10T00:52:47.435180",
             "status": "INACTIVE"
         },
         "ad011.a-ads.com": {
-            "included_at_epoch": 1597192571.579837,
-            "included_at_iso": "2020-08-12T00:36:11.579837",
-            "last_retested_at_epoch": 1598489103.597822,
-            "last_retested_at_iso": "2020-08-27T00:45:03.597822",
+            "included_at_epoch": 1599699167.444072,
+            "included_at_iso": "2020-09-10T00:52:47.444072",
+            "last_retested_at_epoch": 1599699167.444072,
+            "last_retested_at_iso": "2020-09-10T00:52:47.444072",
             "status": "INACTIVE"
         },
         "ad012.a-ads.com": {
-            "included_at_epoch": 1597192571.593739,
-            "included_at_iso": "2020-08-12T00:36:11.593739",
-            "last_retested_at_epoch": 1598489103.61497,
-            "last_retested_at_iso": "2020-08-27T00:45:03.614970",
+            "included_at_epoch": 1599699167.448504,
+            "included_at_iso": "2020-09-10T00:52:47.448504",
+            "last_retested_at_epoch": 1599699167.448504,
+            "last_retested_at_iso": "2020-09-10T00:52:47.448504",
             "status": "INACTIVE"
         },
         "ad013.a-ads.com": {
-            "included_at_epoch": 1597192571.589432,
-            "included_at_iso": "2020-08-12T00:36:11.589432",
-            "last_retested_at_epoch": 1598489103.622603,
-            "last_retested_at_iso": "2020-08-27T00:45:03.622603",
+            "included_at_epoch": 1599699167.453094,
+            "included_at_iso": "2020-09-10T00:52:47.453094",
+            "last_retested_at_epoch": 1599699167.453094,
+            "last_retested_at_iso": "2020-09-10T00:52:47.453094",
             "status": "INACTIVE"
         },
         "ad014.a-ads.com": {
-            "included_at_epoch": 1597192571.602941,
-            "included_at_iso": "2020-08-12T00:36:11.602941",
-            "last_retested_at_epoch": 1598489103.638018,
-            "last_retested_at_iso": "2020-08-27T00:45:03.638018",
+            "included_at_epoch": 1599699167.45763,
+            "included_at_iso": "2020-09-10T00:52:47.457630",
+            "last_retested_at_epoch": 1599699167.45763,
+            "last_retested_at_iso": "2020-09-10T00:52:47.457630",
             "status": "INACTIVE"
         },
         "ad015.a-ads.com": {
-            "included_at_epoch": 1597192571.59844,
-            "included_at_iso": "2020-08-12T00:36:11.598440",
-            "last_retested_at_epoch": 1598489103.629993,
-            "last_retested_at_iso": "2020-08-27T00:45:03.629993",
+            "included_at_epoch": 1599699167.462074,
+            "included_at_iso": "2020-09-10T00:52:47.462074",
+            "last_retested_at_epoch": 1599699167.462074,
+            "last_retested_at_iso": "2020-09-10T00:52:47.462074",
             "status": "INACTIVE"
         },
         "ad032.a-ads.com": {
-            "included_at_epoch": 1597192571.608428,
-            "included_at_iso": "2020-08-12T00:36:11.608428",
-            "last_retested_at_epoch": 1598489103.65322,
-            "last_retested_at_iso": "2020-08-27T00:45:03.653220",
+            "included_at_epoch": 1599699167.466606,
+            "included_at_iso": "2020-09-10T00:52:47.466606",
+            "last_retested_at_epoch": 1599699167.466606,
+            "last_retested_at_iso": "2020-09-10T00:52:47.466606",
             "status": "INACTIVE"
         },
         "ad201.a-ads.com": {
-            "included_at_epoch": 1597192571.612793,
-            "included_at_iso": "2020-08-12T00:36:11.612793",
-            "last_retested_at_epoch": 1598489103.645678,
-            "last_retested_at_iso": "2020-08-27T00:45:03.645678",
+            "included_at_epoch": 1599699167.471237,
+            "included_at_iso": "2020-09-10T00:52:47.471237",
+            "last_retested_at_epoch": 1599699167.471237,
+            "last_retested_at_iso": "2020-09-10T00:52:47.471237",
             "status": "INACTIVE"
         },
         "ad203.a-ads.com": {
-            "included_at_epoch": 1597192571.617249,
-            "included_at_iso": "2020-08-12T00:36:11.617249",
-            "last_retested_at_epoch": 1598489103.660829,
-            "last_retested_at_iso": "2020-08-27T00:45:03.660829",
+            "included_at_epoch": 1599699167.475871,
+            "included_at_iso": "2020-09-10T00:52:47.475871",
+            "last_retested_at_epoch": 1599699167.475871,
+            "last_retested_at_iso": "2020-09-10T00:52:47.475871",
             "status": "INACTIVE"
         },
         "ad210.a-ads.com": {
-            "included_at_epoch": 1597192571.62213,
-            "included_at_iso": "2020-08-12T00:36:11.622130",
-            "last_retested_at_epoch": 1598489103.66843,
-            "last_retested_at_iso": "2020-08-27T00:45:03.668430",
+            "included_at_epoch": 1599699167.484797,
+            "included_at_iso": "2020-09-10T00:52:47.484797",
+            "last_retested_at_epoch": 1599699167.484797,
+            "last_retested_at_iso": "2020-09-10T00:52:47.484797",
             "status": "INACTIVE"
         },
         "ad212.a-ads.com": {
-            "included_at_epoch": 1597192571.628554,
-            "included_at_iso": "2020-08-12T00:36:11.628554",
-            "last_retested_at_epoch": 1598489103.676024,
-            "last_retested_at_iso": "2020-08-27T00:45:03.676024",
+            "included_at_epoch": 1599699167.480295,
+            "included_at_iso": "2020-09-10T00:52:47.480295",
+            "last_retested_at_epoch": 1599699167.480295,
+            "last_retested_at_iso": "2020-09-10T00:52:47.480295",
             "status": "INACTIVE"
         },
         "ad213.a-ads.com": {
-            "included_at_epoch": 1597192571.635648,
-            "included_at_iso": "2020-08-12T00:36:11.635648",
-            "last_retested_at_epoch": 1598489103.683631,
-            "last_retested_at_iso": "2020-08-27T00:45:03.683631",
+            "included_at_epoch": 1599699167.4893,
+            "included_at_iso": "2020-09-10T00:52:47.489300",
+            "last_retested_at_epoch": 1599699167.4893,
+            "last_retested_at_iso": "2020-09-10T00:52:47.489300",
             "status": "INACTIVE"
         },
         "ad216.a-ads.com": {
-            "included_at_epoch": 1597192571.646393,
-            "included_at_iso": "2020-08-12T00:36:11.646393",
-            "last_retested_at_epoch": 1598489103.699993,
-            "last_retested_at_iso": "2020-08-27T00:45:03.699993",
+            "included_at_epoch": 1599699167.493669,
+            "included_at_iso": "2020-09-10T00:52:47.493669",
+            "last_retested_at_epoch": 1599699167.493669,
+            "last_retested_at_iso": "2020-09-10T00:52:47.493669",
             "status": "INACTIVE"
         },
         "ad217.a-ads.com": {
-            "included_at_epoch": 1597192571.64156,
-            "included_at_iso": "2020-08-12T00:36:11.641560",
-            "last_retested_at_epoch": 1598489103.692283,
-            "last_retested_at_iso": "2020-08-27T00:45:03.692283",
+            "included_at_epoch": 1599699167.498232,
+            "included_at_iso": "2020-09-10T00:52:47.498232",
+            "last_retested_at_epoch": 1599699167.498232,
+            "last_retested_at_iso": "2020-09-10T00:52:47.498232",
             "status": "INACTIVE"
         },
         "ad218.a-ads.com": {
-            "included_at_epoch": 1597192571.650782,
-            "included_at_iso": "2020-08-12T00:36:11.650782",
-            "last_retested_at_epoch": 1598489103.716334,
-            "last_retested_at_iso": "2020-08-27T00:45:03.716334",
+            "included_at_epoch": 1599699167.502756,
+            "included_at_iso": "2020-09-10T00:52:47.502756",
+            "last_retested_at_epoch": 1599699167.502756,
+            "last_retested_at_iso": "2020-09-10T00:52:47.502756",
             "status": "INACTIVE"
         },
         "ad222.a-ads.com": {
-            "included_at_epoch": 1597192571.655282,
-            "included_at_iso": "2020-08-12T00:36:11.655282",
-            "last_retested_at_epoch": 1598489103.708036,
-            "last_retested_at_iso": "2020-08-27T00:45:03.708036",
+            "included_at_epoch": 1599699167.50724,
+            "included_at_iso": "2020-09-10T00:52:47.507240",
+            "last_retested_at_epoch": 1599699167.50724,
+            "last_retested_at_iso": "2020-09-10T00:52:47.507240",
             "status": "INACTIVE"
         },
         "ad224.a-ads.com": {
-            "included_at_epoch": 1597192571.660377,
-            "included_at_iso": "2020-08-12T00:36:11.660377",
-            "last_retested_at_epoch": 1598489103.72423,
-            "last_retested_at_iso": "2020-08-27T00:45:03.724230",
+            "included_at_epoch": 1599699167.511739,
+            "included_at_iso": "2020-09-10T00:52:47.511739",
+            "last_retested_at_epoch": 1599699167.511739,
+            "last_retested_at_iso": "2020-09-10T00:52:47.511739",
             "status": "INACTIVE"
         },
         "ad225.a-ads.com": {
-            "included_at_epoch": 1597192571.665277,
-            "included_at_iso": "2020-08-12T00:36:11.665277",
-            "last_retested_at_epoch": 1598489103.733011,
-            "last_retested_at_iso": "2020-08-27T00:45:03.733011",
+            "included_at_epoch": 1599699167.521362,
+            "included_at_iso": "2020-09-10T00:52:47.521362",
+            "last_retested_at_epoch": 1599699167.521362,
+            "last_retested_at_iso": "2020-09-10T00:52:47.521362",
             "status": "INACTIVE"
         },
         "ad226.a-ads.com": {
-            "included_at_epoch": 1597192571.674196,
-            "included_at_iso": "2020-08-12T00:36:11.674196",
-            "last_retested_at_epoch": 1598489103.740904,
-            "last_retested_at_iso": "2020-08-27T00:45:03.740904",
+            "included_at_epoch": 1599699167.516714,
+            "included_at_iso": "2020-09-10T00:52:47.516714",
+            "last_retested_at_epoch": 1599699167.516714,
+            "last_retested_at_iso": "2020-09-10T00:52:47.516714",
             "status": "INACTIVE"
         },
         "ad228.a-ads.com": {
-            "included_at_epoch": 1597192571.669677,
-            "included_at_iso": "2020-08-12T00:36:11.669677",
-            "last_retested_at_epoch": 1598489103.748519,
-            "last_retested_at_iso": "2020-08-27T00:45:03.748519",
+            "included_at_epoch": 1599699167.53145,
+            "included_at_iso": "2020-09-10T00:52:47.531450",
+            "last_retested_at_epoch": 1599699167.53145,
+            "last_retested_at_iso": "2020-09-10T00:52:47.531450",
             "status": "INACTIVE"
         },
         "ad302.a-ads.com": {
-            "included_at_epoch": 1597192571.684873,
-            "included_at_iso": "2020-08-12T00:36:11.684873",
-            "last_retested_at_epoch": 1598489103.767682,
-            "last_retested_at_iso": "2020-08-27T00:45:03.767682",
+            "included_at_epoch": 1599699167.526837,
+            "included_at_iso": "2020-09-10T00:52:47.526837",
+            "last_retested_at_epoch": 1599699167.526837,
+            "last_retested_at_iso": "2020-09-10T00:52:47.526837",
             "status": "INACTIVE"
         },
         "adc.cryptopia.co.nz": {
-            "included_at_epoch": 1597192571.67909,
-            "included_at_iso": "2020-08-12T00:36:11.679090",
-            "last_retested_at_epoch": 1598489103.756297,
-            "last_retested_at_iso": "2020-08-27T00:45:03.756297",
+            "included_at_epoch": 1599699167.537327,
+            "included_at_iso": "2020-09-10T00:52:47.537327",
+            "last_retested_at_epoch": 1599699167.537327,
+            "last_retested_at_iso": "2020-09-10T00:52:47.537327",
             "status": "INACTIVE"
         },
         "admin.adconity.com": {
-            "included_at_epoch": 1597192571.691687,
-            "included_at_iso": "2020-08-12T00:36:11.691687",
-            "last_retested_at_epoch": 1598489103.783043,
-            "last_retested_at_iso": "2020-08-27T00:45:03.783043",
+            "included_at_epoch": 1599699167.546717,
+            "included_at_iso": "2020-09-10T00:52:47.546717",
+            "last_retested_at_epoch": 1599699167.546717,
+            "last_retested_at_iso": "2020-09-10T00:52:47.546717",
             "status": "INACTIVE"
         },
         "admin.coinmama.com": {
-            "included_at_epoch": 1597192571.700603,
-            "included_at_iso": "2020-08-12T00:36:11.700603",
-            "last_retested_at_epoch": 1598489103.792042,
-            "last_retested_at_iso": "2020-08-27T00:45:03.792042",
+            "included_at_epoch": 1599699167.542091,
+            "included_at_iso": "2020-09-10T00:52:47.542091",
+            "last_retested_at_epoch": 1599699167.542091,
+            "last_retested_at_iso": "2020-09-10T00:52:47.542091",
             "status": "INACTIVE"
         },
         "alpha.cryptopia.co.nz": {
-            "included_at_epoch": 1597192571.725933,
-            "included_at_iso": "2020-08-12T00:36:11.725933",
-            "last_retested_at_epoch": 1598489103.808703,
-            "last_retested_at_iso": "2020-08-27T00:45:03.808703",
+            "included_at_epoch": 1599699167.553569,
+            "included_at_iso": "2020-09-10T00:52:47.553569",
+            "last_retested_at_epoch": 1599699167.553569,
+            "last_retested_at_iso": "2020-09-10T00:52:47.553569",
             "status": "INACTIVE"
         },
         "alpha.myetherwallet.com": {
-            "included_at_epoch": 1597192571.720511,
-            "included_at_iso": "2020-08-12T00:36:11.720511",
-            "last_retested_at_epoch": 1598489103.817453,
-            "last_retested_at_iso": "2020-08-27T00:45:03.817453",
+            "included_at_epoch": 1599699167.562939,
+            "included_at_iso": "2020-09-10T00:52:47.562939",
+            "last_retested_at_epoch": 1599699167.562939,
+            "last_retested_at_iso": "2020-09-10T00:52:47.562939",
             "status": "INACTIVE"
         },
         "am.coinbase.com": {
@@ -1676,45 +1676,45 @@
             "status": "INACTIVE"
         },
         "api.cryptoguiminer.com": {
-            "included_at_epoch": 1597192571.757417,
-            "included_at_iso": "2020-08-12T00:36:11.757417",
-            "last_retested_at_epoch": 1598489103.857621,
-            "last_retested_at_iso": "2020-08-27T00:45:03.857621",
+            "included_at_epoch": 1599699167.580019,
+            "included_at_iso": "2020-09-10T00:52:47.580019",
+            "last_retested_at_epoch": 1599699167.580019,
+            "last_retested_at_iso": "2020-09-10T00:52:47.580019",
             "status": "INACTIVE"
         },
         "api.cryptopia.co.nz": {
-            "included_at_epoch": 1597192571.762212,
-            "included_at_iso": "2020-08-12T00:36:11.762212",
-            "last_retested_at_epoch": 1598489103.865375,
-            "last_retested_at_iso": "2020-08-27T00:45:03.865375",
+            "included_at_epoch": 1599699167.585121,
+            "included_at_iso": "2020-09-10T00:52:47.585121",
+            "last_retested_at_epoch": 1599699167.585121,
+            "last_retested_at_iso": "2020-09-10T00:52:47.585121",
             "status": "INACTIVE"
         },
         "api.mycrypto.com": {
-            "included_at_epoch": 1597192571.772729,
-            "included_at_iso": "2020-08-12T00:36:11.772729",
-            "last_retested_at_epoch": 1598489103.887529,
-            "last_retested_at_iso": "2020-08-27T00:45:03.887529",
+            "included_at_epoch": 1599699167.596801,
+            "included_at_iso": "2020-09-10T00:52:47.596801",
+            "last_retested_at_epoch": 1599699167.596801,
+            "last_retested_at_iso": "2020-09-10T00:52:47.596801",
             "status": "INACTIVE"
         },
         "api.sandbox.coinbase.com": {
-            "included_at_epoch": 1597192571.780821,
-            "included_at_iso": "2020-08-12T00:36:11.780821",
-            "last_retested_at_epoch": 1598489103.900647,
-            "last_retested_at_iso": "2020-08-27T00:45:03.900647",
+            "included_at_epoch": 1599699167.605492,
+            "included_at_iso": "2020-09-10T00:52:47.605492",
+            "last_retested_at_epoch": 1599699167.605492,
+            "last_retested_at_iso": "2020-09-10T00:52:47.605492",
             "status": "INACTIVE"
         },
         "api1.bithumb.com": {
-            "included_at_epoch": 1597192571.789217,
-            "included_at_iso": "2020-08-12T00:36:11.789217",
-            "last_retested_at_epoch": 1598489103.911482,
-            "last_retested_at_iso": "2020-08-27T00:45:03.911482",
+            "included_at_epoch": 1599699167.615034,
+            "included_at_iso": "2020-09-10T00:52:47.615034",
+            "last_retested_at_epoch": 1599699167.615034,
+            "last_retested_at_iso": "2020-09-10T00:52:47.615034",
             "status": "INACTIVE"
         },
         "api2.bitfinex.com": {
-            "included_at_epoch": 1597192571.796263,
-            "included_at_iso": "2020-08-12T00:36:11.796263",
-            "last_retested_at_epoch": 1598489103.920155,
-            "last_retested_at_iso": "2020-08-27T00:45:03.920155",
+            "included_at_epoch": 1599699167.62235,
+            "included_at_iso": "2020-09-10T00:52:47.622350",
+            "last_retested_at_epoch": 1599699167.62235,
+            "last_retested_at_iso": "2020-09-10T00:52:47.622350",
             "status": "INACTIVE"
         },
         "app.analytics.coinbase.com": {
@@ -1725,24 +1725,24 @@
             "status": "INACTIVE"
         },
         "app0.a-ads.com": {
-            "included_at_epoch": 1597192571.810466,
-            "included_at_iso": "2020-08-12T00:36:11.810466",
-            "last_retested_at_epoch": 1598489103.941163,
-            "last_retested_at_iso": "2020-08-27T00:45:03.941163",
+            "included_at_epoch": 1599699167.631756,
+            "included_at_iso": "2020-09-10T00:52:47.631756",
+            "last_retested_at_epoch": 1599699167.631756,
+            "last_retested_at_iso": "2020-09-10T00:52:47.631756",
             "status": "INACTIVE"
         },
         "apps.cointraffic.io": {
-            "included_at_epoch": 1597192571.816725,
-            "included_at_iso": "2020-08-12T00:36:11.816725",
-            "last_retested_at_epoch": 1598489103.950171,
-            "last_retested_at_iso": "2020-08-27T00:45:03.950171",
+            "included_at_epoch": 1599699167.636482,
+            "included_at_iso": "2020-09-10T00:52:47.636482",
+            "last_retested_at_epoch": 1599699167.636482,
+            "last_retested_at_iso": "2020-09-10T00:52:47.636482",
             "status": "INACTIVE"
         },
         "apps2.cointraffic.io": {
-            "included_at_epoch": 1597192571.826607,
-            "included_at_iso": "2020-08-12T00:36:11.826607",
-            "last_retested_at_epoch": 1598489103.957665,
-            "last_retested_at_iso": "2020-08-27T00:45:03.957665",
+            "included_at_epoch": 1599699167.642275,
+            "included_at_iso": "2020-09-10T00:52:47.642275",
+            "last_retested_at_epoch": 1599699167.642275,
+            "last_retested_at_iso": "2020-09-10T00:52:47.642275",
             "status": "INACTIVE"
         },
         "artus-mining.de": {
@@ -1753,192 +1753,192 @@
             "status": "INACTIVE"
         },
         "autoconfig.bitcoin-doubler.us": {
-            "included_at_epoch": 1597192571.833526,
-            "included_at_iso": "2020-08-12T00:36:11.833526",
-            "last_retested_at_epoch": 1598489103.975386,
-            "last_retested_at_iso": "2020-08-27T00:45:03.975386",
+            "included_at_epoch": 1599699167.654971,
+            "included_at_iso": "2020-09-10T00:52:47.654971",
+            "last_retested_at_epoch": 1599699167.654971,
+            "last_retested_at_iso": "2020-09-10T00:52:47.654971",
             "status": "INACTIVE"
         },
         "autodiscover.btc-alpha.com": {
-            "included_at_epoch": 1597192571.838389,
-            "included_at_iso": "2020-08-12T00:36:11.838389",
-            "last_retested_at_epoch": 1598489103.982782,
-            "last_retested_at_iso": "2020-08-27T00:45:03.982782",
+            "included_at_epoch": 1599699167.649717,
+            "included_at_iso": "2020-09-10T00:52:47.649717",
+            "last_retested_at_epoch": 1599699167.649717,
+            "last_retested_at_iso": "2020-09-10T00:52:47.649717",
             "status": "INACTIVE"
         },
         "autodiscover.uclick.in": {
-            "included_at_epoch": 1597192571.844386,
-            "included_at_iso": "2020-08-12T00:36:11.844386",
-            "last_retested_at_epoch": 1598489103.991827,
-            "last_retested_at_iso": "2020-08-27T00:45:03.991827",
+            "included_at_epoch": 1599699167.661345,
+            "included_at_iso": "2020-09-10T00:52:47.661345",
+            "last_retested_at_epoch": 1599699167.661345,
+            "last_retested_at_iso": "2020-09-10T00:52:47.661345",
             "status": "INACTIVE"
         },
         "aws.simplemining.net": {
-            "included_at_epoch": 1597192571.851125,
-            "included_at_iso": "2020-08-12T00:36:11.851125",
-            "last_retested_at_epoch": 1598489104.001734,
-            "last_retested_at_iso": "2020-08-27T00:45:04.001734",
+            "included_at_epoch": 1599699167.667665,
+            "included_at_iso": "2020-09-10T00:52:47.667665",
+            "last_retested_at_epoch": 1599699167.667665,
+            "last_retested_at_iso": "2020-09-10T00:52:47.667665",
             "status": "INACTIVE"
         },
         "babyalex.coinmama.com": {
-            "included_at_epoch": 1597192571.855697,
-            "included_at_iso": "2020-08-12T00:36:11.855697",
-            "last_retested_at_epoch": 1598489104.009279,
-            "last_retested_at_iso": "2020-08-27T00:45:04.009279",
+            "included_at_epoch": 1599699167.672783,
+            "included_at_iso": "2020-09-10T00:52:47.672783",
+            "last_retested_at_epoch": 1599699167.672783,
+            "last_retested_at_iso": "2020-09-10T00:52:47.672783",
             "status": "INACTIVE"
         },
         "basicdemo.emercoin.com": {
-            "included_at_epoch": 1597192571.860339,
-            "included_at_iso": "2020-08-12T00:36:11.860339",
-            "last_retested_at_epoch": 1598489104.017606,
-            "last_retested_at_iso": "2020-08-27T00:45:04.017606",
+            "included_at_epoch": 1599699167.677967,
+            "included_at_iso": "2020-09-10T00:52:47.677967",
+            "last_retested_at_epoch": 1599699167.677967,
+            "last_retested_at_iso": "2020-09-10T00:52:47.677967",
             "status": "INACTIVE"
         },
         "bch-bitcore2.trezor.io": {
-            "included_at_epoch": 1597192571.865959,
-            "included_at_iso": "2020-08-12T00:36:11.865959",
-            "last_retested_at_epoch": 1598489104.027034,
-            "last_retested_at_iso": "2020-08-27T00:45:04.027034",
+            "included_at_epoch": 1599699167.683154,
+            "included_at_iso": "2020-09-10T00:52:47.683154",
+            "last_retested_at_epoch": 1599699167.683154,
+            "last_retested_at_iso": "2020-09-10T00:52:47.683154",
             "status": "INACTIVE"
         },
         "beta.bitfinex.com": {
-            "included_at_epoch": 1597192571.871482,
-            "included_at_iso": "2020-08-12T00:36:11.871482",
-            "last_retested_at_epoch": 1598489104.036017,
-            "last_retested_at_iso": "2020-08-27T00:45:04.036017",
+            "included_at_epoch": 1599699167.691307,
+            "included_at_iso": "2020-09-10T00:52:47.691307",
+            "last_retested_at_epoch": 1599699167.691307,
+            "last_retested_at_iso": "2020-09-10T00:52:47.691307",
             "status": "INACTIVE"
         },
         "beta.simplemining.net": {
-            "included_at_epoch": 1597192571.879901,
-            "included_at_iso": "2020-08-12T00:36:11.879901",
-            "last_retested_at_epoch": 1598489104.049698,
-            "last_retested_at_iso": "2020-08-27T00:45:04.049698",
+            "included_at_epoch": 1599699167.700491,
+            "included_at_iso": "2020-09-10T00:52:47.700491",
+            "last_retested_at_epoch": 1599699167.700491,
+            "last_retested_at_iso": "2020-09-10T00:52:47.700491",
             "status": "INACTIVE"
         },
         "bitcoin-doubler.us": {
-            "included_at_epoch": 1597192571.889693,
-            "included_at_iso": "2020-08-12T00:36:11.889693",
-            "last_retested_at_epoch": 1598489104.063867,
-            "last_retested_at_iso": "2020-08-27T00:45:04.063867",
+            "included_at_epoch": 1599699167.709523,
+            "included_at_iso": "2020-09-10T00:52:47.709523",
+            "last_retested_at_epoch": 1599699167.709523,
+            "last_retested_at_iso": "2020-09-10T00:52:47.709523",
             "status": "INACTIVE"
         },
         "bittip.coinbase.com": {
-            "included_at_epoch": 1597192571.907046,
-            "included_at_iso": "2020-08-12T00:36:11.907046",
-            "last_retested_at_epoch": 1598489104.086384,
-            "last_retested_at_iso": "2020-08-27T00:45:04.086384",
+            "included_at_epoch": 1599699167.724671,
+            "included_at_iso": "2020-09-10T00:52:47.724671",
+            "last_retested_at_epoch": 1599699167.724671,
+            "last_retested_at_iso": "2020-09-10T00:52:47.724671",
             "status": "INACTIVE"
         },
         "blog-dev.coinbase.com": {
-            "included_at_epoch": 1597192571.915791,
-            "included_at_iso": "2020-08-12T00:36:11.915791",
-            "last_retested_at_epoch": 1598489104.099152,
-            "last_retested_at_iso": "2020-08-27T00:45:04.099152",
+            "included_at_epoch": 1599699167.739755,
+            "included_at_iso": "2020-09-10T00:52:47.739755",
+            "last_retested_at_epoch": 1599699167.739755,
+            "last_retested_at_iso": "2020-09-10T00:52:47.739755",
             "status": "INACTIVE"
         },
         "blog-staging.coinbase.com": {
-            "included_at_epoch": 1597192571.920758,
-            "included_at_iso": "2020-08-12T00:36:11.920758",
-            "last_retested_at_epoch": 1598489104.10719,
-            "last_retested_at_iso": "2020-08-27T00:45:04.107190",
+            "included_at_epoch": 1599699167.733702,
+            "included_at_iso": "2020-09-10T00:52:47.733702",
+            "last_retested_at_epoch": 1599699167.733702,
+            "last_retested_at_iso": "2020-09-10T00:52:47.733702",
             "status": "INACTIVE"
         },
         "bng.btc-alpha.com": {
-            "included_at_epoch": 1597192571.929742,
-            "included_at_iso": "2020-08-12T00:36:11.929742",
-            "last_retested_at_epoch": 1598489104.120307,
-            "last_retested_at_iso": "2020-08-27T00:45:04.120307",
+            "included_at_epoch": 1599699167.750467,
+            "included_at_iso": "2020-09-10T00:52:47.750467",
+            "last_retested_at_epoch": 1599699167.750467,
+            "last_retested_at_iso": "2020-09-10T00:52:47.750467",
             "status": "INACTIVE"
         },
         "btc.a-ads.com": {
-            "included_at_epoch": 1597192571.936687,
-            "included_at_iso": "2020-08-12T00:36:11.936687",
-            "last_retested_at_epoch": 1598489104.130745,
-            "last_retested_at_iso": "2020-08-27T00:45:04.130745",
+            "included_at_epoch": 1599699167.758449,
+            "included_at_iso": "2020-09-10T00:52:47.758449",
+            "last_retested_at_epoch": 1599699167.758449,
+            "last_retested_at_iso": "2020-09-10T00:52:47.758449",
             "status": "INACTIVE"
         },
         "bullet.simplemining.net": {
-            "included_at_epoch": 1597192571.944996,
-            "included_at_iso": "2020-08-12T00:36:11.944996",
-            "last_retested_at_epoch": 1598489104.143309,
-            "last_retested_at_iso": "2020-08-27T00:45:04.143309",
+            "included_at_epoch": 1599699167.766134,
+            "included_at_iso": "2020-09-10T00:52:47.766134",
+            "last_retested_at_epoch": 1599699167.766134,
+            "last_retested_at_iso": "2020-09-10T00:52:47.766134",
             "status": "INACTIVE"
         },
         "calendar.coinmama.com": {
-            "included_at_epoch": 1597192571.956026,
-            "included_at_iso": "2020-08-12T00:36:11.956026",
-            "last_retested_at_epoch": 1598489104.159146,
-            "last_retested_at_iso": "2020-08-27T00:45:04.159146",
+            "included_at_epoch": 1599699167.776493,
+            "included_at_iso": "2020-09-10T00:52:47.776493",
+            "last_retested_at_epoch": 1599699167.776493,
+            "last_retested_at_iso": "2020-09-10T00:52:47.776493",
             "status": "INACTIVE"
         },
         "cdn1.cryptopia.co.nz": {
-            "included_at_epoch": 1597192571.711776,
-            "included_at_iso": "2020-08-12T00:36:11.711776",
-            "last_retested_at_epoch": 1598489104.170399,
-            "last_retested_at_iso": "2020-08-27T00:45:04.170399",
+            "included_at_epoch": 1599699167.558229,
+            "included_at_iso": "2020-09-10T00:52:47.558229",
+            "last_retested_at_epoch": 1599699167.783859,
+            "last_retested_at_iso": "2020-09-10T00:52:47.783859",
             "status": "INACTIVE"
         },
         "cf-ssl28641-protected.coinbase.com": {
-            "included_at_epoch": 1597192571.973155,
-            "included_at_iso": "2020-08-12T00:36:11.973155",
-            "last_retested_at_epoch": 1598489104.184476,
-            "last_retested_at_iso": "2020-08-27T00:45:04.184476",
+            "included_at_epoch": 1599699167.793806,
+            "included_at_iso": "2020-09-10T00:52:47.793806",
+            "last_retested_at_epoch": 1599699167.793806,
+            "last_retested_at_iso": "2020-09-10T00:52:47.793806",
             "status": "INACTIVE"
         },
         "chat.coinmama.com": {
-            "included_at_epoch": 1597192571.98233,
-            "included_at_iso": "2020-08-12T00:36:11.982330",
-            "last_retested_at_epoch": 1598489104.198634,
-            "last_retested_at_iso": "2020-08-27T00:45:04.198634",
+            "included_at_epoch": 1599699167.801365,
+            "included_at_iso": "2020-09-10T00:52:47.801365",
+            "last_retested_at_epoch": 1599699167.801365,
+            "last_retested_at_iso": "2020-09-10T00:52:47.801365",
             "status": "INACTIVE"
         },
         "chf.a-ads.com": {
-            "included_at_epoch": 1597192571.994512,
-            "included_at_iso": "2020-08-12T00:36:11.994512",
-            "last_retested_at_epoch": 1598489104.211894,
-            "last_retested_at_iso": "2020-08-27T00:45:04.211894",
+            "included_at_epoch": 1599699167.812772,
+            "included_at_iso": "2020-09-10T00:52:47.812772",
+            "last_retested_at_epoch": 1599699167.812772,
+            "last_retested_at_iso": "2020-09-10T00:52:47.812772",
             "status": "INACTIVE"
         },
         "cloud.cryptoguiminer.com": {
-            "included_at_epoch": 1597192572.002987,
-            "included_at_iso": "2020-08-12T00:36:12.002987",
-            "last_retested_at_epoch": 1598489104.248465,
-            "last_retested_at_iso": "2020-08-27T00:45:04.248465",
+            "included_at_epoch": 1599699167.823299,
+            "included_at_iso": "2020-09-10T00:52:47.823299",
+            "last_retested_at_epoch": 1599699167.823299,
+            "last_retested_at_iso": "2020-09-10T00:52:47.823299",
             "status": "INACTIVE"
         },
         "cpanel.cryptoguiminer.com": {
-            "included_at_epoch": 1597192572.038758,
-            "included_at_iso": "2020-08-12T00:36:12.038758",
-            "last_retested_at_epoch": 1598489104.299515,
-            "last_retested_at_iso": "2020-08-27T00:45:04.299515",
+            "included_at_epoch": 1599699167.848948,
+            "included_at_iso": "2020-09-10T00:52:47.848948",
+            "last_retested_at_epoch": 1599699167.848948,
+            "last_retested_at_iso": "2020-09-10T00:52:47.848948",
             "status": "INACTIVE"
         },
         "cpanel.imperiumminer.com": {
-            "included_at_epoch": 1597192572.049912,
-            "included_at_iso": "2020-08-12T00:36:12.049912",
-            "last_retested_at_epoch": 1598489104.307908,
-            "last_retested_at_iso": "2020-08-27T00:45:04.307908",
+            "included_at_epoch": 1599699167.860687,
+            "included_at_iso": "2020-09-10T00:52:47.860687",
+            "last_retested_at_epoch": 1599699167.860687,
+            "last_retested_at_iso": "2020-09-10T00:52:47.860687",
             "status": "INACTIVE"
         },
         "cpanel.support.hashgains.com": {
-            "included_at_epoch": 1597192572.044959,
-            "included_at_iso": "2020-08-12T00:36:12.044959",
-            "last_retested_at_epoch": 1598489104.316073,
-            "last_retested_at_iso": "2020-08-27T00:45:04.316073",
+            "included_at_epoch": 1599699167.855469,
+            "included_at_iso": "2020-09-10T00:52:47.855469",
+            "last_retested_at_epoch": 1599699167.855469,
+            "last_retested_at_iso": "2020-09-10T00:52:47.855469",
             "status": "INACTIVE"
         },
         "cpanel.uclick.in": {
-            "included_at_epoch": 1597192572.055081,
-            "included_at_iso": "2020-08-12T00:36:12.055081",
-            "last_retested_at_epoch": 1598489104.324695,
-            "last_retested_at_iso": "2020-08-27T00:45:04.324695",
+            "included_at_epoch": 1599699167.865981,
+            "included_at_iso": "2020-09-10T00:52:47.865981",
+            "last_retested_at_epoch": 1599699167.865981,
+            "last_retested_at_iso": "2020-09-10T00:52:47.865981",
             "status": "INACTIVE"
         },
         "dash-bitcore1.trezor.io": {
-            "included_at_epoch": 1597192572.069451,
-            "included_at_iso": "2020-08-12T00:36:12.069451",
-            "last_retested_at_epoch": 1598489104.346387,
-            "last_retested_at_iso": "2020-08-27T00:45:04.346387",
+            "included_at_epoch": 1599699167.878211,
+            "included_at_iso": "2020-09-10T00:52:47.878211",
+            "last_retested_at_epoch": 1599699167.878211,
+            "last_retested_at_iso": "2020-09-10T00:52:47.878211",
             "status": "INACTIVE"
         },
         "dc.rockwall.investments": {
@@ -1949,24 +1949,24 @@
             "status": "INACTIVE"
         },
         "dev-xhlkashd.coinmama.com": {
-            "included_at_epoch": 1597192572.082326,
-            "included_at_iso": "2020-08-12T00:36:12.082326",
-            "last_retested_at_epoch": 1598489104.376688,
-            "last_retested_at_iso": "2020-08-27T00:45:04.376688",
+            "included_at_epoch": 1599699167.88689,
+            "included_at_iso": "2020-09-10T00:52:47.886890",
+            "last_retested_at_epoch": 1599699167.88689,
+            "last_retested_at_iso": "2020-09-10T00:52:47.886890",
             "status": "INACTIVE"
         },
         "dev.a-ads.com": {
-            "included_at_epoch": 1597192572.087456,
-            "included_at_iso": "2020-08-12T00:36:12.087456",
-            "last_retested_at_epoch": 1598489104.368497,
-            "last_retested_at_iso": "2020-08-27T00:45:04.368497",
+            "included_at_epoch": 1599699167.893263,
+            "included_at_iso": "2020-09-10T00:52:47.893263",
+            "last_retested_at_epoch": 1599699167.893263,
+            "last_retested_at_iso": "2020-09-10T00:52:47.893263",
             "status": "INACTIVE"
         },
         "dev.coinmama.com": {
-            "included_at_epoch": 1597192572.094654,
-            "included_at_iso": "2020-08-12T00:36:12.094654",
-            "last_retested_at_epoch": 1598489104.388345,
-            "last_retested_at_iso": "2020-08-27T00:45:04.388345",
+            "included_at_epoch": 1599699167.899753,
+            "included_at_iso": "2020-09-10T00:52:47.899753",
+            "last_retested_at_epoch": 1599699167.899753,
+            "last_retested_at_iso": "2020-09-10T00:52:47.899753",
             "status": "INACTIVE"
         },
         "dev.rockwall.investments": {
@@ -1977,38 +1977,38 @@
             "status": "INACTIVE"
         },
         "development.btcturk.com": {
-            "included_at_epoch": 1597192572.11987,
-            "included_at_iso": "2020-08-12T00:36:12.119870",
-            "last_retested_at_epoch": 1598489104.427473,
-            "last_retested_at_iso": "2020-08-27T00:45:04.427473",
+            "included_at_epoch": 1599699167.914628,
+            "included_at_iso": "2020-09-10T00:52:47.914628",
+            "last_retested_at_epoch": 1599699167.914628,
+            "last_retested_at_iso": "2020-09-10T00:52:47.914628",
             "status": "INACTIVE"
         },
         "development.cryptopia.co.nz": {
-            "included_at_epoch": 1597192572.114442,
-            "included_at_iso": "2020-08-12T00:36:12.114442",
-            "last_retested_at_epoch": 1598489104.419108,
-            "last_retested_at_iso": "2020-08-27T00:45:04.419108",
+            "included_at_epoch": 1599699167.919832,
+            "included_at_iso": "2020-09-10T00:52:47.919832",
+            "last_retested_at_epoch": 1599699167.919832,
+            "last_retested_at_iso": "2020-09-10T00:52:47.919832",
             "status": "INACTIVE"
         },
         "devtopia.cryptopia.co.nz": {
-            "included_at_epoch": 1597192572.125113,
-            "included_at_iso": "2020-08-12T00:36:12.125113",
-            "last_retested_at_epoch": 1598489104.445249,
-            "last_retested_at_iso": "2020-08-27T00:45:04.445249",
+            "included_at_epoch": 1599699167.925259,
+            "included_at_iso": "2020-09-10T00:52:47.925259",
+            "last_retested_at_epoch": 1599699167.925259,
+            "last_retested_at_iso": "2020-09-10T00:52:47.925259",
             "status": "INACTIVE"
         },
         "devweb2.cryptopia.co.nz": {
-            "included_at_epoch": 1597192572.130308,
-            "included_at_iso": "2020-08-12T00:36:12.130308",
-            "last_retested_at_epoch": 1598489104.436123,
-            "last_retested_at_iso": "2020-08-27T00:45:04.436123",
+            "included_at_epoch": 1599699167.930674,
+            "included_at_iso": "2020-09-10T00:52:47.930674",
+            "last_retested_at_epoch": 1599699167.930674,
+            "last_retested_at_iso": "2020-09-10T00:52:47.930674",
             "status": "INACTIVE"
         },
         "disney.cryptopia.co.nz": {
-            "included_at_epoch": 1597192572.136508,
-            "included_at_iso": "2020-08-12T00:36:12.136508",
-            "last_retested_at_epoch": 1598489104.453613,
-            "last_retested_at_iso": "2020-08-27T00:45:04.453613",
+            "included_at_epoch": 1599699167.936106,
+            "included_at_iso": "2020-09-10T00:52:47.936106",
+            "last_retested_at_epoch": 1599699167.936106,
+            "last_retested_at_iso": "2020-09-10T00:52:47.936106",
             "status": "INACTIVE"
         },
         "dns3.rockwall.investments": {
@@ -2019,10 +2019,10 @@
             "status": "INACTIVE"
         },
         "doge.cryptopia.co.nz": {
-            "included_at_epoch": 1597192572.151703,
-            "included_at_iso": "2020-08-12T00:36:12.151703",
-            "last_retested_at_epoch": 1598489104.478081,
-            "last_retested_at_iso": "2020-08-27T00:45:04.478081",
+            "included_at_epoch": 1599699167.951762,
+            "included_at_iso": "2020-09-10T00:52:47.951762",
+            "last_retested_at_epoch": 1599699167.951762,
+            "last_retested_at_iso": "2020-09-10T00:52:47.951762",
             "status": "INACTIVE"
         },
         "domainkey.rockwall.investments": {
@@ -2033,24 +2033,24 @@
             "status": "INACTIVE"
         },
         "ent-api.sandbox.coinbase.com": {
-            "included_at_epoch": 1597192572.192743,
-            "included_at_iso": "2020-08-12T00:36:12.192743",
-            "last_retested_at_epoch": 1598489104.529928,
-            "last_retested_at_iso": "2020-08-27T00:45:04.529928",
+            "included_at_epoch": 1599699167.987188,
+            "included_at_iso": "2020-09-10T00:52:47.987188",
+            "last_retested_at_epoch": 1599699167.987188,
+            "last_retested_at_iso": "2020-09-10T00:52:47.987188",
             "status": "INACTIVE"
         },
         "ethoca-sandbox.coinbase.com": {
-            "included_at_epoch": 1597192572.205465,
-            "included_at_iso": "2020-08-12T00:36:12.205465",
-            "last_retested_at_epoch": 1598489104.544856,
-            "last_retested_at_iso": "2020-08-27T00:45:04.544856",
+            "included_at_epoch": 1599699167.999779,
+            "included_at_iso": "2020-09-10T00:52:47.999779",
+            "last_retested_at_epoch": 1599699167.999779,
+            "last_retested_at_iso": "2020-09-10T00:52:47.999779",
             "status": "INACTIVE"
         },
         "event.btc-alpha.com": {
-            "included_at_epoch": 1597192572.212263,
-            "included_at_iso": "2020-08-12T00:36:12.212263",
-            "last_retested_at_epoch": 1598489104.553693,
-            "last_retested_at_iso": "2020-08-27T00:45:04.553693",
+            "included_at_epoch": 1599699168.006935,
+            "included_at_iso": "2020-09-10T00:52:48.006935",
+            "last_retested_at_epoch": 1599699168.006935,
+            "last_retested_at_iso": "2020-09-10T00:52:48.006935",
             "status": "INACTIVE"
         },
         "event.rockwall.investments": {
@@ -2061,94 +2061,94 @@
             "status": "INACTIVE"
         },
         "ex-notify.coinbase.com": {
-            "included_at_epoch": 1597192572.228481,
-            "included_at_iso": "2020-08-12T00:36:12.228481",
-            "last_retested_at_epoch": 1598489104.571918,
-            "last_retested_at_iso": "2020-08-27T00:45:04.571918",
+            "included_at_epoch": 1599699168.017034,
+            "included_at_iso": "2020-09-10T00:52:48.017034",
+            "last_retested_at_epoch": 1599699168.017034,
+            "last_retested_at_iso": "2020-09-10T00:52:48.017034",
             "status": "INACTIVE"
         },
         "feed.exchange.coinbase.com": {
-            "included_at_epoch": 1597192572.241796,
-            "included_at_iso": "2020-08-12T00:36:12.241796",
-            "last_retested_at_epoch": 1598489104.584558,
-            "last_retested_at_iso": "2020-08-27T00:45:04.584558",
+            "included_at_epoch": 1599699168.029501,
+            "included_at_iso": "2020-09-10T00:52:48.029501",
+            "last_retested_at_epoch": 1599699168.029501,
+            "last_retested_at_iso": "2020-09-10T00:52:48.029501",
             "status": "INACTIVE"
         },
         "files.btcturk.com": {
-            "included_at_epoch": 1597192572.251653,
-            "included_at_iso": "2020-08-12T00:36:12.251653",
-            "last_retested_at_epoch": 1598489104.59658,
-            "last_retested_at_iso": "2020-08-27T00:45:04.596580",
+            "included_at_epoch": 1599699168.038074,
+            "included_at_iso": "2020-09-10T00:52:48.038074",
+            "last_retested_at_epoch": 1599699168.038074,
+            "last_retested_at_iso": "2020-09-10T00:52:48.038074",
             "status": "INACTIVE"
         },
         "filetransfer.coinbase.com": {
-            "included_at_epoch": 1597192572.256835,
-            "included_at_iso": "2020-08-12T00:36:12.256835",
-            "last_retested_at_epoch": 1598489104.605323,
-            "last_retested_at_iso": "2020-08-27T00:45:04.605323",
+            "included_at_epoch": 1599699168.045224,
+            "included_at_iso": "2020-09-10T00:52:48.045224",
+            "last_retested_at_epoch": 1599699168.045224,
+            "last_retested_at_iso": "2020-09-10T00:52:48.045224",
             "status": "INACTIVE"
         },
         "fix.exchange.coinbase.com": {
-            "included_at_epoch": 1597192572.262019,
-            "included_at_iso": "2020-08-12T00:36:12.262019",
-            "last_retested_at_epoch": 1598489104.613005,
-            "last_retested_at_iso": "2020-08-27T00:45:04.613005",
+            "included_at_epoch": 1599699168.050697,
+            "included_at_iso": "2020-09-10T00:52:48.050697",
+            "last_retested_at_epoch": 1599699168.050697,
+            "last_retested_at_iso": "2020-09-10T00:52:48.050697",
             "status": "INACTIVE"
         },
         "foundry.electrum.org": {
-            "included_at_epoch": 1597192572.272306,
-            "included_at_iso": "2020-08-12T00:36:12.272306",
-            "last_retested_at_epoch": 1598489104.623023,
-            "last_retested_at_iso": "2020-08-27T00:45:04.623023",
+            "included_at_epoch": 1599699168.059289,
+            "included_at_iso": "2020-09-10T00:52:48.059289",
+            "last_retested_at_epoch": 1599699168.059289,
+            "last_retested_at_iso": "2020-09-10T00:52:48.059289",
             "status": "INACTIVE"
         },
         "ftp.adconity.com": {
-            "included_at_epoch": 1597192572.277543,
-            "included_at_iso": "2020-08-12T00:36:12.277543",
-            "last_retested_at_epoch": 1598489104.633035,
-            "last_retested_at_iso": "2020-08-27T00:45:04.633035",
+            "included_at_epoch": 1599699168.067574,
+            "included_at_iso": "2020-09-10T00:52:48.067574",
+            "last_retested_at_epoch": 1599699168.067574,
+            "last_retested_at_iso": "2020-09-10T00:52:48.067574",
             "status": "INACTIVE"
         },
         "ftp.awesomeminer.com": {
-            "included_at_epoch": 1597192572.289177,
-            "included_at_iso": "2020-08-12T00:36:12.289177",
-            "last_retested_at_epoch": 1598489104.650704,
-            "last_retested_at_iso": "2020-08-27T00:45:04.650704",
+            "included_at_epoch": 1599699168.074378,
+            "included_at_iso": "2020-09-10T00:52:48.074378",
+            "last_retested_at_epoch": 1599699168.074378,
+            "last_retested_at_iso": "2020-09-10T00:52:48.074378",
             "status": "INACTIVE"
         },
         "ftp.bitcoin-doubler.us": {
-            "included_at_epoch": 1597192572.294614,
-            "included_at_iso": "2020-08-12T00:36:12.294614",
-            "last_retested_at_epoch": 1598489104.658583,
-            "last_retested_at_iso": "2020-08-27T00:45:04.658583",
+            "included_at_epoch": 1599699168.079824,
+            "included_at_iso": "2020-09-10T00:52:48.079824",
+            "last_retested_at_epoch": 1599699168.079824,
+            "last_retested_at_iso": "2020-09-10T00:52:48.079824",
             "status": "INACTIVE"
         },
         "ftp.coinmama.com": {
-            "included_at_epoch": 1597192572.30018,
-            "included_at_iso": "2020-08-12T00:36:12.300180",
-            "last_retested_at_epoch": 1598489104.66631,
-            "last_retested_at_iso": "2020-08-27T00:45:04.666310",
+            "included_at_epoch": 1599699168.08553,
+            "included_at_iso": "2020-09-10T00:52:48.085530",
+            "last_retested_at_epoch": 1599699168.08553,
+            "last_retested_at_iso": "2020-09-10T00:52:48.085530",
             "status": "INACTIVE"
         },
         "ftp.hashgains.com": {
-            "included_at_epoch": 1597192572.306705,
-            "included_at_iso": "2020-08-12T00:36:12.306705",
-            "last_retested_at_epoch": 1598489104.675301,
-            "last_retested_at_iso": "2020-08-27T00:45:04.675301",
+            "included_at_epoch": 1599699168.092481,
+            "included_at_iso": "2020-09-10T00:52:48.092481",
+            "last_retested_at_epoch": 1599699168.092481,
+            "last_retested_at_iso": "2020-09-10T00:52:48.092481",
             "status": "INACTIVE"
         },
         "ftp.imperiumminer.com": {
-            "included_at_epoch": 1597192572.312038,
-            "included_at_iso": "2020-08-12T00:36:12.312038",
-            "last_retested_at_epoch": 1598489104.682944,
-            "last_retested_at_iso": "2020-08-27T00:45:04.682944",
+            "included_at_epoch": 1599699168.099473,
+            "included_at_iso": "2020-09-10T00:52:48.099473",
+            "last_retested_at_epoch": 1599699168.099473,
+            "last_retested_at_iso": "2020-09-10T00:52:48.099473",
             "status": "INACTIVE"
         },
         "ftp.miningfarmasics.com": {
-            "included_at_epoch": 1597192572.319417,
-            "included_at_iso": "2020-08-12T00:36:12.319417",
-            "last_retested_at_epoch": 1598489104.692902,
-            "last_retested_at_iso": "2020-08-27T00:45:04.692902",
+            "included_at_epoch": 1599699168.106431,
+            "included_at_iso": "2020-09-10T00:52:48.106431",
+            "last_retested_at_epoch": 1599699168.106431,
+            "last_retested_at_iso": "2020-09-10T00:52:48.106431",
             "status": "INACTIVE"
         },
         "ftp.oracolxor.io": {
@@ -2159,38 +2159,38 @@
             "status": "INACTIVE"
         },
         "ftp.quadrigacx.com": {
-            "included_at_epoch": 1597192572.324885,
-            "included_at_iso": "2020-08-12T00:36:12.324885",
-            "last_retested_at_epoch": 1598489104.700515,
-            "last_retested_at_iso": "2020-08-27T00:45:04.700515",
+            "included_at_epoch": 1599699168.11758,
+            "included_at_iso": "2020-09-10T00:52:48.117580",
+            "last_retested_at_epoch": 1599699168.11758,
+            "last_retested_at_iso": "2020-09-10T00:52:48.117580",
             "status": "INACTIVE"
         },
         "ftp.uclick.in": {
-            "included_at_epoch": 1597192572.338578,
-            "included_at_iso": "2020-08-12T00:36:12.338578",
-            "last_retested_at_epoch": 1598489104.718495,
-            "last_retested_at_iso": "2020-08-27T00:45:04.718495",
+            "included_at_epoch": 1599699168.111934,
+            "included_at_iso": "2020-09-10T00:52:48.111934",
+            "last_retested_at_epoch": 1599699168.111934,
+            "last_retested_at_iso": "2020-09-10T00:52:48.111934",
             "status": "INACTIVE"
         },
         "games.cryptopia.co.nz": {
-            "included_at_epoch": 1597192572.344419,
-            "included_at_iso": "2020-08-12T00:36:12.344419",
-            "last_retested_at_epoch": 1598489104.726009,
-            "last_retested_at_iso": "2020-08-27T00:45:04.726009",
+            "included_at_epoch": 1599699168.123338,
+            "included_at_iso": "2020-09-10T00:52:48.123338",
+            "last_retested_at_epoch": 1599699168.123338,
+            "last_retested_at_iso": "2020-09-10T00:52:48.123338",
             "status": "INACTIVE"
         },
         "getbitcoin.nz": {
-            "included_at_epoch": 1597192572.35055,
-            "included_at_iso": "2020-08-12T00:36:12.350550",
-            "last_retested_at_epoch": 1598489104.733537,
-            "last_retested_at_iso": "2020-08-27T00:45:04.733537",
+            "included_at_epoch": 1599699168.131616,
+            "included_at_iso": "2020-09-10T00:52:48.131616",
+            "last_retested_at_epoch": 1599699168.131616,
+            "last_retested_at_iso": "2020-09-10T00:52:48.131616",
             "status": "INACTIVE"
         },
         "gitlab.bitpay.com": {
-            "included_at_epoch": 1597192572.358942,
-            "included_at_iso": "2020-08-12T00:36:12.358942",
-            "last_retested_at_epoch": 1598489104.743575,
-            "last_retested_at_iso": "2020-08-27T00:45:04.743575",
+            "included_at_epoch": 1599699168.137449,
+            "included_at_iso": "2020-09-10T00:52:48.137449",
+            "last_retested_at_epoch": 1599699168.137449,
+            "last_retested_at_iso": "2020-09-10T00:52:48.137449",
             "status": "INACTIVE"
         },
         "hashcoins.ee": {
@@ -2201,59 +2201,59 @@
             "status": "INACTIVE"
         },
         "headers.electrum.org": {
-            "included_at_epoch": 1597192572.381196,
-            "included_at_iso": "2020-08-12T00:36:12.381196",
-            "last_retested_at_epoch": 1598489104.771782,
-            "last_retested_at_iso": "2020-08-27T00:45:04.771782",
+            "included_at_epoch": 1599699168.153059,
+            "included_at_iso": "2020-09-10T00:52:48.153059",
+            "last_retested_at_epoch": 1599699168.153059,
+            "last_retested_at_iso": "2020-09-10T00:52:48.153059",
             "status": "INACTIVE"
         },
         "healthbeauty.cryptopia.co.nz": {
-            "included_at_epoch": 1597192572.389283,
-            "included_at_iso": "2020-08-12T00:36:12.389283",
-            "last_retested_at_epoch": 1598489104.779442,
-            "last_retested_at_iso": "2020-08-27T00:45:04.779442",
+            "included_at_epoch": 1599699168.158634,
+            "included_at_iso": "2020-09-10T00:52:48.158634",
+            "last_retested_at_epoch": 1599699168.158634,
+            "last_retested_at_iso": "2020-09-10T00:52:48.158634",
             "status": "INACTIVE"
         },
         "help.cryptopia.co.nz": {
-            "included_at_epoch": 1597192572.39889,
-            "included_at_iso": "2020-08-12T00:36:12.398890",
-            "last_retested_at_epoch": 1598489104.792053,
-            "last_retested_at_iso": "2020-08-27T00:45:04.792053",
+            "included_at_epoch": 1599699168.169517,
+            "included_at_iso": "2020-09-10T00:52:48.169517",
+            "last_retested_at_epoch": 1599699168.169517,
+            "last_retested_at_iso": "2020-09-10T00:52:48.169517",
             "status": "INACTIVE"
         },
         "helpdesk2.bitfinex.com": {
-            "included_at_epoch": 1597192572.40449,
-            "included_at_iso": "2020-08-12T00:36:12.404490",
-            "last_retested_at_epoch": 1598489104.799936,
-            "last_retested_at_iso": "2020-08-27T00:45:04.799936",
+            "included_at_epoch": 1599699168.177847,
+            "included_at_iso": "2020-09-10T00:52:48.177847",
+            "last_retested_at_epoch": 1599699168.177847,
+            "last_retested_at_iso": "2020-09-10T00:52:48.177847",
             "status": "INACTIVE"
         },
         "honeypot.cryptopia.co.nz": {
-            "included_at_epoch": 1597192572.413209,
-            "included_at_iso": "2020-08-12T00:36:12.413209",
-            "last_retested_at_epoch": 1598489104.812708,
-            "last_retested_at_iso": "2020-08-27T00:45:04.812708",
+            "included_at_epoch": 1599699168.186219,
+            "included_at_iso": "2020-09-10T00:52:48.186219",
+            "last_retested_at_epoch": 1599699168.186219,
+            "last_retested_at_iso": "2020-09-10T00:52:48.186219",
             "status": "INACTIVE"
         },
         "hostmaster.rbminer.net": {
-            "included_at_epoch": 1597192572.42633,
-            "included_at_iso": "2020-08-12T00:36:12.426330",
-            "last_retested_at_epoch": 1598489104.831425,
-            "last_retested_at_iso": "2020-08-27T00:45:04.831425",
+            "included_at_epoch": 1599699168.191965,
+            "included_at_iso": "2020-09-10T00:52:48.191965",
+            "last_retested_at_epoch": 1599699168.191965,
+            "last_retested_at_iso": "2020-09-10T00:52:48.191965",
             "status": "INACTIVE"
         },
         "i2p.emercoin.com": {
-            "included_at_epoch": 1597192572.420648,
-            "included_at_iso": "2020-08-12T00:36:12.420648",
-            "last_retested_at_epoch": 1598489104.822935,
-            "last_retested_at_iso": "2020-08-27T00:45:04.822935",
+            "included_at_epoch": 1599699168.199416,
+            "included_at_iso": "2020-09-10T00:52:48.199416",
+            "last_retested_at_epoch": 1599699168.199416,
+            "last_retested_at_iso": "2020-09-10T00:52:48.199416",
             "status": "INACTIVE"
         },
         "imperiumminer.com": {
-            "included_at_epoch": 1597192572.436988,
-            "included_at_iso": "2020-08-12T00:36:12.436988",
-            "last_retested_at_epoch": 1598489104.846553,
-            "last_retested_at_iso": "2020-08-27T00:45:04.846553",
+            "included_at_epoch": 1599699168.209246,
+            "included_at_iso": "2020-09-10T00:52:48.209246",
+            "last_retested_at_epoch": 1599699168.209246,
+            "last_retested_at_iso": "2020-09-10T00:52:48.209246",
             "status": "INACTIVE"
         },
         "index-am.coinbase.com": {
@@ -2264,17 +2264,17 @@
             "status": "INACTIVE"
         },
         "infra2.bithumb.com": {
-            "included_at_epoch": 1597192572.452515,
-            "included_at_iso": "2020-08-12T00:36:12.452515",
-            "last_retested_at_epoch": 1598489104.865816,
-            "last_retested_at_iso": "2020-08-27T00:45:04.865816",
+            "included_at_epoch": 1599699168.216452,
+            "included_at_iso": "2020-09-10T00:52:48.216452",
+            "last_retested_at_epoch": 1599699168.216452,
+            "last_retested_at_iso": "2020-09-10T00:52:48.216452",
             "status": "INACTIVE"
         },
         "investor.cryptopia.co.nz": {
-            "included_at_epoch": 1597192572.45851,
-            "included_at_iso": "2020-08-12T00:36:12.458510",
-            "last_retested_at_epoch": 1598489104.873444,
-            "last_retested_at_iso": "2020-08-27T00:45:04.873444",
+            "included_at_epoch": 1599699168.22611,
+            "included_at_iso": "2020-09-10T00:52:48.226110",
+            "last_retested_at_epoch": 1599699168.22611,
+            "last_retested_at_iso": "2020-09-10T00:52:48.226110",
             "status": "INACTIVE"
         },
         "io.rockwall.investments": {
@@ -2292,129 +2292,129 @@
             "status": "INACTIVE"
         },
         "jira.cryptopia.co.nz": {
-            "included_at_epoch": 1597192572.489373,
-            "included_at_iso": "2020-08-12T00:36:12.489373",
-            "last_retested_at_epoch": 1598489104.906066,
-            "last_retested_at_iso": "2020-08-27T00:45:04.906066",
+            "included_at_epoch": 1599699168.238556,
+            "included_at_iso": "2020-09-10T00:52:48.238556",
+            "last_retested_at_epoch": 1599699168.238556,
+            "last_retested_at_iso": "2020-09-10T00:52:48.238556",
             "status": "INACTIVE"
         },
         "jp.simplemining.net": {
-            "included_at_epoch": 1597192572.49545,
-            "included_at_iso": "2020-08-12T00:36:12.495450",
-            "last_retested_at_epoch": 1598489104.913694,
-            "last_retested_at_iso": "2020-08-27T00:45:04.913694",
+            "included_at_epoch": 1599699168.244501,
+            "included_at_iso": "2020-09-10T00:52:48.244501",
+            "last_retested_at_epoch": 1599699168.244501,
+            "last_retested_at_iso": "2020-09-10T00:52:48.244501",
             "status": "INACTIVE"
         },
         "justin.bitpay.com": {
-            "included_at_epoch": 1597192572.503995,
-            "included_at_iso": "2020-08-12T00:36:12.503995",
-            "last_retested_at_epoch": 1598489104.922946,
-            "last_retested_at_iso": "2020-08-27T00:45:04.922946",
+            "included_at_epoch": 1599699168.251784,
+            "included_at_iso": "2020-09-10T00:52:48.251784",
+            "last_retested_at_epoch": 1599699168.251784,
+            "last_retested_at_iso": "2020-09-10T00:52:48.251784",
             "status": "INACTIVE"
         },
         "kriptometre.btcturk.com": {
-            "included_at_epoch": 1597192572.516989,
-            "included_at_iso": "2020-08-12T00:36:12.516989",
-            "last_retested_at_epoch": 1598489104.936584,
-            "last_retested_at_iso": "2020-08-27T00:45:04.936584",
+            "included_at_epoch": 1599699168.261737,
+            "included_at_iso": "2020-09-10T00:52:48.261737",
+            "last_retested_at_epoch": 1599699168.261737,
+            "last_retested_at_iso": "2020-09-10T00:52:48.261737",
             "status": "INACTIVE"
         },
         "lb4.a-ads.com": {
-            "included_at_epoch": 1597192572.530156,
-            "included_at_iso": "2020-08-12T00:36:12.530156",
-            "last_retested_at_epoch": 1598489104.949916,
-            "last_retested_at_iso": "2020-08-27T00:45:04.949916",
+            "included_at_epoch": 1599699168.273803,
+            "included_at_iso": "2020-09-10T00:52:48.273803",
+            "last_retested_at_epoch": 1599699168.273803,
+            "last_retested_at_iso": "2020-09-10T00:52:48.273803",
             "status": "INACTIVE"
         },
         "linfen.cryptopia.co.nz": {
-            "included_at_epoch": 1597192572.544752,
-            "included_at_iso": "2020-08-12T00:36:12.544752",
-            "last_retested_at_epoch": 1598489104.963165,
-            "last_retested_at_iso": "2020-08-27T00:45:04.963165",
+            "included_at_epoch": 1599699168.28503,
+            "included_at_iso": "2020-09-10T00:52:48.285030",
+            "last_retested_at_epoch": 1599699168.28503,
+            "last_retested_at_iso": "2020-09-10T00:52:48.285030",
             "status": "INACTIVE"
         },
         "load.cryptopia.co.nz": {
-            "included_at_epoch": 1597192572.557656,
-            "included_at_iso": "2020-08-12T00:36:12.557656",
-            "last_retested_at_epoch": 1598489104.978615,
-            "last_retested_at_iso": "2020-08-27T00:45:04.978615",
+            "included_at_epoch": 1599699168.302267,
+            "included_at_iso": "2020-09-10T00:52:48.302267",
+            "last_retested_at_epoch": 1599699168.302267,
+            "last_retested_at_iso": "2020-09-10T00:52:48.302267",
             "status": "INACTIVE"
         },
         "localhost.cryptopia.co.nz": {
-            "included_at_epoch": 1597192572.563833,
-            "included_at_iso": "2020-08-12T00:36:12.563833",
-            "last_retested_at_epoch": 1598489104.986017,
-            "last_retested_at_iso": "2020-08-27T00:45:04.986017",
+            "included_at_epoch": 1599699168.296234,
+            "included_at_iso": "2020-09-10T00:52:48.296234",
+            "last_retested_at_epoch": 1599699168.296234,
+            "last_retested_at_iso": "2020-09-10T00:52:48.296234",
             "status": "INACTIVE"
         },
         "localhost.quadrigacx.com": {
-            "included_at_epoch": 1597192572.57624,
-            "included_at_iso": "2020-08-12T00:36:12.576240",
-            "last_retested_at_epoch": 1598489105.001437,
-            "last_retested_at_iso": "2020-08-27T00:45:05.001437",
+            "included_at_epoch": 1599699168.314486,
+            "included_at_iso": "2020-09-10T00:52:48.314486",
+            "last_retested_at_epoch": 1599699168.314486,
+            "last_retested_at_iso": "2020-09-10T00:52:48.314486",
             "status": "INACTIVE"
         },
         "login.coinbase.com": {
-            "included_at_epoch": 1597192572.569987,
-            "included_at_iso": "2020-08-12T00:36:12.569987",
-            "last_retested_at_epoch": 1598489104.993655,
-            "last_retested_at_iso": "2020-08-27T00:45:04.993655",
+            "included_at_epoch": 1599699168.308307,
+            "included_at_iso": "2020-09-10T00:52:48.308307",
+            "last_retested_at_epoch": 1599699168.308307,
+            "last_retested_at_iso": "2020-09-10T00:52:48.308307",
             "status": "INACTIVE"
         },
         "lt.cryptopia.co.nz": {
-            "included_at_epoch": 1597192572.582726,
-            "included_at_iso": "2020-08-12T00:36:12.582726",
-            "last_retested_at_epoch": 1598489105.009187,
-            "last_retested_at_iso": "2020-08-27T00:45:05.009187",
+            "included_at_epoch": 1599699168.320557,
+            "included_at_iso": "2020-09-10T00:52:48.320557",
+            "last_retested_at_epoch": 1599699168.320557,
+            "last_retested_at_iso": "2020-09-10T00:52:48.320557",
             "status": "INACTIVE"
         },
         "ltc-bitcore3.trezor.io": {
-            "included_at_epoch": 1597192572.59061,
-            "included_at_iso": "2020-08-12T00:36:12.590610",
-            "last_retested_at_epoch": 1598489105.025814,
-            "last_retested_at_iso": "2020-08-27T00:45:05.025814",
+            "included_at_epoch": 1599699168.334226,
+            "included_at_iso": "2020-09-10T00:52:48.334226",
+            "last_retested_at_epoch": 1599699168.334226,
+            "last_retested_at_iso": "2020-09-10T00:52:48.334226",
             "status": "INACTIVE"
         },
         "ltc.cryptopia.co.nz": {
-            "included_at_epoch": 1597192572.596879,
-            "included_at_iso": "2020-08-12T00:36:12.596879",
-            "last_retested_at_epoch": 1598489105.018297,
-            "last_retested_at_iso": "2020-08-27T00:45:05.018297",
+            "included_at_epoch": 1599699168.328115,
+            "included_at_iso": "2020-09-10T00:52:48.328115",
+            "last_retested_at_epoch": 1599699168.328115,
+            "last_retested_at_iso": "2020-09-10T00:52:48.328115",
             "status": "INACTIVE"
         },
         "m.cryptopia.co.nz": {
-            "included_at_epoch": 1597192572.61196,
-            "included_at_iso": "2020-08-12T00:36:12.611960",
-            "last_retested_at_epoch": 1598489105.039223,
-            "last_retested_at_iso": "2020-08-27T00:45:05.039223",
+            "included_at_epoch": 1599699168.345747,
+            "included_at_iso": "2020-09-10T00:52:48.345747",
+            "last_retested_at_epoch": 1599699168.345747,
+            "last_retested_at_iso": "2020-09-10T00:52:48.345747",
             "status": "INACTIVE"
         },
         "mail.coinbase.com": {
-            "included_at_epoch": 1597192572.618249,
-            "included_at_iso": "2020-08-12T00:36:12.618249",
-            "last_retested_at_epoch": 1598489105.047921,
-            "last_retested_at_iso": "2020-08-27T00:45:05.047921",
+            "included_at_epoch": 1599699168.353057,
+            "included_at_iso": "2020-09-10T00:52:48.353057",
+            "last_retested_at_epoch": 1599699168.353057,
+            "last_retested_at_iso": "2020-09-10T00:52:48.353057",
             "status": "INACTIVE"
         },
         "management.cryptopia.co.nz": {
-            "included_at_epoch": 1597192572.626163,
-            "included_at_iso": "2020-08-12T00:36:12.626163",
-            "last_retested_at_epoch": 1598489105.056782,
-            "last_retested_at_iso": "2020-08-27T00:45:05.056782",
+            "included_at_epoch": 1599699168.360744,
+            "included_at_iso": "2020-09-10T00:52:48.360744",
+            "last_retested_at_epoch": 1599699168.360744,
+            "last_retested_at_iso": "2020-09-10T00:52:48.360744",
             "status": "INACTIVE"
         },
         "mars.cryptopia.co.nz": {
-            "included_at_epoch": 1597192572.632042,
-            "included_at_iso": "2020-08-12T00:36:12.632042",
-            "last_retested_at_epoch": 1598489105.064283,
-            "last_retested_at_iso": "2020-08-27T00:45:05.064283",
+            "included_at_epoch": 1599699168.366726,
+            "included_at_iso": "2020-09-10T00:52:48.366726",
+            "last_retested_at_epoch": 1599699168.366726,
+            "last_retested_at_iso": "2020-09-10T00:52:48.366726",
             "status": "INACTIVE"
         },
         "mike.cryptopia.co.nz": {
-            "included_at_epoch": 1597192572.647154,
-            "included_at_iso": "2020-08-12T00:36:12.647154",
-            "last_retested_at_epoch": 1598489105.081702,
-            "last_retested_at_iso": "2020-08-27T00:45:05.081702",
+            "included_at_epoch": 1599699168.380337,
+            "included_at_iso": "2020-09-10T00:52:48.380337",
+            "last_retested_at_epoch": 1599699168.380337,
+            "last_retested_at_iso": "2020-09-10T00:52:48.380337",
             "status": "INACTIVE"
         },
         "mike.rockwall.investments": {
@@ -2425,31 +2425,31 @@
             "status": "INACTIVE"
         },
         "minecraft.cryptopia.co.nz": {
-            "included_at_epoch": 1597192572.659422,
-            "included_at_iso": "2020-08-12T00:36:12.659422",
-            "last_retested_at_epoch": 1598489105.096655,
-            "last_retested_at_iso": "2020-08-27T00:45:05.096655",
+            "included_at_epoch": 1599699168.386274,
+            "included_at_iso": "2020-09-10T00:52:48.386274",
+            "last_retested_at_epoch": 1599699168.386274,
+            "last_retested_at_iso": "2020-09-10T00:52:48.386274",
             "status": "INACTIVE"
         },
         "mineshaft.cryptopia.co.nz": {
-            "included_at_epoch": 1597192572.668237,
-            "included_at_iso": "2020-08-12T00:36:12.668237",
-            "last_retested_at_epoch": 1598489105.106675,
-            "last_retested_at_iso": "2020-08-27T00:45:05.106675",
+            "included_at_epoch": 1599699168.393928,
+            "included_at_iso": "2020-09-10T00:52:48.393928",
+            "last_retested_at_epoch": 1599699168.393928,
+            "last_retested_at_iso": "2020-09-10T00:52:48.393928",
             "status": "INACTIVE"
         },
         "mineshaft1.cryptopia.co.nz": {
-            "included_at_epoch": 1597192572.676953,
-            "included_at_iso": "2020-08-12T00:36:12.676953",
-            "last_retested_at_epoch": 1598489105.116432,
-            "last_retested_at_iso": "2020-08-27T00:45:05.116432",
+            "included_at_epoch": 1599699168.40162,
+            "included_at_iso": "2020-09-10T00:52:48.401620",
+            "last_retested_at_epoch": 1599699168.40162,
+            "last_retested_at_iso": "2020-09-10T00:52:48.401620",
             "status": "INACTIVE"
         },
         "miningfarmasics.com": {
-            "included_at_epoch": 1597192572.684927,
-            "included_at_iso": "2020-08-12T00:36:12.684927",
-            "last_retested_at_epoch": 1598489105.125354,
-            "last_retested_at_iso": "2020-08-27T00:45:05.125354",
+            "included_at_epoch": 1599699168.409182,
+            "included_at_iso": "2020-09-10T00:52:48.409182",
+            "last_retested_at_epoch": 1599699168.409182,
+            "last_retested_at_iso": "2020-09-10T00:52:48.409182",
             "status": "INACTIVE"
         },
         "minneapolis.rockwall.investments": {
@@ -2460,10 +2460,10 @@
             "status": "INACTIVE"
         },
         "mm.a-ads.com": {
-            "included_at_epoch": 1597192572.69209,
-            "included_at_iso": "2020-08-12T00:36:12.692090",
-            "last_retested_at_epoch": 1598489105.134153,
-            "last_retested_at_iso": "2020-08-27T00:45:05.134153",
+            "included_at_epoch": 1599699168.417059,
+            "included_at_iso": "2020-09-10T00:52:48.417059",
+            "last_retested_at_epoch": 1599699168.417059,
+            "last_retested_at_iso": "2020-09-10T00:52:48.417059",
             "status": "INACTIVE"
         },
         "monero-miner.000webhostapp.com": {
@@ -2474,10 +2474,10 @@
             "status": "INACTIVE"
         },
         "mta82.hashgains.com": {
-            "included_at_epoch": 1597192572.714925,
-            "included_at_iso": "2020-08-12T00:36:12.714925",
-            "last_retested_at_epoch": 1598489105.168596,
-            "last_retested_at_iso": "2020-08-27T00:45:05.168596",
+            "included_at_epoch": 1599699168.42885,
+            "included_at_iso": "2020-09-10T00:52:48.428850",
+            "last_retested_at_epoch": 1599699168.42885,
+            "last_retested_at_iso": "2020-09-10T00:52:48.428850",
             "status": "INACTIVE"
         },
         "mta83.a.hashgains.com": {
@@ -2488,38 +2488,38 @@
             "status": "INACTIVE"
         },
         "mx.peerhash.com": {
-            "included_at_epoch": 1597192572.73561,
-            "included_at_iso": "2020-08-12T00:36:12.735610",
-            "last_retested_at_epoch": 1598489105.188594,
-            "last_retested_at_iso": "2020-08-27T00:45:05.188594",
+            "included_at_epoch": 1599699168.449871,
+            "included_at_iso": "2020-09-10T00:52:48.449871",
+            "last_retested_at_epoch": 1599699168.449871,
+            "last_retested_at_iso": "2020-09-10T00:52:48.449871",
             "status": "INACTIVE"
         },
         "n1.cryptopia.co.nz": {
-            "included_at_epoch": 1597192572.752751,
-            "included_at_iso": "2020-08-12T00:36:12.752751",
-            "last_retested_at_epoch": 1598489105.20812,
-            "last_retested_at_iso": "2020-08-27T00:45:05.208120",
+            "included_at_epoch": 1599699168.465704,
+            "included_at_iso": "2020-09-10T00:52:48.465704",
+            "last_retested_at_epoch": 1599699168.465704,
+            "last_retested_at_iso": "2020-09-10T00:52:48.465704",
             "status": "INACTIVE"
         },
         "netvision.cryptopia.co.nz": {
-            "included_at_epoch": 1597192572.760556,
-            "included_at_iso": "2020-08-12T00:36:12.760556",
-            "last_retested_at_epoch": 1598489105.225826,
-            "last_retested_at_iso": "2020-08-27T00:45:05.225826",
+            "included_at_epoch": 1599699168.473811,
+            "included_at_iso": "2020-09-10T00:52:48.473811",
+            "last_retested_at_epoch": 1599699168.473811,
+            "last_retested_at_iso": "2020-09-10T00:52:48.473811",
             "status": "INACTIVE"
         },
         "network.cryptopia.co.nz": {
-            "included_at_epoch": 1597192572.767168,
-            "included_at_iso": "2020-08-12T00:36:12.767168",
-            "last_retested_at_epoch": 1598489105.217741,
-            "last_retested_at_iso": "2020-08-27T00:45:05.217741",
+            "included_at_epoch": 1599699168.480256,
+            "included_at_iso": "2020-09-10T00:52:48.480256",
+            "last_retested_at_epoch": 1599699168.480256,
+            "last_retested_at_iso": "2020-09-10T00:52:48.480256",
             "status": "INACTIVE"
         },
         "next.btc-alpha.com": {
-            "included_at_epoch": 1597192572.773413,
-            "included_at_iso": "2020-08-12T00:36:12.773413",
-            "last_retested_at_epoch": 1598489105.233914,
-            "last_retested_at_iso": "2020-08-27T00:45:05.233914",
+            "included_at_epoch": 1599699168.486854,
+            "included_at_iso": "2020-09-10T00:52:48.486854",
+            "last_retested_at_epoch": 1599699168.486854,
+            "last_retested_at_iso": "2020-09-10T00:52:48.486854",
             "status": "INACTIVE"
         },
         "node.jwallet.network": {
@@ -2530,143 +2530,143 @@
             "status": "INACTIVE"
         },
         "nodes1.cryptopia.co.nz": {
-            "included_at_epoch": 1597192572.78586,
-            "included_at_iso": "2020-08-12T00:36:12.785860",
-            "last_retested_at_epoch": 1598489105.250004,
-            "last_retested_at_iso": "2020-08-27T00:45:05.250004",
+            "included_at_epoch": 1599699168.493323,
+            "included_at_iso": "2020-09-10T00:52:48.493323",
+            "last_retested_at_epoch": 1599699168.493323,
+            "last_retested_at_iso": "2020-09-10T00:52:48.493323",
             "status": "INACTIVE"
         },
         "nodes2.cryptopia.co.nz": {
-            "included_at_epoch": 1597192572.799893,
-            "included_at_iso": "2020-08-12T00:36:12.799893",
-            "last_retested_at_epoch": 1598489105.259772,
-            "last_retested_at_iso": "2020-08-27T00:45:05.259772",
+            "included_at_epoch": 1599699168.501457,
+            "included_at_iso": "2020-09-10T00:52:48.501457",
+            "last_retested_at_epoch": 1599699168.501457,
+            "last_retested_at_iso": "2020-09-10T00:52:48.501457",
             "status": "INACTIVE"
         },
         "nostalgia.bitfinex.com": {
-            "included_at_epoch": 1597192572.793447,
-            "included_at_iso": "2020-08-12T00:36:12.793447",
-            "last_retested_at_epoch": 1598489105.267805,
-            "last_retested_at_iso": "2020-08-27T00:45:05.267805",
+            "included_at_epoch": 1599699168.507939,
+            "included_at_iso": "2020-09-10T00:52:48.507939",
+            "last_retested_at_epoch": 1599699168.507939,
+            "last_retested_at_iso": "2020-09-10T00:52:48.507939",
             "status": "INACTIVE"
         },
         "ns2.a-ads.com": {
-            "included_at_epoch": 1597192572.806438,
-            "included_at_iso": "2020-08-12T00:36:12.806438",
-            "last_retested_at_epoch": 1598489105.275936,
-            "last_retested_at_iso": "2020-08-27T00:45:05.275936",
+            "included_at_epoch": 1599699168.514489,
+            "included_at_iso": "2020-09-10T00:52:48.514489",
+            "last_retested_at_epoch": 1599699168.514489,
+            "last_retested_at_iso": "2020-09-10T00:52:48.514489",
             "status": "INACTIVE"
         },
         "o1.coinmama.com": {
-            "included_at_epoch": 1597192572.813721,
-            "included_at_iso": "2020-08-12T00:36:12.813721",
-            "last_retested_at_epoch": 1598489105.283851,
-            "last_retested_at_iso": "2020-08-27T00:45:05.283851",
+            "included_at_epoch": 1599699168.521046,
+            "included_at_iso": "2020-09-10T00:52:48.521046",
+            "last_retested_at_epoch": 1599699168.521046,
+            "last_retested_at_iso": "2020-09-10T00:52:48.521046",
             "status": "INACTIVE"
         },
         "offers.cryptopia.co.nz": {
-            "included_at_epoch": 1597192572.828867,
-            "included_at_iso": "2020-08-12T00:36:12.828867",
-            "last_retested_at_epoch": 1598489105.30116,
-            "last_retested_at_iso": "2020-08-27T00:45:05.301160",
+            "included_at_epoch": 1599699168.537109,
+            "included_at_iso": "2020-09-10T00:52:48.537109",
+            "last_retested_at_epoch": 1599699168.537109,
+            "last_retested_at_iso": "2020-09-10T00:52:48.537109",
             "status": "INACTIVE"
         },
         "office.cryptopia.co.nz": {
-            "included_at_epoch": 1597192572.837,
-            "included_at_iso": "2020-08-12T00:36:12.837000",
-            "last_retested_at_epoch": 1598489105.310112,
-            "last_retested_at_iso": "2020-08-27T00:45:05.310112",
+            "included_at_epoch": 1599699168.545175,
+            "included_at_iso": "2020-09-10T00:52:48.545175",
+            "last_retested_at_epoch": 1599699168.545175,
+            "last_retested_at_iso": "2020-09-10T00:52:48.545175",
             "status": "INACTIVE"
         },
         "parners.cryptopia.co.nz": {
-            "included_at_epoch": 1597192572.861749,
-            "included_at_iso": "2020-08-12T00:36:12.861749",
-            "last_retested_at_epoch": 1598489105.329035,
-            "last_retested_at_iso": "2020-08-27T00:45:05.329035",
+            "included_at_epoch": 1599699168.56233,
+            "included_at_iso": "2020-09-10T00:52:48.562330",
+            "last_retested_at_epoch": 1599699168.56233,
+            "last_retested_at_iso": "2020-09-10T00:52:48.562330",
             "status": "INACTIVE"
         },
         "pay.bithumb.com": {
-            "included_at_epoch": 1597192572.872425,
-            "included_at_iso": "2020-08-12T00:36:12.872425",
-            "last_retested_at_epoch": 1598489105.340511,
-            "last_retested_at_iso": "2020-08-27T00:45:05.340511",
+            "included_at_epoch": 1599699168.574145,
+            "included_at_iso": "2020-09-10T00:52:48.574145",
+            "last_retested_at_epoch": 1599699168.574145,
+            "last_retested_at_iso": "2020-09-10T00:52:48.574145",
             "status": "INACTIVE"
         },
         "poc.simplemining.net": {
-            "included_at_epoch": 1597192572.883237,
-            "included_at_iso": "2020-08-12T00:36:12.883237",
-            "last_retested_at_epoch": 1598489105.351952,
-            "last_retested_at_iso": "2020-08-27T00:45:05.351952",
+            "included_at_epoch": 1599699168.584121,
+            "included_at_iso": "2020-09-10T00:52:48.584121",
+            "last_retested_at_epoch": 1599699168.584121,
+            "last_retested_at_iso": "2020-09-10T00:52:48.584121",
             "status": "INACTIVE"
         },
         "pools.cryptopia.co.nz": {
-            "included_at_epoch": 1597192572.891417,
-            "included_at_iso": "2020-08-12T00:36:12.891417",
-            "last_retested_at_epoch": 1598489105.361117,
-            "last_retested_at_iso": "2020-08-27T00:45:05.361117",
+            "included_at_epoch": 1599699168.592571,
+            "included_at_iso": "2020-09-10T00:52:48.592571",
+            "last_retested_at_epoch": 1599699168.592571,
+            "last_retested_at_iso": "2020-09-10T00:52:48.592571",
             "status": "INACTIVE"
         },
         "pools1.cryptopia.co.nz": {
-            "included_at_epoch": 1597192572.899487,
-            "included_at_iso": "2020-08-12T00:36:12.899487",
-            "last_retested_at_epoch": 1598489105.370115,
-            "last_retested_at_iso": "2020-08-27T00:45:05.370115",
+            "included_at_epoch": 1599699168.600921,
+            "included_at_iso": "2020-09-10T00:52:48.600921",
+            "last_retested_at_epoch": 1599699168.600921,
+            "last_retested_at_iso": "2020-09-10T00:52:48.600921",
             "status": "INACTIVE"
         },
         "pools2.cryptopia.co.nz": {
-            "included_at_epoch": 1597192572.906121,
-            "included_at_iso": "2020-08-12T00:36:12.906121",
-            "last_retested_at_epoch": 1598489105.378011,
-            "last_retested_at_iso": "2020-08-27T00:45:05.378011",
+            "included_at_epoch": 1599699168.607677,
+            "included_at_iso": "2020-09-10T00:52:48.607677",
+            "last_retested_at_epoch": 1599699168.607677,
+            "last_retested_at_iso": "2020-09-10T00:52:48.607677",
             "status": "INACTIVE"
         },
         "pop3.awesomeminer.com": {
-            "included_at_epoch": 1597192572.914569,
-            "included_at_iso": "2020-08-12T00:36:12.914569",
-            "last_retested_at_epoch": 1598489105.387089,
-            "last_retested_at_iso": "2020-08-27T00:45:05.387089",
+            "included_at_epoch": 1599699168.616166,
+            "included_at_iso": "2020-09-10T00:52:48.616166",
+            "last_retested_at_epoch": 1599699168.616166,
+            "last_retested_at_iso": "2020-09-10T00:52:48.616166",
             "status": "INACTIVE"
         },
         "pport.cryptopia.co.nz": {
-            "included_at_epoch": 1597192572.921032,
-            "included_at_iso": "2020-08-12T00:36:12.921032",
-            "last_retested_at_epoch": 1598489105.394909,
-            "last_retested_at_iso": "2020-08-27T00:45:05.394909",
+            "included_at_epoch": 1599699168.62293,
+            "included_at_iso": "2020-09-10T00:52:48.622930",
+            "last_retested_at_epoch": 1599699168.62293,
+            "last_retested_at_iso": "2020-09-10T00:52:48.622930",
             "status": "INACTIVE"
         },
         "prelive.cryptopia.co.nz": {
-            "included_at_epoch": 1597192572.928758,
-            "included_at_iso": "2020-08-12T00:36:12.928758",
-            "last_retested_at_epoch": 1598489105.404094,
-            "last_retested_at_iso": "2020-08-27T00:45:05.404094",
+            "included_at_epoch": 1599699168.631089,
+            "included_at_iso": "2020-09-10T00:52:48.631089",
+            "last_retested_at_epoch": 1599699168.631089,
+            "last_retested_at_iso": "2020-09-10T00:52:48.631089",
             "status": "INACTIVE"
         },
         "preprod.simplemining.net": {
-            "included_at_epoch": 1597192572.942608,
-            "included_at_iso": "2020-08-12T00:36:12.942608",
-            "last_retested_at_epoch": 1598489105.420924,
-            "last_retested_at_iso": "2020-08-27T00:45:05.420924",
+            "included_at_epoch": 1599699168.639536,
+            "included_at_iso": "2020-09-10T00:52:48.639536",
+            "last_retested_at_epoch": 1599699168.639536,
+            "last_retested_at_iso": "2020-09-10T00:52:48.639536",
             "status": "INACTIVE"
         },
         "press-dev.coinbase.com": {
-            "included_at_epoch": 1597192572.936311,
-            "included_at_iso": "2020-08-12T00:36:12.936311",
-            "last_retested_at_epoch": 1598489105.41321,
-            "last_retested_at_iso": "2020-08-27T00:45:05.413210",
+            "included_at_epoch": 1599699168.646175,
+            "included_at_iso": "2020-09-10T00:52:48.646175",
+            "last_retested_at_epoch": 1599699168.646175,
+            "last_retested_at_iso": "2020-09-10T00:52:48.646175",
             "status": "INACTIVE"
         },
         "press-staging.coinbase.com": {
-            "included_at_epoch": 1597192572.94901,
-            "included_at_iso": "2020-08-12T00:36:12.949010",
-            "last_retested_at_epoch": 1598489105.428611,
-            "last_retested_at_iso": "2020-08-27T00:45:05.428611",
+            "included_at_epoch": 1599699168.652984,
+            "included_at_iso": "2020-09-10T00:52:48.652984",
+            "last_retested_at_epoch": 1599699168.652984,
+            "last_retested_at_iso": "2020-09-10T00:52:48.652984",
             "status": "INACTIVE"
         },
         "press.coinbase.com": {
-            "included_at_epoch": 1597192572.95543,
-            "included_at_iso": "2020-08-12T00:36:12.955430",
-            "last_retested_at_epoch": 1598489105.436998,
-            "last_retested_at_iso": "2020-08-27T00:45:05.436998",
+            "included_at_epoch": 1599699168.65976,
+            "included_at_iso": "2020-09-10T00:52:48.659760",
+            "last_retested_at_epoch": 1599699168.65976,
+            "last_retested_at_iso": "2020-09-10T00:52:48.659760",
             "status": "INACTIVE"
         },
         "psychomining.de": {
@@ -2677,59 +2677,59 @@
             "status": "INACTIVE"
         },
         "public.sandbox.exchange.coinbase.com": {
-            "included_at_epoch": 1597192572.977468,
-            "included_at_iso": "2020-08-12T00:36:12.977468",
-            "last_retested_at_epoch": 1598489105.460594,
-            "last_retested_at_iso": "2020-08-27T00:45:05.460594",
+            "included_at_epoch": 1599699168.673122,
+            "included_at_iso": "2020-09-10T00:52:48.673122",
+            "last_retested_at_epoch": 1599699168.673122,
+            "last_retested_at_iso": "2020-09-10T00:52:48.673122",
             "status": "INACTIVE"
         },
         "rc.bithumb.com": {
-            "included_at_epoch": 1597192573.00113,
-            "included_at_iso": "2020-08-12T00:36:13.001130",
-            "last_retested_at_epoch": 1598489105.488864,
-            "last_retested_at_iso": "2020-08-27T00:45:05.488864",
+            "included_at_epoch": 1599699168.698135,
+            "included_at_iso": "2020-09-10T00:52:48.698135",
+            "last_retested_at_epoch": 1599699168.698135,
+            "last_retested_at_iso": "2020-09-10T00:52:48.698135",
             "status": "INACTIVE"
         },
         "redmine.emercoin.com": {
-            "included_at_epoch": 1597192573.015731,
-            "included_at_iso": "2020-08-12T00:36:13.015731",
-            "last_retested_at_epoch": 1598489105.5069,
-            "last_retested_at_iso": "2020-08-27T00:45:05.506900",
+            "included_at_epoch": 1599699168.705153,
+            "included_at_iso": "2020-09-10T00:52:48.705153",
+            "last_retested_at_epoch": 1599699168.705153,
+            "last_retested_at_iso": "2020-09-10T00:52:48.705153",
             "status": "INACTIVE"
         },
         "relay.coinbase.com": {
-            "included_at_epoch": 1597192573.009194,
-            "included_at_iso": "2020-08-12T00:36:13.009194",
-            "last_retested_at_epoch": 1598489105.498653,
-            "last_retested_at_iso": "2020-08-27T00:45:05.498653",
+            "included_at_epoch": 1599699168.713618,
+            "included_at_iso": "2020-09-10T00:52:48.713618",
+            "last_retested_at_epoch": 1599699168.713618,
+            "last_retested_at_iso": "2020-09-10T00:52:48.713618",
             "status": "INACTIVE"
         },
         "rm.cointraffic.io": {
-            "included_at_epoch": 1597192573.030905,
-            "included_at_iso": "2020-08-12T00:36:13.030905",
-            "last_retested_at_epoch": 1598489105.524584,
-            "last_retested_at_iso": "2020-08-27T00:45:05.524584",
+            "included_at_epoch": 1599699168.730007,
+            "included_at_iso": "2020-09-10T00:52:48.730007",
+            "last_retested_at_epoch": 1599699168.730007,
+            "last_retested_at_iso": "2020-09-10T00:52:48.730007",
             "status": "INACTIVE"
         },
         "rpc.myetherwallet.com": {
-            "included_at_epoch": 1597192573.037531,
-            "included_at_iso": "2020-08-12T00:36:13.037531",
-            "last_retested_at_epoch": 1598489105.535052,
-            "last_retested_at_iso": "2020-08-27T00:45:05.535052",
+            "included_at_epoch": 1599699168.737002,
+            "included_at_iso": "2020-09-10T00:52:48.737002",
+            "last_retested_at_epoch": 1599699168.737002,
+            "last_retested_at_iso": "2020-09-10T00:52:48.737002",
             "status": "INACTIVE"
         },
         "ru.cryptopia.co.nz": {
-            "included_at_epoch": 1597192573.046737,
-            "included_at_iso": "2020-08-12T00:36:13.046737",
-            "last_retested_at_epoch": 1598489105.542957,
-            "last_retested_at_iso": "2020-08-27T00:45:05.542957",
+            "included_at_epoch": 1599699168.745683,
+            "included_at_iso": "2020-09-10T00:52:48.745683",
+            "last_retested_at_epoch": 1599699168.745683,
+            "last_retested_at_iso": "2020-09-10T00:52:48.745683",
             "status": "INACTIVE"
         },
         "s.a-ads.com": {
-            "included_at_epoch": 1597192573.05483,
-            "included_at_iso": "2020-08-12T00:36:13.054830",
-            "last_retested_at_epoch": 1598489105.552351,
-            "last_retested_at_iso": "2020-08-27T00:45:05.552351",
+            "included_at_epoch": 1599699168.752489,
+            "included_at_iso": "2020-09-10T00:52:48.752489",
+            "last_retested_at_epoch": 1599699168.752489,
+            "last_retested_at_iso": "2020-09-10T00:52:48.752489",
             "status": "INACTIVE"
         },
         "sadmin.rockwall.investments": {
@@ -2740,73 +2740,73 @@
             "status": "INACTIVE"
         },
         "saml.cryptopia.co.nz": {
-            "included_at_epoch": 1597192573.070271,
-            "included_at_iso": "2020-08-12T00:36:13.070271",
-            "last_retested_at_epoch": 1598489105.571625,
-            "last_retested_at_iso": "2020-08-27T00:45:05.571625",
+            "included_at_epoch": 1599699168.761023,
+            "included_at_iso": "2020-09-10T00:52:48.761023",
+            "last_retested_at_epoch": 1599699168.761023,
+            "last_retested_at_iso": "2020-09-10T00:52:48.761023",
             "status": "INACTIVE"
         },
         "sandbox.coinbase.com": {
-            "included_at_epoch": 1597192573.07691,
-            "included_at_iso": "2020-08-12T00:36:13.076910",
-            "last_retested_at_epoch": 1598489105.579751,
-            "last_retested_at_iso": "2020-08-27T00:45:05.579751",
+            "included_at_epoch": 1599699168.768009,
+            "included_at_iso": "2020-09-10T00:52:48.768009",
+            "last_retested_at_epoch": 1599699168.768009,
+            "last_retested_at_iso": "2020-09-10T00:52:48.768009",
             "status": "INACTIVE"
         },
         "sandbox.exchange.coinbase.com": {
-            "included_at_epoch": 1597192573.083673,
-            "included_at_iso": "2020-08-12T00:36:13.083673",
-            "last_retested_at_epoch": 1598489105.587875,
-            "last_retested_at_iso": "2020-08-27T00:45:05.587875",
+            "included_at_epoch": 1599699168.774977,
+            "included_at_iso": "2020-09-10T00:52:48.774977",
+            "last_retested_at_epoch": 1599699168.774977,
+            "last_retested_at_iso": "2020-09-10T00:52:48.774977",
             "status": "INACTIVE"
         },
         "secure.coinmama.com": {
-            "included_at_epoch": 1597192573.093292,
-            "included_at_iso": "2020-08-12T00:36:13.093292",
-            "last_retested_at_epoch": 1598489105.601079,
-            "last_retested_at_iso": "2020-08-27T00:45:05.601079",
+            "included_at_epoch": 1599699168.822288,
+            "included_at_iso": "2020-09-10T00:52:48.822288",
+            "last_retested_at_epoch": 1599699168.822288,
+            "last_retested_at_iso": "2020-09-10T00:52:48.822288",
             "status": "INACTIVE"
         },
         "staging.community.coinbase.com": {
-            "included_at_epoch": 1597192573.119687,
-            "included_at_iso": "2020-08-12T00:36:13.119687",
-            "last_retested_at_epoch": 1598489105.635762,
-            "last_retested_at_iso": "2020-08-27T00:45:05.635762",
+            "included_at_epoch": 1599699168.850029,
+            "included_at_iso": "2020-09-10T00:52:48.850029",
+            "last_retested_at_epoch": 1599699168.850029,
+            "last_retested_at_iso": "2020-09-10T00:52:48.850029",
             "status": "INACTIVE"
         },
         "stats.ethc.io": {
-            "included_at_epoch": 1597192573.133577,
-            "included_at_iso": "2020-08-12T00:36:13.133577",
-            "last_retested_at_epoch": 1598489105.65327,
-            "last_retested_at_iso": "2020-08-27T00:45:05.653270",
+            "included_at_epoch": 1599699168.863459,
+            "included_at_iso": "2020-09-10T00:52:48.863459",
+            "last_retested_at_epoch": 1599699168.863459,
+            "last_retested_at_iso": "2020-09-10T00:52:48.863459",
             "status": "INACTIVE"
         },
         "status.coinmama.com": {
-            "included_at_epoch": 1597192573.144009,
-            "included_at_iso": "2020-08-12T00:36:13.144009",
-            "last_retested_at_epoch": 1598489105.663868,
-            "last_retested_at_iso": "2020-08-27T00:45:05.663868",
+            "included_at_epoch": 1599699168.873892,
+            "included_at_iso": "2020-09-10T00:52:48.873892",
+            "last_retested_at_epoch": 1599699168.873892,
+            "last_retested_at_iso": "2020-09-10T00:52:48.873892",
             "status": "INACTIVE"
         },
         "store.coinbase.com": {
-            "included_at_epoch": 1597192573.154484,
-            "included_at_iso": "2020-08-12T00:36:13.154484",
-            "last_retested_at_epoch": 1598489105.675809,
-            "last_retested_at_iso": "2020-08-27T00:45:05.675809",
+            "included_at_epoch": 1599699168.884219,
+            "included_at_iso": "2020-09-10T00:52:48.884219",
+            "last_retested_at_epoch": 1599699168.884219,
+            "last_retested_at_iso": "2020-09-10T00:52:48.884219",
             "status": "INACTIVE"
         },
         "test.cryptopia.co.nz": {
-            "included_at_epoch": 1597192573.195404,
-            "included_at_iso": "2020-08-12T00:36:13.195404",
-            "last_retested_at_epoch": 1598489105.723323,
-            "last_retested_at_iso": "2020-08-27T00:45:05.723323",
+            "included_at_epoch": 1599699168.929299,
+            "included_at_iso": "2020-09-10T00:52:48.929299",
+            "last_retested_at_epoch": 1599699168.929299,
+            "last_retested_at_iso": "2020-09-10T00:52:48.929299",
             "status": "INACTIVE"
         },
         "test.ledgerwallet.com": {
-            "included_at_epoch": 1597192573.20424,
-            "included_at_iso": "2020-08-12T00:36:13.204240",
-            "last_retested_at_epoch": 1598489105.733363,
-            "last_retested_at_iso": "2020-08-27T00:45:05.733363",
+            "included_at_epoch": 1599699168.938326,
+            "included_at_iso": "2020-09-10T00:52:48.938326",
+            "last_retested_at_epoch": 1599699168.938326,
+            "last_retested_at_iso": "2020-09-10T00:52:48.938326",
             "status": "INACTIVE"
         },
         "test.rockwall.investments": {
@@ -2817,94 +2817,94 @@
             "status": "INACTIVE"
         },
         "tm.btcturk.com": {
-            "included_at_epoch": 1597192573.222568,
-            "included_at_iso": "2020-08-12T00:36:13.222568",
-            "last_retested_at_epoch": 1598489105.753019,
-            "last_retested_at_iso": "2020-08-27T00:45:05.753019",
+            "included_at_epoch": 1599699168.949066,
+            "included_at_iso": "2020-09-10T00:52:48.949066",
+            "last_retested_at_epoch": 1599699168.949066,
+            "last_retested_at_iso": "2020-09-10T00:52:48.949066",
             "status": "INACTIVE"
         },
         "unauthorized.btcturk.com": {
-            "included_at_epoch": 1597192573.250218,
-            "included_at_iso": "2020-08-12T00:36:13.250218",
-            "last_retested_at_epoch": 1598489105.783073,
-            "last_retested_at_iso": "2020-08-27T00:45:05.783073",
+            "included_at_epoch": 1599699168.97539,
+            "included_at_iso": "2020-09-10T00:52:48.975390",
+            "last_retested_at_epoch": 1599699168.97539,
+            "last_retested_at_iso": "2020-09-10T00:52:48.975390",
             "status": "INACTIVE"
         },
         "unauthorized.cryptopia.co.nz": {
-            "included_at_epoch": 1597192573.243309,
-            "included_at_iso": "2020-08-12T00:36:13.243309",
-            "last_retested_at_epoch": 1598489105.774956,
-            "last_retested_at_iso": "2020-08-27T00:45:05.774956",
+            "included_at_epoch": 1599699168.968194,
+            "included_at_iso": "2020-09-10T00:52:48.968194",
+            "last_retested_at_epoch": 1599699168.968194,
+            "last_retested_at_iso": "2020-09-10T00:52:48.968194",
             "status": "INACTIVE"
         },
         "upload.a-ads.com": {
-            "included_at_epoch": 1597192573.262169,
-            "included_at_iso": "2020-08-12T00:36:13.262169",
-            "last_retested_at_epoch": 1598489105.795624,
-            "last_retested_at_iso": "2020-08-27T00:45:05.795624",
+            "included_at_epoch": 1599699168.986099,
+            "included_at_iso": "2020-09-10T00:52:48.986099",
+            "last_retested_at_epoch": 1599699168.986099,
+            "last_retested_at_iso": "2020-09-10T00:52:48.986099",
             "status": "INACTIVE"
         },
         "ups.cryptopia.co.nz": {
-            "included_at_epoch": 1597192573.272531,
-            "included_at_iso": "2020-08-12T00:36:13.272531",
-            "last_retested_at_epoch": 1598489105.805309,
-            "last_retested_at_iso": "2020-08-27T00:45:05.805309",
+            "included_at_epoch": 1599699168.995151,
+            "included_at_iso": "2020-09-10T00:52:48.995151",
+            "last_retested_at_epoch": 1599699168.995151,
+            "last_retested_at_iso": "2020-09-10T00:52:48.995151",
             "status": "INACTIVE"
         },
         "w.cryptopia.co.nz": {
-            "included_at_epoch": 1597192573.291796,
-            "included_at_iso": "2020-08-12T00:36:13.291796",
-            "last_retested_at_epoch": 1598489105.826532,
-            "last_retested_at_iso": "2020-08-27T00:45:05.826532",
+            "included_at_epoch": 1599699169.015408,
+            "included_at_iso": "2020-09-10T00:52:49.015408",
+            "last_retested_at_epoch": 1599699169.015408,
+            "last_retested_at_iso": "2020-09-10T00:52:49.015408",
             "status": "INACTIVE"
         },
         "web3.hashgains.com": {
-            "included_at_epoch": 1597192573.325244,
-            "included_at_iso": "2020-08-12T00:36:13.325244",
-            "last_retested_at_epoch": 1598489105.86161,
-            "last_retested_at_iso": "2020-08-27T00:45:05.861610",
+            "included_at_epoch": 1599699169.048997,
+            "included_at_iso": "2020-09-10T00:52:49.048997",
+            "last_retested_at_epoch": 1599699169.048997,
+            "last_retested_at_iso": "2020-09-10T00:52:49.048997",
             "status": "INACTIVE"
         },
         "web4.hashgains.com": {
-            "included_at_epoch": 1597192573.317937,
-            "included_at_iso": "2020-08-12T00:36:13.317937",
-            "last_retested_at_epoch": 1598489105.853384,
-            "last_retested_at_iso": "2020-08-27T00:45:05.853384",
+            "included_at_epoch": 1599699169.041721,
+            "included_at_iso": "2020-09-10T00:52:49.041721",
+            "last_retested_at_epoch": 1599699169.041721,
+            "last_retested_at_iso": "2020-09-10T00:52:49.041721",
             "status": "INACTIVE"
         },
         "web5.hashgains.com": {
-            "included_at_epoch": 1597192573.332376,
-            "included_at_iso": "2020-08-12T00:36:13.332376",
-            "last_retested_at_epoch": 1598489105.86972,
-            "last_retested_at_iso": "2020-08-27T00:45:05.869720",
+            "included_at_epoch": 1599699169.056797,
+            "included_at_iso": "2020-09-10T00:52:49.056797",
+            "last_retested_at_epoch": 1599699169.056797,
+            "last_retested_at_iso": "2020-09-10T00:52:49.056797",
             "status": "INACTIVE"
         },
         "webdisk.api.cryptoguiminer.com": {
-            "included_at_epoch": 1597192573.341924,
-            "included_at_iso": "2020-08-12T00:36:13.341924",
-            "last_retested_at_epoch": 1598489105.887855,
-            "last_retested_at_iso": "2020-08-27T00:45:05.887855",
+            "included_at_epoch": 1599699169.065789,
+            "included_at_iso": "2020-09-10T00:52:49.065789",
+            "last_retested_at_epoch": 1599699169.065789,
+            "last_retested_at_iso": "2020-09-10T00:52:49.065789",
             "status": "INACTIVE"
         },
         "webdisk.cryptoguiminer.com": {
-            "included_at_epoch": 1597192573.35837,
-            "included_at_iso": "2020-08-12T00:36:13.358370",
-            "last_retested_at_epoch": 1598489105.897814,
-            "last_retested_at_iso": "2020-08-27T00:45:05.897814",
+            "included_at_epoch": 1599699169.076229,
+            "included_at_iso": "2020-09-10T00:52:49.076229",
+            "last_retested_at_epoch": 1599699169.076229,
+            "last_retested_at_iso": "2020-09-10T00:52:49.076229",
             "status": "INACTIVE"
         },
         "webdisk.uclick.in": {
-            "included_at_epoch": 1597192573.367244,
-            "included_at_iso": "2020-08-12T00:36:13.367244",
-            "last_retested_at_epoch": 1598489105.907424,
-            "last_retested_at_iso": "2020-08-27T00:45:05.907424",
+            "included_at_epoch": 1599699169.083641,
+            "included_at_iso": "2020-09-10T00:52:49.083641",
+            "last_retested_at_epoch": 1599699169.083641,
+            "last_retested_at_iso": "2020-09-10T00:52:49.083641",
             "status": "INACTIVE"
         },
         "wiki.emercoin.com": {
-            "included_at_epoch": 1597192573.379981,
-            "included_at_iso": "2020-08-12T00:36:13.379981",
-            "last_retested_at_epoch": 1598489105.920471,
-            "last_retested_at_iso": "2020-08-27T00:45:05.920471",
+            "included_at_epoch": 1599699169.096381,
+            "included_at_iso": "2020-09-10T00:52:49.096381",
+            "last_retested_at_epoch": 1599699169.096381,
+            "last_retested_at_iso": "2020-09-10T00:52:49.096381",
             "status": "INACTIVE"
         },
         "ws.am.coinbase.com": {
@@ -2915,66 +2915,66 @@
             "status": "INACTIVE"
         },
         "ws.bitfinex.com": {
-            "included_at_epoch": 1597192573.407033,
-            "included_at_iso": "2020-08-12T00:36:13.407033",
-            "last_retested_at_epoch": 1598489105.948003,
-            "last_retested_at_iso": "2020-08-27T00:45:05.948003",
+            "included_at_epoch": 1599699169.113236,
+            "included_at_iso": "2020-09-10T00:52:49.113236",
+            "last_retested_at_epoch": 1599699169.113236,
+            "last_retested_at_iso": "2020-09-10T00:52:49.113236",
             "status": "INACTIVE"
         },
         "ws.sandbox.coinbase.com": {
-            "included_at_epoch": 1597192573.419202,
-            "included_at_iso": "2020-08-12T00:36:13.419202",
-            "last_retested_at_epoch": 1598489105.960744,
-            "last_retested_at_iso": "2020-08-27T00:45:05.960744",
+            "included_at_epoch": 1599699169.125042,
+            "included_at_iso": "2020-09-10T00:52:49.125042",
+            "last_retested_at_epoch": 1599699169.125042,
+            "last_retested_at_iso": "2020-09-10T00:52:49.125042",
             "status": "INACTIVE"
         },
         "wss1.bithumb.com": {
-            "included_at_epoch": 1597192573.430761,
-            "included_at_iso": "2020-08-12T00:36:13.430761",
-            "last_retested_at_epoch": 1598489105.981521,
-            "last_retested_at_iso": "2020-08-27T00:45:05.981521",
+            "included_at_epoch": 1599699169.144544,
+            "included_at_iso": "2020-09-10T00:52:49.144544",
+            "last_retested_at_epoch": 1599699169.144544,
+            "last_retested_at_iso": "2020-09-10T00:52:49.144544",
             "status": "INACTIVE"
         },
         "ww.cryptopia.co.nz": {
-            "included_at_epoch": 1597192573.438051,
-            "included_at_iso": "2020-08-12T00:36:13.438051",
-            "last_retested_at_epoch": 1598489105.973593,
-            "last_retested_at_iso": "2020-08-27T00:45:05.973593",
+            "included_at_epoch": 1599699169.136954,
+            "included_at_iso": "2020-09-10T00:52:49.136954",
+            "last_retested_at_epoch": 1599699169.136954,
+            "last_retested_at_iso": "2020-09-10T00:52:49.136954",
             "status": "INACTIVE"
         },
         "www.0x.mycrypto.com": {
-            "included_at_epoch": 1597192573.447213,
-            "included_at_iso": "2020-08-12T00:36:13.447213",
-            "last_retested_at_epoch": 1598489105.989463,
-            "last_retested_at_iso": "2020-08-27T00:45:05.989463",
+            "included_at_epoch": 1599699169.152081,
+            "included_at_iso": "2020-09-10T00:52:49.152081",
+            "last_retested_at_epoch": 1599699169.152081,
+            "last_retested_at_iso": "2020-09-10T00:52:49.152081",
             "status": "INACTIVE"
         },
         "www.alpha.myetherwallet.com": {
-            "included_at_epoch": 1597192573.459914,
-            "included_at_iso": "2020-08-12T00:36:13.459914",
-            "last_retested_at_epoch": 1598489106.003816,
-            "last_retested_at_iso": "2020-08-27T00:45:06.003816",
+            "included_at_epoch": 1599699169.16672,
+            "included_at_iso": "2020-09-10T00:52:49.166720",
+            "last_retested_at_epoch": 1599699169.16672,
+            "last_retested_at_iso": "2020-09-10T00:52:49.166720",
             "status": "INACTIVE"
         },
         "www.api.mymonero.com": {
-            "included_at_epoch": 1597192573.472256,
-            "included_at_iso": "2020-08-12T00:36:13.472256",
-            "last_retested_at_epoch": 1598489106.016583,
-            "last_retested_at_iso": "2020-08-27T00:45:06.016583",
+            "included_at_epoch": 1599699169.179949,
+            "included_at_iso": "2020-09-10T00:52:49.179949",
+            "last_retested_at_epoch": 1599699169.179949,
+            "last_retested_at_iso": "2020-09-10T00:52:49.179949",
             "status": "INACTIVE"
         },
         "www.apps.cointraffic.io": {
-            "included_at_epoch": 1597192573.479828,
-            "included_at_iso": "2020-08-12T00:36:13.479828",
-            "last_retested_at_epoch": 1598489106.024509,
-            "last_retested_at_iso": "2020-08-27T00:45:06.024509",
+            "included_at_epoch": 1599699169.195062,
+            "included_at_iso": "2020-09-10T00:52:49.195062",
+            "last_retested_at_epoch": 1599699169.195062,
+            "last_retested_at_iso": "2020-09-10T00:52:49.195062",
             "status": "INACTIVE"
         },
         "www.apps2.cointraffic.io": {
-            "included_at_epoch": 1597192573.487511,
-            "included_at_iso": "2020-08-12T00:36:13.487511",
-            "last_retested_at_epoch": 1598489106.032496,
-            "last_retested_at_iso": "2020-08-27T00:45:06.032496",
+            "included_at_epoch": 1599699169.187468,
+            "included_at_iso": "2020-09-10T00:52:49.187468",
+            "last_retested_at_epoch": 1599699169.187468,
+            "last_retested_at_iso": "2020-09-10T00:52:49.187468",
             "status": "INACTIVE"
         },
         "www.artus-mining.de": {
@@ -2985,94 +2985,94 @@
             "status": "INACTIVE"
         },
         "www.bch-bitcore2.trezor.io": {
-            "included_at_epoch": 1597192573.513232,
-            "included_at_iso": "2020-08-12T00:36:13.513232",
-            "last_retested_at_epoch": 1598489106.05006,
-            "last_retested_at_iso": "2020-08-27T00:45:06.050060",
+            "included_at_epoch": 1599699169.204389,
+            "included_at_iso": "2020-09-10T00:52:49.204389",
+            "last_retested_at_epoch": 1599699169.204389,
+            "last_retested_at_iso": "2020-09-10T00:52:49.204389",
             "status": "INACTIVE"
         },
         "www.beta-wallet.trezor.io": {
-            "included_at_epoch": 1597192573.505233,
-            "included_at_iso": "2020-08-12T00:36:13.505233",
-            "last_retested_at_epoch": 1598489106.058007,
-            "last_retested_at_iso": "2020-08-27T00:45:06.058007",
+            "included_at_epoch": 1599699169.211899,
+            "included_at_iso": "2020-09-10T00:52:49.211899",
+            "last_retested_at_epoch": 1599699169.211899,
+            "last_retested_at_iso": "2020-09-10T00:52:49.211899",
             "status": "INACTIVE"
         },
         "www.bitcoin-doubler.us": {
-            "included_at_epoch": 1597192573.526497,
-            "included_at_iso": "2020-08-12T00:36:13.526497",
-            "last_retested_at_epoch": 1598489106.071199,
-            "last_retested_at_iso": "2020-08-27T00:45:06.071199",
+            "included_at_epoch": 1599699169.22312,
+            "included_at_iso": "2020-09-10T00:52:49.223120",
+            "last_retested_at_epoch": 1599699169.22312,
+            "last_retested_at_iso": "2020-09-10T00:52:49.223120",
             "status": "INACTIVE"
         },
         "www.bitcore1.trezor.io": {
-            "included_at_epoch": 1597192573.534298,
-            "included_at_iso": "2020-08-12T00:36:13.534298",
-            "last_retested_at_epoch": 1598489106.079396,
-            "last_retested_at_iso": "2020-08-27T00:45:06.079396",
+            "included_at_epoch": 1599699169.230478,
+            "included_at_iso": "2020-09-10T00:52:49.230478",
+            "last_retested_at_epoch": 1599699169.230478,
+            "last_retested_at_iso": "2020-09-10T00:52:49.230478",
             "status": "INACTIVE"
         },
         "www.bitcore3.trezor.io": {
-            "included_at_epoch": 1597192573.542383,
-            "included_at_iso": "2020-08-12T00:36:13.542383",
-            "last_retested_at_epoch": 1598489106.087662,
-            "last_retested_at_iso": "2020-08-27T00:45:06.087662",
+            "included_at_epoch": 1599699169.239495,
+            "included_at_iso": "2020-09-10T00:52:49.239495",
+            "last_retested_at_epoch": 1599699169.239495,
+            "last_retested_at_iso": "2020-09-10T00:52:49.239495",
             "status": "INACTIVE"
         },
         "www.blog.coinbase.com": {
-            "included_at_epoch": 1597192573.561046,
-            "included_at_iso": "2020-08-12T00:36:13.561046",
-            "last_retested_at_epoch": 1598489106.104956,
-            "last_retested_at_iso": "2020-08-27T00:45:06.104956",
+            "included_at_epoch": 1599699169.253739,
+            "included_at_iso": "2020-09-10T00:52:49.253739",
+            "last_retested_at_epoch": 1599699169.253739,
+            "last_retested_at_iso": "2020-09-10T00:52:49.253739",
             "status": "INACTIVE"
         },
         "www.btc-bitcore1.trezor.io": {
-            "included_at_epoch": 1597192573.578966,
-            "included_at_iso": "2020-08-12T00:36:13.578966",
-            "last_retested_at_epoch": 1598489106.11478,
-            "last_retested_at_iso": "2020-08-27T00:45:06.114780",
+            "included_at_epoch": 1599699169.262825,
+            "included_at_iso": "2020-09-10T00:52:49.262825",
+            "last_retested_at_epoch": 1599699169.262825,
+            "last_retested_at_iso": "2020-09-10T00:52:49.262825",
             "status": "INACTIVE"
         },
         "www.btc-bitcore3.trezor.io": {
-            "included_at_epoch": 1597192573.570846,
-            "included_at_iso": "2020-08-12T00:36:13.570846",
-            "last_retested_at_epoch": 1598489106.122893,
-            "last_retested_at_iso": "2020-08-27T00:45:06.122893",
+            "included_at_epoch": 1599699169.271513,
+            "included_at_iso": "2020-09-10T00:52:49.271513",
+            "last_retested_at_epoch": 1599699169.271513,
+            "last_retested_at_iso": "2020-09-10T00:52:49.271513",
             "status": "INACTIVE"
         },
         "www.cloud.cryptoguiminer.com": {
-            "included_at_epoch": 1597192573.597164,
-            "included_at_iso": "2020-08-12T00:36:13.597164",
-            "last_retested_at_epoch": 1598489106.140481,
-            "last_retested_at_iso": "2020-08-27T00:45:06.140481",
+            "included_at_epoch": 1599699169.289115,
+            "included_at_iso": "2020-09-10T00:52:49.289115",
+            "last_retested_at_epoch": 1599699169.289115,
+            "last_retested_at_iso": "2020-09-10T00:52:49.289115",
             "status": "INACTIVE"
         },
         "www.connect.trezor.io": {
-            "included_at_epoch": 1597192573.621686,
-            "included_at_iso": "2020-08-12T00:36:13.621686",
-            "last_retested_at_epoch": 1598489106.16203,
-            "last_retested_at_iso": "2020-08-27T00:45:06.162030",
+            "included_at_epoch": 1599699169.312148,
+            "included_at_iso": "2020-09-10T00:52:49.312148",
+            "last_retested_at_epoch": 1599699169.312148,
+            "last_retested_at_iso": "2020-09-10T00:52:49.312148",
             "status": "INACTIVE"
         },
         "www.dash-bitcore1.trezor.io": {
-            "included_at_epoch": 1597192573.639937,
-            "included_at_iso": "2020-08-12T00:36:13.639937",
-            "last_retested_at_epoch": 1598489106.177991,
-            "last_retested_at_iso": "2020-08-27T00:45:06.177991",
+            "included_at_epoch": 1599699169.327427,
+            "included_at_iso": "2020-09-10T00:52:49.327427",
+            "last_retested_at_epoch": 1599699169.327427,
+            "last_retested_at_iso": "2020-09-10T00:52:49.327427",
             "status": "INACTIVE"
         },
         "www.docs.custody.coinbase.com": {
-            "included_at_epoch": 1597192573.651523,
-            "included_at_iso": "2020-08-12T00:36:13.651523",
-            "last_retested_at_epoch": 1598489106.187494,
-            "last_retested_at_iso": "2020-08-27T00:45:06.187494",
+            "included_at_epoch": 1599699169.335164,
+            "included_at_iso": "2020-09-10T00:52:49.335164",
+            "last_retested_at_epoch": 1599699169.335164,
+            "last_retested_at_iso": "2020-09-10T00:52:49.335164",
             "status": "INACTIVE"
         },
         "www.engineering.coinbase.com": {
-            "included_at_epoch": 1597192573.666152,
-            "included_at_iso": "2020-08-12T00:36:13.666152",
-            "last_retested_at_epoch": 1598489106.203434,
-            "last_retested_at_iso": "2020-08-27T00:45:06.203434",
+            "included_at_epoch": 1599699169.350598,
+            "included_at_iso": "2020-09-10T00:52:49.350598",
+            "last_retested_at_epoch": 1599699169.350598,
+            "last_retested_at_iso": "2020-09-10T00:52:49.350598",
             "status": "INACTIVE"
         },
         "www.event.rockwall.investments": {
@@ -3083,31 +3083,31 @@
             "status": "INACTIVE"
         },
         "www.files.cointraffic.io": {
-            "included_at_epoch": 1597192573.68891,
-            "included_at_iso": "2020-08-12T00:36:13.688910",
-            "last_retested_at_epoch": 1598489106.225643,
-            "last_retested_at_iso": "2020-08-27T00:45:06.225643",
+            "included_at_epoch": 1599699169.367473,
+            "included_at_iso": "2020-09-10T00:52:49.367473",
+            "last_retested_at_epoch": 1599699169.367473,
+            "last_retested_at_iso": "2020-09-10T00:52:49.367473",
             "status": "INACTIVE"
         },
         "www.getbitcoin.nz": {
-            "included_at_epoch": 1597192573.702766,
-            "included_at_iso": "2020-08-12T00:36:13.702766",
-            "last_retested_at_epoch": 1598489106.24069,
-            "last_retested_at_iso": "2020-08-27T00:45:06.240690",
+            "included_at_epoch": 1599699169.381555,
+            "included_at_iso": "2020-09-10T00:52:49.381555",
+            "last_retested_at_epoch": 1599699169.381555,
+            "last_retested_at_iso": "2020-09-10T00:52:49.381555",
             "status": "INACTIVE"
         },
         "www.gitlab.bitpay.com": {
-            "included_at_epoch": 1597192573.710618,
-            "included_at_iso": "2020-08-12T00:36:13.710618",
-            "last_retested_at_epoch": 1598489106.248891,
-            "last_retested_at_iso": "2020-08-27T00:45:06.248891",
+            "included_at_epoch": 1599699169.389475,
+            "included_at_iso": "2020-09-10T00:52:49.389475",
+            "last_retested_at_epoch": 1599699169.389475,
+            "last_retested_at_iso": "2020-09-10T00:52:49.389475",
             "status": "INACTIVE"
         },
         "www.go.coinmama.com": {
-            "included_at_epoch": 1597192573.720032,
-            "included_at_iso": "2020-08-12T00:36:13.720032",
-            "last_retested_at_epoch": 1598489106.258712,
-            "last_retested_at_iso": "2020-08-27T00:45:06.258712",
+            "included_at_epoch": 1599699169.398931,
+            "included_at_iso": "2020-09-10T00:52:49.398931",
+            "last_retested_at_epoch": 1599699169.398931,
+            "last_retested_at_iso": "2020-09-10T00:52:49.398931",
             "status": "INACTIVE"
         },
         "www.hashcoins.ee": {
@@ -3118,17 +3118,17 @@
             "status": "INACTIVE"
         },
         "www.ico.icerockmining.io": {
-            "included_at_epoch": 1597192573.745264,
-            "included_at_iso": "2020-08-12T00:36:13.745264",
-            "last_retested_at_epoch": 1598489106.285287,
-            "last_retested_at_iso": "2020-08-27T00:45:06.285287",
+            "included_at_epoch": 1599699169.415816,
+            "included_at_iso": "2020-09-10T00:52:49.415816",
+            "last_retested_at_epoch": 1599699169.415816,
+            "last_retested_at_iso": "2020-09-10T00:52:49.415816",
             "status": "INACTIVE"
         },
         "www.imperiumminer.com": {
-            "included_at_epoch": 1597192573.752925,
-            "included_at_iso": "2020-08-12T00:36:13.752925",
-            "last_retested_at_epoch": 1598489106.293312,
-            "last_retested_at_iso": "2020-08-27T00:45:06.293312",
+            "included_at_epoch": 1599699169.423626,
+            "included_at_iso": "2020-09-10T00:52:49.423626",
+            "last_retested_at_epoch": 1599699169.423626,
+            "last_retested_at_iso": "2020-09-10T00:52:49.423626",
             "status": "INACTIVE"
         },
         "www.jwallet.network": {
@@ -3139,24 +3139,24 @@
             "status": "INACTIVE"
         },
         "www.ltc-bitcore3.trezor.io": {
-            "included_at_epoch": 1597192573.789493,
-            "included_at_iso": "2020-08-12T00:36:13.789493",
-            "last_retested_at_epoch": 1598489106.324935,
-            "last_retested_at_iso": "2020-08-27T00:45:06.324935",
+            "included_at_epoch": 1599699169.444359,
+            "included_at_iso": "2020-09-10T00:52:49.444359",
+            "last_retested_at_epoch": 1599699169.444359,
+            "last_retested_at_iso": "2020-09-10T00:52:49.444359",
             "status": "INACTIVE"
         },
         "www.ltc.cryptopia.co.nz": {
-            "included_at_epoch": 1597192573.781712,
-            "included_at_iso": "2020-08-12T00:36:13.781712",
-            "last_retested_at_epoch": 1598489106.332959,
-            "last_retested_at_iso": "2020-08-27T00:45:06.332959",
+            "included_at_epoch": 1599699169.452116,
+            "included_at_iso": "2020-09-10T00:52:49.452116",
+            "last_retested_at_epoch": 1599699169.452116,
+            "last_retested_at_iso": "2020-09-10T00:52:49.452116",
             "status": "INACTIVE"
         },
         "www.masternodes4everyone.com": {
-            "included_at_epoch": 1597192573.801802,
-            "included_at_iso": "2020-08-12T00:36:13.801802",
-            "last_retested_at_epoch": 1598489106.345745,
-            "last_retested_at_iso": "2020-08-27T00:45:06.345745",
+            "included_at_epoch": 1599699169.465251,
+            "included_at_iso": "2020-09-10T00:52:49.465251",
+            "last_retested_at_epoch": 1599699169.465251,
+            "last_retested_at_iso": "2020-09-10T00:52:49.465251",
             "status": "INACTIVE"
         },
         "www.minerboard.com": {
@@ -3167,17 +3167,17 @@
             "status": "INACTIVE"
         },
         "www.miningfarmasics.com": {
-            "included_at_epoch": 1597192573.824081,
-            "included_at_iso": "2020-08-12T00:36:13.824081",
-            "last_retested_at_epoch": 1598489106.366736,
-            "last_retested_at_iso": "2020-08-27T00:45:06.366736",
+            "included_at_epoch": 1599699169.478332,
+            "included_at_iso": "2020-09-10T00:52:49.478332",
+            "last_retested_at_epoch": 1599699169.478332,
+            "last_retested_at_iso": "2020-09-10T00:52:49.478332",
             "status": "INACTIVE"
         },
         "www.old-wallet.trezor.io": {
-            "included_at_epoch": 1597192573.838297,
-            "included_at_iso": "2020-08-12T00:36:13.838297",
-            "last_retested_at_epoch": 1598489106.382953,
-            "last_retested_at_iso": "2020-08-27T00:45:06.382953",
+            "included_at_epoch": 1599699169.494846,
+            "included_at_iso": "2020-09-10T00:52:49.494846",
+            "last_retested_at_epoch": 1599699169.494846,
+            "last_retested_at_iso": "2020-09-10T00:52:49.494846",
             "status": "INACTIVE"
         },
         "www.oracolxor.io": {
@@ -3188,10 +3188,10 @@
             "status": "INACTIVE"
         },
         "www.overflow.mycrypto.com": {
-            "included_at_epoch": 1597192573.85594,
-            "included_at_iso": "2020-08-12T00:36:13.855940",
-            "last_retested_at_epoch": 1598489106.399234,
-            "last_retested_at_iso": "2020-08-27T00:45:06.399234",
+            "included_at_epoch": 1599699169.504517,
+            "included_at_iso": "2020-09-10T00:52:49.504517",
+            "last_retested_at_epoch": 1599699169.504517,
+            "last_retested_at_iso": "2020-09-10T00:52:49.504517",
             "status": "INACTIVE"
         },
         "www.parthk.co.uk": {
@@ -3202,17 +3202,17 @@
             "status": "INACTIVE"
         },
         "www.pay.bithumb.com": {
-            "included_at_epoch": 1597192573.867266,
-            "included_at_iso": "2020-08-12T00:36:13.867266",
-            "last_retested_at_epoch": 1598489106.412718,
-            "last_retested_at_iso": "2020-08-27T00:45:06.412718",
+            "included_at_epoch": 1599699169.514237,
+            "included_at_iso": "2020-09-10T00:52:49.514237",
+            "last_retested_at_epoch": 1599699169.514237,
+            "last_retested_at_iso": "2020-09-10T00:52:49.514237",
             "status": "INACTIVE"
         },
         "www.preorder.trezor.io": {
-            "included_at_epoch": 1597192573.876918,
-            "included_at_iso": "2020-08-12T00:36:13.876918",
-            "last_retested_at_epoch": 1598489106.422398,
-            "last_retested_at_iso": "2020-08-27T00:45:06.422398",
+            "included_at_epoch": 1599699169.52391,
+            "included_at_iso": "2020-09-10T00:52:49.523910",
+            "last_retested_at_epoch": 1599699169.52391,
+            "last_retested_at_iso": "2020-09-10T00:52:49.523910",
             "status": "INACTIVE"
         },
         "www.psychomining.de": {
@@ -3223,10 +3223,10 @@
             "status": "INACTIVE"
         },
         "www.rm.cointraffic.io": {
-            "included_at_epoch": 1597192573.907375,
-            "included_at_iso": "2020-08-12T00:36:13.907375",
-            "last_retested_at_epoch": 1598489106.454545,
-            "last_retested_at_iso": "2020-08-27T00:45:06.454545",
+            "included_at_epoch": 1599699169.538959,
+            "included_at_iso": "2020-09-10T00:52:49.538959",
+            "last_retested_at_epoch": 1599699169.538959,
+            "last_retested_at_iso": "2020-09-10T00:52:49.538959",
             "status": "INACTIVE"
         },
         "www.rockwall.investments": {
@@ -3237,80 +3237,80 @@
             "status": "INACTIVE"
         },
         "www.rpc.myetherwallet.com": {
-            "included_at_epoch": 1597192573.916919,
-            "included_at_iso": "2020-08-12T00:36:13.916919",
-            "last_retested_at_epoch": 1598489106.462989,
-            "last_retested_at_iso": "2020-08-27T00:45:06.462989",
+            "included_at_epoch": 1599699169.546999,
+            "included_at_iso": "2020-09-10T00:52:49.546999",
+            "last_retested_at_epoch": 1599699169.546999,
+            "last_retested_at_iso": "2020-09-10T00:52:49.546999",
             "status": "INACTIVE"
         },
         "www.shop.simplemining.net": {
-            "included_at_epoch": 1597192573.929715,
-            "included_at_iso": "2020-08-12T00:36:13.929715",
-            "last_retested_at_epoch": 1598489106.478157,
-            "last_retested_at_iso": "2020-08-27T00:45:06.478157",
+            "included_at_epoch": 1599699169.56029,
+            "included_at_iso": "2020-09-10T00:52:49.560290",
+            "last_retested_at_epoch": 1599699169.56029,
+            "last_retested_at_iso": "2020-09-10T00:52:49.560290",
             "status": "INACTIVE"
         },
         "www.shop.trezor.io": {
-            "included_at_epoch": 1597192573.937667,
-            "included_at_iso": "2020-08-12T00:36:13.937667",
-            "last_retested_at_epoch": 1598489106.486361,
-            "last_retested_at_iso": "2020-08-27T00:45:06.486361",
+            "included_at_epoch": 1599699169.570298,
+            "included_at_iso": "2020-09-10T00:52:49.570298",
+            "last_retested_at_epoch": 1599699169.570298,
+            "last_retested_at_iso": "2020-09-10T00:52:49.570298",
             "status": "INACTIVE"
         },
         "www.status.trezor.io": {
-            "included_at_epoch": 1597192573.947188,
-            "included_at_iso": "2020-08-12T00:36:13.947188",
-            "last_retested_at_epoch": 1598489106.496437,
-            "last_retested_at_iso": "2020-08-27T00:45:06.496437",
+            "included_at_epoch": 1599699169.580094,
+            "included_at_iso": "2020-09-10T00:52:49.580094",
+            "last_retested_at_epoch": 1599699169.580094,
+            "last_retested_at_iso": "2020-09-10T00:52:49.580094",
             "status": "INACTIVE"
         },
         "www.support.bitpay.com": {
-            "included_at_epoch": 1597192573.959824,
-            "included_at_iso": "2020-08-12T00:36:13.959824",
-            "last_retested_at_epoch": 1598489106.509974,
-            "last_retested_at_iso": "2020-08-27T00:45:06.509974",
+            "included_at_epoch": 1599699169.593238,
+            "included_at_iso": "2020-09-10T00:52:49.593238",
+            "last_retested_at_epoch": 1599699169.593238,
+            "last_retested_at_iso": "2020-09-10T00:52:49.593238",
             "status": "INACTIVE"
         },
         "www.test.bitpay.com": {
-            "included_at_epoch": 1597192573.969436,
-            "included_at_iso": "2020-08-12T00:36:13.969436",
-            "last_retested_at_epoch": 1598489106.51994,
-            "last_retested_at_iso": "2020-08-27T00:45:06.519940",
+            "included_at_epoch": 1599699169.603041,
+            "included_at_iso": "2020-09-10T00:52:49.603041",
+            "last_retested_at_epoch": 1599699169.603041,
+            "last_retested_at_iso": "2020-09-10T00:52:49.603041",
             "status": "INACTIVE"
         },
         "www.tradewin.online": {
-            "included_at_epoch": 1597192573.977313,
-            "included_at_iso": "2020-08-12T00:36:13.977313",
-            "last_retested_at_epoch": 1598489106.528148,
-            "last_retested_at_iso": "2020-08-27T00:45:06.528148",
+            "included_at_epoch": 1599699169.611011,
+            "included_at_iso": "2020-09-10T00:52:49.611011",
+            "last_retested_at_epoch": 1599699169.611011,
+            "last_retested_at_iso": "2020-09-10T00:52:49.611011",
             "status": "INACTIVE"
         },
         "www.wallet.trezor.io": {
-            "included_at_epoch": 1597192573.99332,
-            "included_at_iso": "2020-08-12T00:36:13.993320",
-            "last_retested_at_epoch": 1598489106.543489,
-            "last_retested_at_iso": "2020-08-27T00:45:06.543489",
+            "included_at_epoch": 1599699169.626311,
+            "included_at_iso": "2020-09-10T00:52:49.626311",
+            "last_retested_at_epoch": 1599699169.626311,
+            "last_retested_at_iso": "2020-09-10T00:52:49.626311",
             "status": "INACTIVE"
         },
         "www.wiki.trezor.io": {
-            "included_at_epoch": 1597192574.003804,
-            "included_at_iso": "2020-08-12T00:36:14.003804",
-            "last_retested_at_epoch": 1598489106.553094,
-            "last_retested_at_iso": "2020-08-27T00:45:06.553094",
+            "included_at_epoch": 1599699169.636081,
+            "included_at_iso": "2020-09-10T00:52:49.636081",
+            "last_retested_at_epoch": 1599699169.636081,
+            "last_retested_at_iso": "2020-09-10T00:52:49.636081",
             "status": "INACTIVE"
         },
         "www.zec-bitcore1.trezor.io": {
-            "included_at_epoch": 1597192574.013973,
-            "included_at_iso": "2020-08-12T00:36:14.013973",
-            "last_retested_at_epoch": 1598489106.563059,
-            "last_retested_at_iso": "2020-08-27T00:45:06.563059",
+            "included_at_epoch": 1599699169.654018,
+            "included_at_iso": "2020-09-10T00:52:49.654018",
+            "last_retested_at_epoch": 1599699169.654018,
+            "last_retested_at_iso": "2020-09-10T00:52:49.654018",
             "status": "INACTIVE"
         },
         "www1.a-ads.com": {
-            "included_at_epoch": 1597192574.021871,
-            "included_at_iso": "2020-08-12T00:36:14.021871",
-            "last_retested_at_epoch": 1598489106.571364,
-            "last_retested_at_iso": "2020-08-27T00:45:06.571364",
+            "included_at_epoch": 1599699169.645996,
+            "included_at_iso": "2020-09-10T00:52:49.645996",
+            "last_retested_at_epoch": 1599699169.645996,
+            "last_retested_at_iso": "2020-09-10T00:52:49.645996",
             "status": "INACTIVE"
         },
         "www2.coinbase.com": {
@@ -3321,24 +3321,24 @@
             "status": "INACTIVE"
         },
         "www3.a-ads.com": {
-            "included_at_epoch": 1597192574.048386,
-            "included_at_iso": "2020-08-12T00:36:14.048386",
-            "last_retested_at_epoch": 1598489106.598835,
-            "last_retested_at_iso": "2020-08-27T00:45:06.598835",
+            "included_at_epoch": 1599699169.67195,
+            "included_at_iso": "2020-09-10T00:52:49.671950",
+            "last_retested_at_epoch": 1599699169.67195,
+            "last_retested_at_iso": "2020-09-10T00:52:49.671950",
             "status": "INACTIVE"
         },
         "wwww.coinbase.com": {
-            "included_at_epoch": 1597192574.040366,
-            "included_at_iso": "2020-08-12T00:36:14.040366",
-            "last_retested_at_epoch": 1598489106.590524,
-            "last_retested_at_iso": "2020-08-27T00:45:06.590524",
+            "included_at_epoch": 1599699169.663895,
+            "included_at_iso": "2020-09-10T00:52:49.663895",
+            "last_retested_at_epoch": 1599699169.663895,
+            "last_retested_at_iso": "2020-09-10T00:52:49.663895",
             "status": "INACTIVE"
         },
         "zec-bitcore1.trezor.io": {
-            "included_at_epoch": 1597192574.057094,
-            "included_at_iso": "2020-08-12T00:36:14.057094",
-            "last_retested_at_epoch": 1598489106.607147,
-            "last_retested_at_iso": "2020-08-27T00:45:06.607147",
+            "included_at_epoch": 1599699169.68001,
+            "included_at_iso": "2020-09-10T00:52:49.680010",
+            "last_retested_at_epoch": 1599699169.68001,
+            "last_retested_at_iso": "2020-09-10T00:52:49.680010",
             "status": "INACTIVE"
         }
     }
