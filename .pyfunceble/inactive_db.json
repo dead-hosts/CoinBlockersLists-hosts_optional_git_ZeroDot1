@@ -3314,10 +3314,10 @@
             "status": "INACTIVE"
         },
         "www2.coinbase.com": {
-            "included_at_epoch": 1597451834.587735,
-            "included_at_iso": "2020-08-15T00:37:14.587735",
-            "last_retested_at_epoch": 1598489106.579663,
-            "last_retested_at_iso": "2020-08-27T00:45:06.579663",
+            "included_at_epoch": 1599871956.439041,
+            "included_at_iso": "2020-09-12T00:52:36.439041",
+            "last_retested_at_epoch": 1599871956.439041,
+            "last_retested_at_iso": "2020-09-12T00:52:36.439041",
             "status": "INACTIVE"
         },
         "www3.a-ads.com": {
