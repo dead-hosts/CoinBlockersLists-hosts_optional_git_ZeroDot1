@@ -414,7 +414,8 @@
     "quadrigacx.com": {
         "epoch": 1600300800.0,
         "expiration_date": "17-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "rbminer.net": {
         "epoch": 1601337600.0,
