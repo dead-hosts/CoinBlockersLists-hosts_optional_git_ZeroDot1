@@ -2257,10 +2257,10 @@
             "status": "INACTIVE"
         },
         "index-am.coinbase.com": {
-            "included_at_epoch": 1598316297.515372,
-            "included_at_iso": "2020-08-25T00:44:57.515372",
-            "last_retested_at_epoch": 1598489104.855684,
-            "last_retested_at_iso": "2020-08-27T00:45:04.855684",
+            "included_at_epoch": 1600736149.225684,
+            "included_at_iso": "2020-09-22T00:55:49.225684",
+            "last_retested_at_epoch": 1600736149.225684,
+            "last_retested_at_iso": "2020-09-22T00:55:49.225684",
             "status": "INACTIVE"
         },
         "infra2.bithumb.com": {
@@ -2670,10 +2670,10 @@
             "status": "INACTIVE"
         },
         "psychomining.de": {
-            "included_at_epoch": 1598316298.123563,
-            "included_at_iso": "2020-08-25T00:44:58.123563",
-            "last_retested_at_epoch": 1598489105.45216,
-            "last_retested_at_iso": "2020-08-27T00:45:05.452160",
+            "included_at_epoch": 1600736149.346831,
+            "included_at_iso": "2020-09-22T00:55:49.346831",
+            "last_retested_at_epoch": 1600736149.346831,
+            "last_retested_at_iso": "2020-09-22T00:55:49.346831",
             "status": "INACTIVE"
         },
         "public.sandbox.exchange.coinbase.com": {
@@ -3216,10 +3216,10 @@
             "status": "INACTIVE"
         },
         "www.psychomining.de": {
-            "included_at_epoch": 1598316299.091595,
-            "included_at_iso": "2020-08-25T00:44:59.091595",
-            "last_retested_at_epoch": 1598489106.430765,
-            "last_retested_at_iso": "2020-08-27T00:45:06.430765",
+            "included_at_epoch": 1600736149.613427,
+            "included_at_iso": "2020-09-22T00:55:49.613427",
+            "last_retested_at_epoch": 1600736149.613427,
+            "last_retested_at_iso": "2020-09-22T00:55:49.613427",
             "status": "INACTIVE"
         },
         "www.rm.cointraffic.io": {
