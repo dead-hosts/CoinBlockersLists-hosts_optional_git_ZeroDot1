@@ -4259,11 +4259,11 @@
             "status": "INACTIVE"
         },
         "mta83.a.hashgains.com": {
-            "included_at_epoch": 1599180505.655626,
-            "included_at_iso": "2020-09-04T00:48:25.655626",
-            "last_retested_at_epoch": 1599180505.655626,
-            "last_retested_at_iso": "2020-09-04T00:48:25.655626",
-            "status": "INACTIVE"
+            "included_at_epoch": 1601600206.710183,
+            "included_at_iso": "2020-10-02T00:56:46.710183",
+            "last_retested_at_epoch": 1601600206.710183,
+            "last_retested_at_iso": "2020-10-02T00:56:46.710183",
+            "status": "ACTIVE"
         },
         "mta84.a.hashgains.com": {
             "included_at_epoch": 1601081887.072499,
