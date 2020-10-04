@@ -1970,11 +1970,11 @@
             "status": "ACTIVE"
         },
         "app.analytics.coinbase.com": {
-            "included_at_epoch": 1599353718.175326,
-            "included_at_iso": "2020-09-06T00:55:18.175326",
-            "last_retested_at_epoch": 1599353718.175326,
-            "last_retested_at_iso": "2020-09-06T00:55:18.175326",
-            "status": "INACTIVE"
+            "included_at_epoch": 1601773068.161225,
+            "included_at_iso": "2020-10-04T00:57:48.161225",
+            "last_retested_at_epoch": 1601773068.161225,
+            "last_retested_at_iso": "2020-10-04T00:57:48.161225",
+            "status": "ACTIVE"
         },
         "app.bixin.im": {
             "included_at_epoch": 1601081884.924482,
