@@ -6947,10 +6947,10 @@
             "status": "INACTIVE"
         },
         "www2.coinbase.com": {
-            "included_at_epoch": 1599871956.439041,
-            "included_at_iso": "2020-09-12T00:52:36.439041",
-            "last_retested_at_epoch": 1599871956.439041,
-            "last_retested_at_iso": "2020-09-12T00:52:36.439041",
+            "included_at_epoch": 1602291555.264795,
+            "included_at_iso": "2020-10-10T00:59:15.264795",
+            "last_retested_at_epoch": 1602291555.264795,
+            "last_retested_at_iso": "2020-10-10T00:59:15.264795",
             "status": "INACTIVE"
         },
         "www3.a-ads.com": {
