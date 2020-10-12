@@ -1739,10 +1739,10 @@
             "status": "ACTIVE"
         },
         "am.coinbase.com": {
-            "included_at_epoch": 1600044798.580321,
-            "included_at_iso": "2020-09-14T00:53:18.580321",
-            "last_retested_at_epoch": 1600044798.580321,
-            "last_retested_at_iso": "2020-09-14T00:53:18.580321",
+            "included_at_epoch": 1602464408.326629,
+            "included_at_iso": "2020-10-12T01:00:08.326629",
+            "last_retested_at_epoch": 1602464408.326629,
+            "last_retested_at_iso": "2020-10-12T01:00:08.326629",
             "status": "INACTIVE"
         },
         "analytics.coinbase.com": {
@@ -1767,10 +1767,10 @@
             "status": "ACTIVE"
         },
         "api.am.coinbase.com": {
-            "included_at_epoch": 1600044798.592183,
-            "included_at_iso": "2020-09-14T00:53:18.592183",
-            "last_retested_at_epoch": 1600044798.592183,
-            "last_retested_at_iso": "2020-09-14T00:53:18.592183",
+            "included_at_epoch": 1602464408.344931,
+            "included_at_iso": "2020-10-12T01:00:08.344931",
+            "last_retested_at_epoch": 1602464408.344931,
+            "last_retested_at_iso": "2020-10-12T01:00:08.344931",
             "status": "INACTIVE"
         },
         "api.binance.com": {
@@ -3552,10 +3552,10 @@
             "status": "ACTIVE"
         },
         "hashcoins.ee": {
-            "included_at_epoch": 1600044798.817266,
-            "included_at_iso": "2020-09-14T00:53:18.817266",
-            "last_retested_at_epoch": 1600044798.817266,
-            "last_retested_at_iso": "2020-09-14T00:53:18.817266",
+            "included_at_epoch": 1602464408.361179,
+            "included_at_iso": "2020-10-12T01:00:08.361179",
+            "last_retested_at_epoch": 1602464408.361179,
+            "last_retested_at_iso": "2020-10-12T01:00:08.361179",
             "status": "INACTIVE"
         },
         "hashcoins.ru": {
@@ -5785,10 +5785,10 @@
             "status": "ACTIVE"
         },
         "ws.am.coinbase.com": {
-            "included_at_epoch": 1600044799.131443,
-            "included_at_iso": "2020-09-14T00:53:19.131443",
-            "last_retested_at_epoch": 1600044799.131443,
-            "last_retested_at_iso": "2020-09-14T00:53:19.131443",
+            "included_at_epoch": 1602464408.376391,
+            "included_at_iso": "2020-10-12T01:00:08.376391",
+            "last_retested_at_epoch": 1602464408.376391,
+            "last_retested_at_iso": "2020-10-12T01:00:08.376391",
             "status": "INACTIVE"
         },
         "ws.bitfinex.com": {
