@@ -3720,10 +3720,10 @@
             "status": "ACTIVE"
         },
         "index-am.coinbase.com": {
-            "included_at_epoch": 1600736149.225684,
-            "included_at_iso": "2020-09-22T00:55:49.225684",
-            "last_retested_at_epoch": 1602983277.033142,
-            "last_retested_at_iso": "2020-10-18T01:07:57.033142",
+            "included_at_epoch": 1603155852.091945,
+            "included_at_iso": "2020-10-20T01:04:12.091945",
+            "last_retested_at_epoch": 1603155852.091945,
+            "last_retested_at_iso": "2020-10-20T01:04:12.091945",
             "status": "INACTIVE"
         },
         "index.bithumb.com": {
@@ -4756,10 +4756,10 @@
             "status": "ACTIVE"
         },
         "psychomining.de": {
-            "included_at_epoch": 1600736149.346831,
-            "included_at_iso": "2020-09-22T00:55:49.346831",
-            "last_retested_at_epoch": 1602983279.398933,
-            "last_retested_at_iso": "2020-10-18T01:07:59.398933",
+            "included_at_epoch": 1603155852.108076,
+            "included_at_iso": "2020-10-20T01:04:12.108076",
+            "last_retested_at_epoch": 1603155852.108076,
+            "last_retested_at_iso": "2020-10-20T01:04:12.108076",
             "status": "INACTIVE"
         },
         "pubapi.bithumb.com": {
@@ -6709,10 +6709,10 @@
             "status": "INACTIVE"
         },
         "www.psychomining.de": {
-            "included_at_epoch": 1600736149.613427,
-            "included_at_iso": "2020-09-22T00:55:49.613427",
-            "last_retested_at_epoch": 1602983283.792954,
-            "last_retested_at_iso": "2020-10-18T01:08:03.792954",
+            "included_at_epoch": 1603155852.124401,
+            "included_at_iso": "2020-10-20T01:04:12.124401",
+            "last_retested_at_epoch": 1603155852.124401,
+            "last_retested_at_iso": "2020-10-20T01:04:12.124401",
             "status": "INACTIVE"
         },
         "www.quadrigacx.com": {
