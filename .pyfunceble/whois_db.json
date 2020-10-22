@@ -352,8 +352,9 @@
         "state": "future"
     },
     "minerboard.com": {
-        "epoch": 1603152000.0,
-        "expiration_date": "20-oct-2020",
+        "epoch": 1634688000.0,
+        "expiration_date": "20-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "minerstat.com": {
