@@ -2768,10 +2768,10 @@
             "status": "ACTIVE"
         },
         "dc.rockwall.investments": {
-            "included_at_epoch": 1601254526.502216,
-            "included_at_iso": "2020-09-28T00:55:26.502216",
-            "last_retested_at_epoch": 1603329050.442389,
-            "last_retested_at_iso": "2020-10-22T01:10:50.442389",
+            "included_at_epoch": 1603674496.779599,
+            "included_at_iso": "2020-10-26T01:08:16.779599",
+            "last_retested_at_epoch": 1603674496.779599,
+            "last_retested_at_iso": "2020-10-26T01:08:16.779599",
             "status": "ACTIVE"
         },
         "destek.btcturk.com": {
@@ -2831,10 +2831,10 @@
             "status": "ACTIVE"
         },
         "dev.rockwall.investments": {
-            "included_at_epoch": 1601254526.517328,
-            "included_at_iso": "2020-09-28T00:55:26.517328",
-            "last_retested_at_epoch": 1603329050.561703,
-            "last_retested_at_iso": "2020-10-22T01:10:50.561703",
+            "included_at_epoch": 1603674496.795713,
+            "included_at_iso": "2020-10-26T01:08:16.795713",
+            "last_retested_at_epoch": 1603674496.795713,
+            "last_retested_at_iso": "2020-10-26T01:08:16.795713",
             "status": "ACTIVE"
         },
         "dev.simplemining.net": {
@@ -2922,10 +2922,10 @@
             "status": "ACTIVE"
         },
         "dns3.rockwall.investments": {
-            "included_at_epoch": 1601254526.531901,
-            "included_at_iso": "2020-09-28T00:55:26.531901",
-            "last_retested_at_epoch": 1603329050.769943,
-            "last_retested_at_iso": "2020-10-22T01:10:50.769943",
+            "included_at_epoch": 1603674496.810392,
+            "included_at_iso": "2020-10-26T01:08:16.810392",
+            "last_retested_at_epoch": 1603674496.810392,
+            "last_retested_at_iso": "2020-10-26T01:08:16.810392",
             "status": "ACTIVE"
         },
         "docs.bitfinex.com": {
@@ -2985,10 +2985,10 @@
             "status": "ACTIVE"
         },
         "domainkey.rockwall.investments": {
-            "included_at_epoch": 1601254526.54691,
-            "included_at_iso": "2020-09-28T00:55:26.546910",
-            "last_retested_at_epoch": 1603329050.875969,
-            "last_retested_at_iso": "2020-10-22T01:10:50.875969",
+            "included_at_epoch": 1603674496.825548,
+            "included_at_iso": "2020-10-26T01:08:16.825548",
+            "last_retested_at_epoch": 1603674496.825548,
+            "last_retested_at_iso": "2020-10-26T01:08:16.825548",
             "status": "ACTIVE"
         },
         "download.electrum.org": {
@@ -3223,10 +3223,10 @@
             "status": "INACTIVE"
         },
         "event.rockwall.investments": {
-            "included_at_epoch": 1601254526.561952,
-            "included_at_iso": "2020-09-28T00:55:26.561952",
-            "last_retested_at_epoch": 1603329051.41006,
-            "last_retested_at_iso": "2020-10-22T01:10:51.410060",
+            "included_at_epoch": 1603674496.840483,
+            "included_at_iso": "2020-10-26T01:08:16.840483",
+            "last_retested_at_epoch": 1603674496.840483,
+            "last_retested_at_iso": "2020-10-26T01:08:16.840483",
             "status": "ACTIVE"
         },
         "events-service.coinbase.com": {
@@ -3776,10 +3776,10 @@
             "status": "ACTIVE"
         },
         "io.rockwall.investments": {
-            "included_at_epoch": 1601254526.57675,
-            "included_at_iso": "2020-09-28T00:55:26.576750",
-            "last_retested_at_epoch": 1603329052.66311,
-            "last_retested_at_iso": "2020-10-22T01:10:52.663110",
+            "included_at_epoch": 1603674496.855972,
+            "included_at_iso": "2020-10-26T01:08:16.855972",
+            "last_retested_at_epoch": 1603674496.855972,
+            "last_retested_at_iso": "2020-10-26T01:08:16.855972",
             "status": "ACTIVE"
         },
         "iota.bitfinex.com": {
@@ -4147,10 +4147,10 @@
             "status": "INACTIVE"
         },
         "mike.rockwall.investments": {
-            "included_at_epoch": 1601254526.591789,
-            "included_at_iso": "2020-09-28T00:55:26.591789",
-            "last_retested_at_epoch": 1603329053.444115,
-            "last_retested_at_iso": "2020-10-22T01:10:53.444115",
+            "included_at_epoch": 1603674496.871319,
+            "included_at_iso": "2020-10-26T01:08:16.871319",
+            "last_retested_at_epoch": 1603674496.871319,
+            "last_retested_at_iso": "2020-10-26T01:08:16.871319",
             "status": "ACTIVE"
         },
         "minecraft.cryptopia.co.nz": {
@@ -4210,10 +4210,10 @@
             "status": "INACTIVE"
         },
         "minneapolis.rockwall.investments": {
-            "included_at_epoch": 1601254526.606903,
-            "included_at_iso": "2020-09-28T00:55:26.606903",
-            "last_retested_at_epoch": 1603329053.597205,
-            "last_retested_at_iso": "2020-10-22T01:10:53.597205",
+            "included_at_epoch": 1603674496.886455,
+            "included_at_iso": "2020-10-26T01:08:16.886455",
+            "last_retested_at_epoch": 1603674496.886455,
+            "last_retested_at_iso": "2020-10-26T01:08:16.886455",
             "status": "ACTIVE"
         },
         "mm.a-ads.com": {
@@ -4413,10 +4413,10 @@
             "status": "INACTIVE"
         },
         "node.jwallet.network": {
-            "included_at_epoch": 1601254526.622084,
-            "included_at_iso": "2020-09-28T00:55:26.622084",
-            "last_retested_at_epoch": 1603329054.01187,
-            "last_retested_at_iso": "2020-10-22T01:10:54.011870",
+            "included_at_epoch": 1603674496.902249,
+            "included_at_iso": "2020-10-26T01:08:16.902249",
+            "last_retested_at_epoch": 1603674496.902249,
+            "last_retested_at_iso": "2020-10-26T01:08:16.902249",
             "status": "INACTIVE"
         },
         "node.vinchain.io": {
@@ -4959,10 +4959,10 @@
             "status": "INACTIVE"
         },
         "sadmin.rockwall.investments": {
-            "included_at_epoch": 1601254526.637341,
-            "included_at_iso": "2020-09-28T00:55:26.637341",
-            "last_retested_at_epoch": 1603329055.174061,
-            "last_retested_at_iso": "2020-10-22T01:10:55.174061",
+            "included_at_epoch": 1603674496.917883,
+            "included_at_iso": "2020-10-26T01:08:16.917883",
+            "last_retested_at_epoch": 1603674496.917883,
+            "last_retested_at_iso": "2020-10-26T01:08:16.917883",
             "status": "ACTIVE"
         },
         "safelinkconverter.com": {
@@ -5379,10 +5379,10 @@
             "status": "INACTIVE"
         },
         "test.rockwall.investments": {
-            "included_at_epoch": 1601254526.65233,
-            "included_at_iso": "2020-09-28T00:55:26.652330",
-            "last_retested_at_epoch": 1603329056.069561,
-            "last_retested_at_iso": "2020-10-22T01:10:56.069561",
+            "included_at_epoch": 1603674496.932689,
+            "included_at_iso": "2020-10-26T01:08:16.932689",
+            "last_retested_at_epoch": 1603674496.932689,
+            "last_retested_at_iso": "2020-10-26T01:08:16.932689",
             "status": "ACTIVE"
         },
         "test.simplemining.net": {
@@ -6317,10 +6317,10 @@
             "status": "ACTIVE"
         },
         "www.event.rockwall.investments": {
-            "included_at_epoch": 1601254526.667315,
-            "included_at_iso": "2020-09-28T00:55:26.667315",
-            "last_retested_at_epoch": 1603329058.068854,
-            "last_retested_at_iso": "2020-10-22T01:10:58.068854",
+            "included_at_epoch": 1603674496.947744,
+            "included_at_iso": "2020-10-26T01:08:16.947744",
+            "last_retested_at_epoch": 1603674496.947744,
+            "last_retested_at_iso": "2020-10-26T01:08:16.947744",
             "status": "ACTIVE"
         },
         "www.evergreencoin.org": {
@@ -6485,10 +6485,10 @@
             "status": "ACTIVE"
         },
         "www.jwallet.network": {
-            "included_at_epoch": 1601254526.682523,
-            "included_at_iso": "2020-09-28T00:55:26.682523",
-            "last_retested_at_epoch": 1603329058.440574,
-            "last_retested_at_iso": "2020-10-22T01:10:58.440574",
+            "included_at_epoch": 1603674496.963187,
+            "included_at_iso": "2020-10-26T01:08:16.963187",
+            "last_retested_at_epoch": 1603674496.963187,
+            "last_retested_at_iso": "2020-10-26T01:08:16.963187",
             "status": "INACTIVE"
         },
         "www.kr.binance.com": {
@@ -6681,10 +6681,10 @@
             "status": "ACTIVE"
         },
         "www.parthk.co.uk": {
-            "included_at_epoch": 1601254526.697658,
-            "included_at_iso": "2020-09-28T00:55:26.697658",
-            "last_retested_at_epoch": 1603329058.844014,
-            "last_retested_at_iso": "2020-10-22T01:10:58.844014",
+            "included_at_epoch": 1603674496.978342,
+            "included_at_iso": "2020-10-26T01:08:16.978342",
+            "last_retested_at_epoch": 1603674496.978342,
+            "last_retested_at_iso": "2020-10-26T01:08:16.978342",
             "status": "INACTIVE"
         },
         "www.pay.bithumb.com": {
@@ -6751,10 +6751,10 @@
             "status": "INACTIVE"
         },
         "www.rockwall.investments": {
-            "included_at_epoch": 1601254526.712866,
-            "included_at_iso": "2020-09-28T00:55:26.712866",
-            "last_retested_at_epoch": 1603329059.008019,
-            "last_retested_at_iso": "2020-10-22T01:10:59.008019",
+            "included_at_epoch": 1603674496.993992,
+            "included_at_iso": "2020-10-26T01:08:16.993992",
+            "last_retested_at_epoch": 1603674496.993992,
+            "last_retested_at_iso": "2020-10-26T01:08:16.993992",
             "status": "ACTIVE"
         },
         "www.rpc.myetherwallet.com": {
