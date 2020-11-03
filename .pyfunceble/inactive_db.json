@@ -3783,10 +3783,10 @@
             "status": "ACTIVE"
         },
         "iota.bitfinex.com": {
-            "included_at_epoch": 1601945885.98706,
-            "included_at_iso": "2020-10-06T00:58:05.987060",
-            "last_retested_at_epoch": 1603329052.647907,
-            "last_retested_at_iso": "2020-10-22T01:10:52.647907",
+            "included_at_epoch": 1604368047.538429,
+            "included_at_iso": "2020-11-03T01:47:27.538429",
+            "last_retested_at_epoch": 1604368047.538429,
+            "last_retested_at_iso": "2020-11-03T01:47:27.538429",
             "status": "INACTIVE"
         },
         "ja.bithumb.com": {
@@ -4231,10 +4231,10 @@
             "status": "ACTIVE"
         },
         "monero-miner.000webhostapp.com": {
-            "included_at_epoch": 1601945886.008621,
-            "included_at_iso": "2020-10-06T00:58:06.008621",
-            "last_retested_at_epoch": 1603329053.627601,
-            "last_retested_at_iso": "2020-10-22T01:10:53.627601",
+            "included_at_epoch": 1604368047.55944,
+            "included_at_iso": "2020-11-03T01:47:27.559440",
+            "last_retested_at_epoch": 1604368047.55944,
+            "last_retested_at_iso": "2020-11-03T01:47:27.559440",
             "status": "INACTIVE"
         },
         "monitorig.com": {
