@@ -222,8 +222,9 @@
         "state": "future"
     },
     "faucethub.io": {
-        "epoch": 1604620800.0,
-        "expiration_date": "06-nov-2020",
+        "epoch": 1636156800.0,
+        "expiration_date": "06-nov-2021",
+        "server": "whois.nic.io",
         "state": "future"
     },
     "forminerpro.com": {
