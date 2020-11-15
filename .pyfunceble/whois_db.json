@@ -328,8 +328,9 @@
         "state": "future"
     },
     "luckybits.io": {
-        "epoch": 1605312000.0,
-        "expiration_date": "14-nov-2020",
+        "epoch": 1636848000.0,
+        "expiration_date": "14-nov-2021",
+        "server": "whois.nic.io",
         "state": "future"
     },
     "masternode-agent.com": {
