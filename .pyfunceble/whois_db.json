@@ -137,7 +137,8 @@
     "coincube.io": {
         "epoch": 1605916800.0,
         "expiration_date": "21-nov-2020",
-        "state": "future"
+        "server": "whois.nic.io",
+        "state": "past"
     },
     "coinmama.com": {
         "epoch": 1650153600.0,
@@ -372,7 +373,8 @@
     "monitorig.com": {
         "epoch": 1605830400.0,
         "expiration_date": "20-nov-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "multipoolminer.io": {
         "epoch": 1608508800.0,
