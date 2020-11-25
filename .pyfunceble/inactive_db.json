@@ -1431,10 +1431,10 @@
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_optional_git_ZeroDot1/domains.list": {
         "0x.mycrypto.com": {
-            "included_at_epoch": 1603851380.881212,
-            "included_at_iso": "2020-10-28T02:16:20.881212",
-            "last_retested_at_epoch": 1605751152.665768,
-            "last_retested_at_iso": "2020-11-19T01:59:12.665768",
+            "included_at_epoch": 1606272286.05932,
+            "included_at_iso": "2020-11-25T02:44:46.059320",
+            "last_retested_at_epoch": 1606272286.05932,
+            "last_retested_at_iso": "2020-11-25T02:44:46.059320",
             "status": "INACTIVE"
         },
         "1safe.link": {
@@ -6583,10 +6583,10 @@
             "status": "ACTIVE"
         },
         "www.minerboard.com": {
-            "included_at_epoch": 1603851380.89742,
-            "included_at_iso": "2020-10-28T02:16:20.897420",
-            "last_retested_at_epoch": 1605751164.004733,
-            "last_retested_at_iso": "2020-11-19T01:59:24.004733",
+            "included_at_epoch": 1606272286.074337,
+            "included_at_iso": "2020-11-25T02:44:46.074337",
+            "last_retested_at_epoch": 1606272286.074337,
+            "last_retested_at_iso": "2020-11-25T02:44:46.074337",
             "status": "INACTIVE"
         },
         "www.mineshop.eu": {
