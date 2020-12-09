@@ -2019,10 +2019,10 @@
             "status": "INACTIVE"
         },
         "artus-mining.de": {
-            "included_at_epoch": 1605060507.95181,
-            "included_at_iso": "2020-11-11T02:08:27.951810",
-            "last_retested_at_epoch": 1605751153.957361,
-            "last_retested_at_iso": "2020-11-19T01:59:13.957361",
+            "included_at_epoch": 1607480623.95056,
+            "included_at_iso": "2020-12-09T02:23:43.950560",
+            "last_retested_at_epoch": 1607480623.95056,
+            "last_retested_at_iso": "2020-12-09T02:23:43.950560",
             "status": "INACTIVE"
         },
         "assets.coinbase.com": {
@@ -3454,10 +3454,10 @@
             "status": "INACTIVE"
         },
         "ftp.oracolxor.io": {
-            "included_at_epoch": 1605060507.967959,
-            "included_at_iso": "2020-11-11T02:08:27.967959",
-            "last_retested_at_epoch": 1605751157.117826,
-            "last_retested_at_iso": "2020-11-19T01:59:17.117826",
+            "included_at_epoch": 1607480623.966116,
+            "included_at_iso": "2020-12-09T02:23:43.966116",
+            "last_retested_at_epoch": 1607480623.966116,
+            "last_retested_at_iso": "2020-12-09T02:23:43.966116",
             "status": "INACTIVE"
         },
         "ftp.quadrigacx.com": {
@@ -5946,10 +5946,10 @@
             "status": "INACTIVE"
         },
         "www.artus-mining.de": {
-            "included_at_epoch": 1605060507.983083,
-            "included_at_iso": "2020-11-11T02:08:27.983083",
-            "last_retested_at_epoch": 1605751162.621268,
-            "last_retested_at_iso": "2020-11-19T01:59:22.621268",
+            "included_at_epoch": 1607480623.981038,
+            "included_at_iso": "2020-12-09T02:23:43.981038",
+            "last_retested_at_epoch": 1607480623.981038,
+            "last_retested_at_iso": "2020-12-09T02:23:43.981038",
             "status": "INACTIVE"
         },
         "www.awesomeminer.com": {
@@ -6415,10 +6415,10 @@
             "status": "ACTIVE"
         },
         "www.hashcoins.ee": {
-            "included_at_epoch": 1605060507.999309,
-            "included_at_iso": "2020-11-11T02:08:27.999309",
-            "last_retested_at_epoch": 1605751163.63589,
-            "last_retested_at_iso": "2020-11-19T01:59:23.635890",
+            "included_at_epoch": 1607480623.99567,
+            "included_at_iso": "2020-12-09T02:23:43.995670",
+            "last_retested_at_epoch": 1607480623.99567,
+            "last_retested_at_iso": "2020-12-09T02:23:43.995670",
             "status": "INACTIVE"
         },
         "www.hashcoins.ru": {
@@ -6653,10 +6653,10 @@
             "status": "INACTIVE"
         },
         "www.oracolxor.io": {
-            "included_at_epoch": 1605060508.014759,
-            "included_at_iso": "2020-11-11T02:08:28.014759",
-            "last_retested_at_epoch": 1605751164.155571,
-            "last_retested_at_iso": "2020-11-19T01:59:24.155571",
+            "included_at_epoch": 1607480624.010039,
+            "included_at_iso": "2020-12-09T02:23:44.010039",
+            "last_retested_at_epoch": 1607480624.010039,
+            "last_retested_at_iso": "2020-12-09T02:23:44.010039",
             "status": "INACTIVE"
         },
         "www.overflow.mycrypto.com": {
