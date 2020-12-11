@@ -135,10 +135,10 @@
         "state": "future"
     },
     "coincube.io": {
-        "epoch": 1605916800.0,
-        "expiration_date": "21-nov-2020",
+        "epoch": 1637452800.0,
+        "expiration_date": "21-nov-2021",
         "server": "whois.nic.io",
-        "state": "past"
+        "state": "future"
     },
     "coinmama.com": {
         "epoch": 1650153600.0,
@@ -371,10 +371,10 @@
         "state": "future"
     },
     "monitorig.com": {
-        "epoch": 1605830400.0,
-        "expiration_date": "20-nov-2020",
+        "epoch": 1637366400.0,
+        "expiration_date": "20-nov-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "multipoolminer.io": {
         "epoch": 1608508800.0,
