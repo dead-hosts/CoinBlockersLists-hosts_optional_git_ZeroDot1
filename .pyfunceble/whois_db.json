@@ -377,8 +377,9 @@
         "state": "future"
     },
     "multipoolminer.io": {
-        "epoch": 1608508800.0,
-        "expiration_date": "21-dec-2020",
+        "epoch": 1640044800.0,
+        "expiration_date": "21-dec-2021",
+        "server": "whois.nic.io",
         "state": "future"
     },
     "mycrypto.com": {
