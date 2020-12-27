@@ -1970,10 +1970,10 @@
             "status": "ACTIVE"
         },
         "app.analytics.coinbase.com": {
-            "included_at_epoch": 1606613140.891421,
-            "included_at_iso": "2020-11-29T01:25:40.891421",
-            "last_retested_at_epoch": 1608688537.480589,
-            "last_retested_at_iso": "2020-12-23T01:55:37.480589",
+            "included_at_epoch": 1609033292.308616,
+            "included_at_iso": "2020-12-27T01:41:32.308616",
+            "last_retested_at_epoch": 1609033292.308616,
+            "last_retested_at_iso": "2020-12-27T01:41:32.308616",
             "status": "ACTIVE"
         },
         "app.bixin.im": {
@@ -4259,10 +4259,10 @@
             "status": "INACTIVE"
         },
         "mta83.a.hashgains.com": {
-            "included_at_epoch": 1606442885.599641,
-            "included_at_iso": "2020-11-27T02:08:05.599641",
-            "last_retested_at_epoch": 1608688542.288184,
-            "last_retested_at_iso": "2020-12-23T01:55:42.288184",
+            "included_at_epoch": 1609033292.332206,
+            "included_at_iso": "2020-12-27T01:41:32.332206",
+            "last_retested_at_epoch": 1609033292.332206,
+            "last_retested_at_iso": "2020-12-27T01:41:32.332206",
             "status": "ACTIVE"
         },
         "mta84.a.hashgains.com": {
