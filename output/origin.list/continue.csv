@@ -791,10 +791,6 @@ www.upcoin.com,AVAILABILITY,origin.list,/home/runner/work/CoinBlockersLists-host
 www.us.binance.com,AVAILABILITY,origin.list,/home/runner/work/CoinBlockersLists-hosts_optional_git_ZeroDot1/CoinBlockersLists-hosts_optional_git_ZeroDot1/origin.list,2021-01-19 22:06:57.624656,edf4d62c94ae32a06c01b257
 www.vinchain.io,AVAILABILITY,origin.list,/home/runner/work/CoinBlockersLists-hosts_optional_git_ZeroDot1/CoinBlockersLists-hosts_optional_git_ZeroDot1/origin.list,2021-01-19 22:07:02.446903,edf4d62c94ae32a06c01b257
 www.whattomine.com,AVAILABILITY,origin.list,/home/runner/work/CoinBlockersLists-hosts_optional_git_ZeroDot1/CoinBlockersLists-hosts_optional_git_ZeroDot1/origin.list,2021-01-19 22:07:10.387014,edf4d62c94ae32a06c01b257
-zimbra.blocktrail.com,AVAILABILITY,origin.list,origin.list,2001-05-10 15:34:46.207068,edf4d62c94ae32a06c01b257
-zmail.blocktrail.com,AVAILABILITY,origin.list,origin.list,2001-05-10 15:34:46.238937,edf4d62c94ae32a06c01b257
-zoskzond._domainkey.blocktrail.com,AVAILABILITY,origin.list,origin.list,2001-05-10 15:34:46.269669,edf4d62c94ae32a06c01b257
-zrx.tokenview.com,AVAILABILITY,origin.list,origin.list,2001-05-10 15:34:46.300483,edf4d62c94ae32a06c01b257
 0xbtc.blocktrail.com,AVAILABILITY,origin.list,origin.list,2021-05-10 15:49:24.184669,edf4d62c94ae32a06c01b257
 01.blocktrail.com,AVAILABILITY,origin.list,origin.list,2021-05-10 15:49:29.043088,edf4d62c94ae32a06c01b257
 1inch.tokenview.com,AVAILABILITY,origin.list,origin.list,2021-05-10 15:49:33.224509,edf4d62c94ae32a06c01b257
@@ -1579,3 +1575,7 @@ zen.tokenview.com,AVAILABILITY,origin.list,origin.list,2021-05-10 20:53:54.33393
 zeus.blocktrail.com,AVAILABILITY,origin.list,origin.list,2021-05-10 20:53:58.893845,edf4d62c94ae32a06c01b257
 zh-classical.blocktrail.com,AVAILABILITY,origin.list,origin.list,2021-05-10 20:54:03.464845,edf4d62c94ae32a06c01b257
 zil.tokenview.com,AVAILABILITY,origin.list,origin.list,2021-05-10 20:54:07.157116,edf4d62c94ae32a06c01b257
+zimbra.blocktrail.com,AVAILABILITY,origin.list,origin.list,2021-05-10 21:36:05.010302,edf4d62c94ae32a06c01b257
+zmail.blocktrail.com,AVAILABILITY,origin.list,origin.list,2021-05-10 21:36:09.954018,edf4d62c94ae32a06c01b257
+zoskzond._domainkey.blocktrail.com,AVAILABILITY,origin.list,origin.list,2021-05-10 21:36:14.676787,edf4d62c94ae32a06c01b257
+zrx.tokenview.com,AVAILABILITY,origin.list,origin.list,2021-05-10 21:36:19.015589,edf4d62c94ae32a06c01b257
