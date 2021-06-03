@@ -173,7 +173,6 @@
         "framer.app",
         "hasura.app",
         "loginline.app",
-        "multibaas.app",
         "netlify.app",
         "noop.app",
         "northflank.app",
@@ -1222,7 +1221,6 @@
         "meteorapp.com",
         "mex.com",
         "miniserver.com",
-        "multibaas.com",
         "myactivedirectory.com",
         "myasustor.com",
         "mydatto.com",
@@ -2200,6 +2198,7 @@
         "sys.qcx.io",
         "telebit.io",
         "uk0.bigv.io",
+        "upaas.kazteleport.kz",
         "utwente.io",
         "vaporcloud.io",
         "virtualserver.io",
@@ -4659,8 +4658,7 @@
         "mil.kz",
         "net.kz",
         "nym.kz",
-        "org.kz",
-        "upaas.kazteleport.kz"
+        "org.kz"
     ],
     "la": [
         "bnr.la",
@@ -5594,6 +5592,7 @@
         "a.ssl.fastly.net",
         "adobeaemcloud.net",
         "alwaysdata.net",
+        "appudo.net",
         "at-band-camp.net",
         "atl.jelastic.vps-host.net",
         "azure-mobile.net",
@@ -7488,7 +7487,8 @@
         "test.ru",
         "vladikavkaz.ru",
         "vladimir.ru",
-        "vps.mcdir.ru"
+        "vps.mcdir.ru",
+        "vps.myjino.ru"
     ],
     "run": [
         "code.run",
@@ -8467,10 +8467,6 @@
         "mypets.ws",
         "net.ws",
         "org.ws"
-    ],
-    "xn--p1acf": [
-        "vps.myjino.ru",
-        "xn--j1ael8b.xn--p1acf"
     ],
     "xyz": [
         "blogsite.xyz",
