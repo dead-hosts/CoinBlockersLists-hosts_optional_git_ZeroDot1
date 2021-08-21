@@ -1893,7 +1893,8 @@
         "mil.gt",
         "net.gt",
         "org.gt",
-        "to.gt"
+        "to.gt",
+        "xn--80aaa0cvac.xn--p1acf"
     ],
     "gu": [
         "com.gu",
@@ -8403,6 +8404,7 @@
     ],
     "ve": [
         "arts.ve",
+        "bib.ve",
         "co.ve",
         "com.ve",
         "e12.ve",
@@ -8414,7 +8416,9 @@
         "int.ve",
         "mil.ve",
         "net.ve",
+        "nom.ve",
         "org.ve",
+        "rar.ve",
         "rec.ve",
         "store.ve",
         "tec.ve",
@@ -8540,7 +8544,6 @@
     ],
     "рус": [
         "xn--41a.xn--p1acf",
-        "xn--80aaa0cvac.xn--p1acf",
         "xn--90a1af.xn--p1acf",
         "xn--90amc.xn--p1acf",
         "xn--c1avg.xn--p1acf",
@@ -8555,7 +8558,6 @@
         "мир.рус",
         "мск.рус",
         "орг.рус",
-        "самара.рус",
         "сочи.рус",
         "спб.рус",
         "я.рус"
