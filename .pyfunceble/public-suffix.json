@@ -1893,8 +1893,7 @@
         "mil.gt",
         "net.gt",
         "org.gt",
-        "to.gt",
-        "xn--80aaa0cvac.xn--p1acf"
+        "to.gt"
     ],
     "gu": [
         "com.gu",
@@ -8544,6 +8543,7 @@
     ],
     "рус": [
         "xn--41a.xn--p1acf",
+        "xn--80aaa0cvac.xn--p1acf",
         "xn--90a1af.xn--p1acf",
         "xn--90amc.xn--p1acf",
         "xn--c1avg.xn--p1acf",
@@ -8558,6 +8558,7 @@
         "мир.рус",
         "мск.рус",
         "орг.рус",
+        "самара.рус",
         "сочи.рус",
         "спб.рус",
         "я.рус"
