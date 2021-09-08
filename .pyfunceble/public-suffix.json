@@ -293,7 +293,6 @@
         "info.az",
         "int.az",
         "mil.az",
-        "mil.cn",
         "name.az",
         "net.az",
         "org.az",
@@ -7580,7 +7579,6 @@
         "c.se",
         "com.se",
         "conf.se",
-        "d.se",
         "e.se",
         "f.se",
         "fh.se",
@@ -7872,6 +7870,7 @@
     "tm": [
         "co.tm",
         "com.tm",
+        "d.se",
         "edu.tm",
         "gov.tm",
         "mil.tm",
