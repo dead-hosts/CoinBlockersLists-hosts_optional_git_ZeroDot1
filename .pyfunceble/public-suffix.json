@@ -4561,6 +4561,7 @@
         "xn--uisz3g.jp",
         "xn--uuwu58a.jp",
         "xn--vgu402c.jp",
+        "xn--wcvs22d.hk",
         "xn--zbx025d.jp",
         "yabu.hyogo.jp",
         "yabuki.fukushima.jp",
@@ -5767,6 +5768,7 @@
         "nom.nc"
     ],
     "net": [
+        "1.azurestaticapps.net",
         "a.prod.fastly.net",
         "a.ssl.fastly.net",
         "adobeaemcloud.net",
