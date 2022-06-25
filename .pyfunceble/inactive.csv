@@ -1,10 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-api.cryptoguiminer.com,AVAILABILITY,origin.list,2022-06-23 05:33:06.649913
-cloud.cryptoguiminer.com,AVAILABILITY,origin.list,2022-06-23 05:33:07.122876
-cpanel.cryptoguiminer.com,AVAILABILITY,origin.list,2022-06-23 05:33:07.163556
-webdisk.api.cryptoguiminer.com,AVAILABILITY,origin.list,2022-06-23 05:33:07.587025
-www.cloud.cryptoguiminer.com,AVAILABILITY,origin.list,2022-06-23 05:33:07.627156
-webdisk.cryptoguiminer.com,AVAILABILITY,origin.list,2022-06-23 05:33:07.651602
 ltc-bitcore3.trezor.io,AVAILABILITY,origin.list,2022-06-24 05:34:06.005878
 cn.m.bithumb.com,AVAILABILITY,origin.list,2022-06-24 05:34:06.046292
 es.bithumb.com,AVAILABILITY,origin.list,2022-06-24 05:34:06.150102
@@ -556,3 +550,9 @@ development.btcturk.com,AVAILABILITY,origin.list,2022-06-24 05:36:14.071575
 am.coinbase.com,AVAILABILITY,origin.list,2022-06-24 05:36:14.112356
 api.am.coinbase.com,AVAILABILITY,origin.list,2022-06-24 05:36:14.175383
 www.getbitcoin.nz,AVAILABILITY,origin.list,2022-06-24 05:36:15.176900
+api.cryptoguiminer.com,AVAILABILITY,origin.list,2022-06-25 05:35:39.511044
+cloud.cryptoguiminer.com,AVAILABILITY,origin.list,2022-06-25 05:35:39.581912
+cpanel.cryptoguiminer.com,AVAILABILITY,origin.list,2022-06-25 05:35:39.667961
+webdisk.api.cryptoguiminer.com,AVAILABILITY,origin.list,2022-06-25 05:35:40.095015
+www.cloud.cryptoguiminer.com,AVAILABILITY,origin.list,2022-06-25 05:35:40.124423
+webdisk.cryptoguiminer.com,AVAILABILITY,origin.list,2022-06-25 05:35:40.198582
