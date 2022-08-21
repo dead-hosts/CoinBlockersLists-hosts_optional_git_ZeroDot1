@@ -5231,7 +5231,6 @@
         "bill.museum",
         "birdart.museum",
         "birthplace.museum",
-        "biz.ni",
         "bonn.museum",
         "boston.museum",
         "botanical.museum",
@@ -6028,6 +6027,7 @@
     ],
     "ni": [
         "ac.ni",
+        "biz.ni",
         "co.ni",
         "com.ni",
         "edu.ni",
