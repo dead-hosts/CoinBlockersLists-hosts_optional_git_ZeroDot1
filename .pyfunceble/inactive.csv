@@ -1,5 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-return.bithumb.com,AVAILABILITY,origin.list,2022-11-10 05:37:17.907387
 emstrk.bithumb.com,AVAILABILITY,origin.list,2022-11-11 05:41:04.498831
 stats.ethc.io,AVAILABILITY,origin.list,2022-11-11 05:41:06.707315
 ada.tokenview.com,AVAILABILITY,origin.list,2022-11-11 05:41:06.778700
@@ -813,3 +812,4 @@ api1.bithumb.com,AVAILABILITY,origin.list,2022-11-11 05:48:48.432452
 xem.tokenview.com,AVAILABILITY,origin.list,2022-11-11 05:48:49.233147
 www.tokenview.com,AVAILABILITY,origin.list,2022-11-11 05:48:50.452378
 ftp.inwemo.com,AVAILABILITY,origin.list,2022-11-11 05:48:59.046317
+return.bithumb.com,AVAILABILITY,origin.list,2022-11-12 05:35:47.391734
