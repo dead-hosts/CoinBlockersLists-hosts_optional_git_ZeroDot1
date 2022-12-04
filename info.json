@@ -15,7 +15,7 @@
     "own_management": false,
     "ping": [],
     "raw_link": "https://zerodot1.gitlab.io/CoinBlockerLists/hosts_optional",
-    "repo": "CoinBlockersLists-hosts_optional_git_ZeroDot1/CoinBlockersLists-hosts_optional_git_ZeroDot1",
+    "repo": "dead-hosts/CoinBlockersLists-hosts_optional_git_ZeroDot1",
     "start_datetime": "2020-12-27T01:41:16.053212",
     "start_timestamp": 1609033276.053212
 }
