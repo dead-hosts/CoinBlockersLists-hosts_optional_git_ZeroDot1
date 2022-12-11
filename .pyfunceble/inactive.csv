@@ -1,5 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-cloudflare-resolve-to.rbminer.net,AVAILABILITY,origin.list,2022-12-10 05:23:44.790382
 ada.tokenview.com,AVAILABILITY,origin.list,2022-12-10 05:32:06.511186
 emstrk.bithumb.com,AVAILABILITY,origin.list,2022-12-10 05:32:06.544179
 stats.ethc.io,AVAILABILITY,origin.list,2022-12-10 05:32:07.227862
@@ -808,3 +807,4 @@ www.tokenview.com,AVAILABILITY,origin.list,2022-12-10 05:35:07.897652
 return.bithumb.com,AVAILABILITY,origin.list,2022-12-10 05:35:08.949176
 ico.icerockmining.io,AVAILABILITY,origin.list,2022-12-10 05:35:10.014706
 ftp.inwemo.com,AVAILABILITY,origin.list,2022-12-10 05:35:21.455456
+cloudflare-resolve-to.rbminer.net,AVAILABILITY,origin.list,2022-12-11 05:33:41.770751
