@@ -1,10 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-xtz.tokenview.com,AVAILABILITY,origin.list,2023-02-08 05:51:45.320239
-xvg.tokenview.com,AVAILABILITY,origin.list,2023-02-08 05:51:45.830714
-www.tokenview.com,AVAILABILITY,origin.list,2023-02-08 05:51:45.836623
-ftp.miningfarmasics.com,AVAILABILITY,origin.list,2023-02-08 05:51:45.935958
-miningfarmasics.com,AVAILABILITY,origin.list,2023-02-08 05:51:45.963207
-www.miningfarmasics.com,AVAILABILITY,origin.list,2023-02-08 05:51:46.105725
 www.epic-ticker.tech,AVAILABILITY,origin.list,2023-02-09 05:51:46.861990
 www.masternode-agent.com,AVAILABILITY,origin.list,2023-02-09 05:52:20.742285
 www.upgrade-with-paypal-or-visa-and-get-bonuses.10xbitcoin.com,AVAILABILITY,origin.list,2023-02-09 05:52:20.754276
@@ -804,3 +798,9 @@ xrc.tokenview.com,AVAILABILITY,origin.list,2023-02-10 05:42:56.735530
 zen.tokenview.com,AVAILABILITY,origin.list,2023-02-10 05:42:56.766273
 ico.icerockmining.io,AVAILABILITY,origin.list,2023-02-10 05:42:56.800425
 api1.bithumb.com,AVAILABILITY,origin.list,2023-02-10 05:43:03.778541
+xvg.tokenview.com,AVAILABILITY,origin.list,2023-02-10 05:46:28.939596
+xtz.tokenview.com,AVAILABILITY,origin.list,2023-02-10 05:46:29.066031
+miningfarmasics.com,AVAILABILITY,origin.list,2023-02-10 05:46:29.073096
+www.tokenview.com,AVAILABILITY,origin.list,2023-02-10 05:46:29.100402
+ftp.miningfarmasics.com,AVAILABILITY,origin.list,2023-02-10 05:46:29.137495
+www.miningfarmasics.com,AVAILABILITY,origin.list,2023-02-10 05:46:29.501327
