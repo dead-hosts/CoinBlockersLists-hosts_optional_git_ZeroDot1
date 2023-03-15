@@ -1,10 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-api2.jaxx.io,AVAILABILITY,origin.list,2023-03-13 05:24:46.941094
-api.jaxx.io,AVAILABILITY,origin.list,2023-03-13 05:24:51.627600
-certification.bithumb.com,AVAILABILITY,origin.list,2023-03-13 05:25:20.227176
-dev.quadrigacx.com,AVAILABILITY,origin.list,2023-03-13 05:25:48.811371
-download.emercoin.com,AVAILABILITY,origin.list,2023-03-13 05:26:03.725040
-esbc.bithumb.com,AVAILABILITY,origin.list,2023-03-13 05:28:36.917928
 node.jwallet.network,AVAILABILITY,origin.list,2023-03-14 05:33:29.203206
 support.quadrigacx.com,AVAILABILITY,origin.list,2023-03-14 05:33:29.492331
 localhost.quadrigacx.com,AVAILABILITY,origin.list,2023-03-14 05:33:29.579826
@@ -816,3 +810,9 @@ api1.bithumb.com,AVAILABILITY,origin.list,2023-03-14 05:38:21.730266
 zen.tokenview.com,AVAILABILITY,origin.list,2023-03-14 05:38:22.174956
 ftp.miningfarmasics.com,AVAILABILITY,origin.list,2023-03-14 05:38:22.179081
 miningfarmasics.com,AVAILABILITY,origin.list,2023-03-14 05:38:22.555188
+api2.jaxx.io,AVAILABILITY,origin.list,2023-03-15 05:31:55.549402
+api.jaxx.io,AVAILABILITY,origin.list,2023-03-15 05:31:55.557561
+certification.bithumb.com,AVAILABILITY,origin.list,2023-03-15 05:31:55.758577
+dev.quadrigacx.com,AVAILABILITY,origin.list,2023-03-15 05:31:56.071077
+esbc.bithumb.com,AVAILABILITY,origin.list,2023-03-15 05:31:56.103408
+download.emercoin.com,AVAILABILITY,origin.list,2023-03-15 05:31:56.114030
