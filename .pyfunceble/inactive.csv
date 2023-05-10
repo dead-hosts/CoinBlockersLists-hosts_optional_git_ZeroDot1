@@ -1,5 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-www.parthk.co.uk,AVAILABILITY,origin.list,2023-05-08 05:32:17.215461
 www.ltc-bitcore3.trezor.io,AVAILABILITY,origin.list,2023-05-09 05:31:01.804940
 www.bitcoin-doubler.us,AVAILABILITY,origin.list,2023-05-09 05:31:01.914878
 filetransfer.coinbase.com,AVAILABILITY,origin.list,2023-05-09 05:31:01.963876
@@ -816,3 +815,4 @@ www.persian.update.dec17.10xbitcoin.com,AVAILABILITY,origin.list,2023-05-09 05:3
 www.german.update.may25.10xbitcoin.com,AVAILABILITY,origin.list,2023-05-09 05:35:51.872787
 ws.quadrigacx.com,AVAILABILITY,origin.list,2023-05-09 05:35:52.681658
 rt.quadrigacx.com,AVAILABILITY,origin.list,2023-05-09 05:35:52.847093
+www.parthk.co.uk,AVAILABILITY,origin.list,2023-05-10 05:25:04.127506
