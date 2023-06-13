@@ -1,5 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-www.mellowads.com,AVAILABILITY,origin.list,2023-06-11 05:30:15.446745
 www.ltc-bitcore3.trezor.io,AVAILABILITY,origin.list,2023-06-12 05:35:09.587704
 www.blocktrail.com,AVAILABILITY,origin.list,2023-06-12 05:35:10.174036
 hashcoins.ee,AVAILABILITY,origin.list,2023-06-12 05:35:11.495303
@@ -861,3 +860,5 @@ www.us.binance.com,AVAILABILITY,origin.list,2023-06-12 05:43:27.953930
 www.trezor.io,AVAILABILITY,origin.list,2023-06-12 05:43:30.151421
 www.peerhash.com,AVAILABILITY,origin.list,2023-06-12 05:43:33.117505
 www.cur.lv,AVAILABILITY,origin.list,2023-06-12 05:43:38.626448
+www.kr.binance.com,AVAILABILITY,origin.list,2023-06-13 05:26:25.016794
+www.mymonero.com,AVAILABILITY,origin.list,2023-06-13 05:26:33.099178
