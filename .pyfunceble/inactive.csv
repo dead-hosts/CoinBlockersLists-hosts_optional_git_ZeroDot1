@@ -1,8 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-www.pandaminer.co,AVAILABILITY,origin.list,2023-06-15 05:33:50.871866
-www.selfx1.typeform.com,AVAILABILITY,origin.list,2023-06-15 05:33:56.825520
-www.mymonero.com,AVAILABILITY,origin.list,2023-06-15 05:34:05.784062
-www.kr.binance.com,AVAILABILITY,origin.list,2023-06-15 05:34:06.194211
 www.ltc-bitcore3.trezor.io,AVAILABILITY,origin.list,2023-06-16 05:31:33.703493
 zec-bitcore1.trezor.io,AVAILABILITY,origin.list,2023-06-16 05:31:33.797140
 hashcoins.ee,AVAILABILITY,origin.list,2023-06-16 05:31:33.880845
@@ -862,3 +858,7 @@ www.stream2.binance.com,AVAILABILITY,origin.list,2023-06-16 05:36:46.207979
 www.sftp.binance.com,AVAILABILITY,origin.list,2023-06-16 05:36:46.267262
 www.trezor.io,AVAILABILITY,origin.list,2023-06-16 05:36:49.271527
 www.peerhash.com,AVAILABILITY,origin.list,2023-06-16 05:36:50.764030
+www.mymonero.com,AVAILABILITY,origin.list,2023-06-17 05:27:41.202390
+www.selfx1.typeform.com,AVAILABILITY,origin.list,2023-06-17 05:27:41.584292
+www.kr.binance.com,AVAILABILITY,origin.list,2023-06-17 05:27:42.102926
+www.pandaminer.co,AVAILABILITY,origin.list,2023-06-17 05:27:42.865843
