@@ -1,8 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-www.mymonero.com,AVAILABILITY,origin.list,2023-06-27 05:26:41.820081
-www.selfx1.typeform.com,AVAILABILITY,origin.list,2023-06-27 05:26:42.290348
-www.kr.binance.com,AVAILABILITY,origin.list,2023-06-27 05:26:43.190642
-www.pandaminer.co,AVAILABILITY,origin.list,2023-06-27 05:26:44.124867
 www.mellowads.com,AVAILABILITY,origin.list,2023-06-28 05:25:03.730773
 www.btc-bitcore1.trezor.io,AVAILABILITY,origin.list,2023-06-28 05:25:28.306500
 www.ltc-bitcore3.trezor.io,AVAILABILITY,origin.list,2023-06-28 05:25:29.257078
@@ -863,3 +859,7 @@ www.mining-rig.de,AVAILABILITY,origin.list,2023-06-28 05:32:00.364252
 www.chiadecentral.com,AVAILABILITY,origin.list,2023-06-28 05:32:00.366345
 www.peerhash.com,AVAILABILITY,origin.list,2023-06-28 05:32:03.032604
 www.trezor.io,AVAILABILITY,origin.list,2023-06-28 05:32:10.001464
+www.mymonero.com,AVAILABILITY,origin.list,2023-06-29 05:24:23.991685
+www.kr.binance.com,AVAILABILITY,origin.list,2023-06-29 05:24:25.930988
+www.selfx1.typeform.com,AVAILABILITY,origin.list,2023-06-29 05:24:26.244193
+www.pandaminer.co,AVAILABILITY,origin.list,2023-06-29 05:24:27.782122
