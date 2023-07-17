@@ -1,10 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-www.support.binance.com,AVAILABILITY,origin.list,2023-07-15 05:20:36.755631
-www.selfx1.typeform.com,AVAILABILITY,origin.list,2023-07-15 05:20:43.398553
-www.kr.binance.com,AVAILABILITY,origin.list,2023-07-15 05:20:43.839105
-www.mymonero.com,AVAILABILITY,origin.list,2023-07-15 05:20:43.833290
-www.pandaminer.co,AVAILABILITY,origin.list,2023-07-15 05:20:45.281738
-www.chainradar.com,AVAILABILITY,origin.list,2023-07-15 05:21:04.341618
 www.hashcoins.ru,AVAILABILITY,origin.list,2023-07-16 05:19:58.348455
 api2.bitfinex.com,AVAILABILITY,origin.list,2023-07-16 05:20:25.223940
 www.miner.hosting,AVAILABILITY,origin.list,2023-07-16 05:20:25.257612
@@ -865,3 +859,9 @@ www.chiadecentral.com,AVAILABILITY,origin.list,2023-07-16 05:24:26.681021
 www.mining-rig.de,AVAILABILITY,origin.list,2023-07-16 05:24:28.313070
 www.rbminer.net,AVAILABILITY,origin.list,2023-07-16 05:24:29.289157
 www.peerhash.com,AVAILABILITY,origin.list,2023-07-16 05:24:31.554815
+www.selfx1.typeform.com,AVAILABILITY,origin.list,2023-07-17 05:20:35.863638
+www.mymonero.com,AVAILABILITY,origin.list,2023-07-17 05:20:36.440508
+www.support.binance.com,AVAILABILITY,origin.list,2023-07-17 05:20:36.800366
+www.kr.binance.com,AVAILABILITY,origin.list,2023-07-17 05:20:36.983705
+www.pandaminer.co,AVAILABILITY,origin.list,2023-07-17 05:20:43.091640
+www.chainradar.com,AVAILABILITY,origin.list,2023-07-17 05:20:58.710713
