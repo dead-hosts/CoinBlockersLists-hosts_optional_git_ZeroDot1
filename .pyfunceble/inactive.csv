@@ -1,13 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-api.cryptoguiminer.com,AVAILABILITY,origin.list,2023-09-19 05:17:50.340458
-static.coinbase.com,AVAILABILITY,origin.list,2023-09-19 05:17:50.372979
-www.trezor.io,AVAILABILITY,origin.list,2023-09-19 05:17:50.636454
-www.mellowads.com,AVAILABILITY,origin.list,2023-09-19 05:17:51.961793
-www.mymonero.com,AVAILABILITY,origin.list,2023-09-19 05:17:51.540759
-www.selfx1.typeform.com,AVAILABILITY,origin.list,2023-09-19 05:17:51.580119
-www.support.binance.com,AVAILABILITY,origin.list,2023-09-19 05:17:52.022159
-www.kr.binance.com,AVAILABILITY,origin.list,2023-09-19 05:17:53.650733
-www.pandaminer.co,AVAILABILITY,origin.list,2023-09-19 05:17:55.088996
 cloud.cryptoguiminer.com,AVAILABILITY,origin.list,2023-09-20 05:17:55.213941
 webdisk.cryptoguiminer.com,AVAILABILITY,origin.list,2023-09-20 05:17:55.282805
 cpanel.cryptoguiminer.com,AVAILABILITY,origin.list,2023-09-20 05:17:55.361034
@@ -867,3 +858,12 @@ www.chiadecentral.com,AVAILABILITY,origin.list,2023-09-20 05:20:07.205258
 www.jwallet.network,AVAILABILITY,origin.list,2023-09-20 05:20:08.180846
 www.mining-rig.de,AVAILABILITY,origin.list,2023-09-20 05:20:09.756440
 www.peerhash.com,AVAILABILITY,origin.list,2023-09-20 05:20:11.086278
+api.cryptoguiminer.com,AVAILABILITY,origin.list,2023-09-21 05:18:08.933584
+static.coinbase.com,AVAILABILITY,origin.list,2023-09-21 05:18:08.969471
+www.mellowads.com,AVAILABILITY,origin.list,2023-09-21 05:18:09.682989
+www.selfx1.typeform.com,AVAILABILITY,origin.list,2023-09-21 05:18:10.772140
+www.mymonero.com,AVAILABILITY,origin.list,2023-09-21 05:18:11.082237
+www.support.binance.com,AVAILABILITY,origin.list,2023-09-21 05:18:11.812315
+www.kr.binance.com,AVAILABILITY,origin.list,2023-09-21 05:18:13.097971
+www.trezor.io,AVAILABILITY,origin.list,2023-09-21 05:18:14.807528
+www.pandaminer.co,AVAILABILITY,origin.list,2023-09-21 05:18:15.475088
