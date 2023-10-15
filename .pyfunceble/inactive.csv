@@ -1,15 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-preorder.trezor.io,AVAILABILITY,origin.list,2023-10-13 05:18:43.231465
-api.cryptoguiminer.com,AVAILABILITY,origin.list,2023-10-13 05:18:43.377237
-static.coinbase.com,AVAILABILITY,origin.list,2023-10-13 05:18:43.453465
-www.p2pool.in,AVAILABILITY,origin.list,2023-10-13 05:18:44.252866
-www.mymonero.com,AVAILABILITY,origin.list,2023-10-13 05:18:44.916252
-www.mineshop.eu,AVAILABILITY,origin.list,2023-10-13 05:18:44.597408
-www.selfx1.typeform.com,AVAILABILITY,origin.list,2023-10-13 05:18:46.388202
-www.support.binance.com,AVAILABILITY,origin.list,2023-10-13 05:18:46.780034
-www.kr.binance.com,AVAILABILITY,origin.list,2023-10-13 05:18:46.819792
-www.trezor.io,AVAILABILITY,origin.list,2023-10-13 05:18:47.410779
-www.mellowads.com,AVAILABILITY,origin.list,2023-10-13 05:18:53.798003
 www.chainradar.com,AVAILABILITY,origin.list,2023-10-14 05:16:34.060741
 zec-bitcore1.trezor.io,AVAILABILITY,origin.list,2023-10-14 05:16:54.997382
 cloud.cryptoguiminer.com,AVAILABILITY,origin.list,2023-10-14 05:16:55.118502
@@ -868,3 +857,14 @@ www.jwallet.network,AVAILABILITY,origin.list,2023-10-14 05:18:53.662204
 www.chiadecentral.com,AVAILABILITY,origin.list,2023-10-14 05:18:54.149074
 www.peerhash.com,AVAILABILITY,origin.list,2023-10-14 05:18:56.495974
 www.minerboard.com,AVAILABILITY,origin.list,2023-10-14 05:19:29.964914
+preorder.trezor.io,AVAILABILITY,origin.list,2023-10-15 05:17:34.665301
+static.coinbase.com,AVAILABILITY,origin.list,2023-10-15 05:17:34.759327
+api.cryptoguiminer.com,AVAILABILITY,origin.list,2023-10-15 05:17:34.775084
+www.selfx1.typeform.com,AVAILABILITY,origin.list,2023-10-15 05:17:35.540355
+www.mymonero.com,AVAILABILITY,origin.list,2023-10-15 05:17:35.398834
+www.mineshop.eu,AVAILABILITY,origin.list,2023-10-15 05:17:35.434920
+www.p2pool.in,AVAILABILITY,origin.list,2023-10-15 05:17:35.638817
+www.mellowads.com,AVAILABILITY,origin.list,2023-10-15 05:17:36.659381
+www.support.binance.com,AVAILABILITY,origin.list,2023-10-15 05:17:37.576836
+www.kr.binance.com,AVAILABILITY,origin.list,2023-10-15 05:17:37.715712
+www.trezor.io,AVAILABILITY,origin.list,2023-10-15 05:17:41.920122
