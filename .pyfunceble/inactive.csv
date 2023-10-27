@@ -1,15 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-preorder.trezor.io,AVAILABILITY,origin.list,2023-10-25 05:18:49.277510
-static.coinbase.com,AVAILABILITY,origin.list,2023-10-25 05:18:49.412871
-api.cryptoguiminer.com,AVAILABILITY,origin.list,2023-10-25 05:18:49.443573
-www.mellowads.com,AVAILABILITY,origin.list,2023-10-25 05:18:50.011363
-www.mymonero.com,AVAILABILITY,origin.list,2023-10-25 05:18:50.236999
-www.mineshop.eu,AVAILABILITY,origin.list,2023-10-25 05:18:51.472426
-www.p2pool.in,AVAILABILITY,origin.list,2023-10-25 05:18:52.316017
-www.selfx1.typeform.com,AVAILABILITY,origin.list,2023-10-25 05:18:51.913317
-www.kr.binance.com,AVAILABILITY,origin.list,2023-10-25 05:18:53.909660
-www.support.binance.com,AVAILABILITY,origin.list,2023-10-25 05:18:55.175013
-www.trezor.io,AVAILABILITY,origin.list,2023-10-25 05:18:57.582194
 cdn.inwemo.com,AVAILABILITY,origin.list,2023-10-26 05:18:35.183838
 www.inwemo.com,AVAILABILITY,origin.list,2023-10-26 05:18:35.355260
 www3.a-ads.com,AVAILABILITY,origin.list,2023-10-26 05:18:35.361770
@@ -868,3 +857,14 @@ www.chiadecentral.com,AVAILABILITY,origin.list,2023-10-26 05:21:05.579394
 www.mining-rig.de,AVAILABILITY,origin.list,2023-10-26 05:21:07.895267
 www.jwallet.network,AVAILABILITY,origin.list,2023-10-26 05:21:08.184939
 www.peerhash.com,AVAILABILITY,origin.list,2023-10-26 05:21:09.013247
+preorder.trezor.io,AVAILABILITY,origin.list,2023-10-27 05:17:46.989132
+static.coinbase.com,AVAILABILITY,origin.list,2023-10-27 05:17:47.137959
+api.cryptoguiminer.com,AVAILABILITY,origin.list,2023-10-27 05:17:47.305164
+www.mellowads.com,AVAILABILITY,origin.list,2023-10-27 05:17:47.515318
+www.mymonero.com,AVAILABILITY,origin.list,2023-10-27 05:17:48.154924
+www.p2pool.in,AVAILABILITY,origin.list,2023-10-27 05:17:48.494018
+www.mineshop.eu,AVAILABILITY,origin.list,2023-10-27 05:17:48.563873
+www.selfx1.typeform.com,AVAILABILITY,origin.list,2023-10-27 05:17:49.385174
+www.trezor.io,AVAILABILITY,origin.list,2023-10-27 05:17:50.238144
+www.kr.binance.com,AVAILABILITY,origin.list,2023-10-27 05:17:50.558369
+www.support.binance.com,AVAILABILITY,origin.list,2023-10-27 05:17:51.128829
