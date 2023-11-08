@@ -1,15 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-static.coinbase.com,AVAILABILITY,origin.list,2023-11-06 05:19:57.753588
-preorder.trezor.io,AVAILABILITY,origin.list,2023-11-06 05:19:57.935094
-api.cryptoguiminer.com,AVAILABILITY,origin.list,2023-11-06 05:19:57.942045
-www.mellowads.com,AVAILABILITY,origin.list,2023-11-06 05:19:58.236918
-www.mineshop.eu,AVAILABILITY,origin.list,2023-11-06 05:19:58.860678
-www.mymonero.com,AVAILABILITY,origin.list,2023-11-06 05:19:58.865872
-www.p2pool.in,AVAILABILITY,origin.list,2023-11-06 05:19:59.265192
-www.selfx1.typeform.com,AVAILABILITY,origin.list,2023-11-06 05:20:00.081272
-www.support.binance.com,AVAILABILITY,origin.list,2023-11-06 05:20:01.245605
-www.kr.binance.com,AVAILABILITY,origin.list,2023-11-06 05:20:01.345018
-www.trezor.io,AVAILABILITY,origin.list,2023-11-06 05:20:20.828861
 www3.a-ads.com,AVAILABILITY,origin.list,2023-11-07 05:18:42.597433
 cdn.inwemo.com,AVAILABILITY,origin.list,2023-11-07 05:18:42.743970
 www1.a-ads.com,AVAILABILITY,origin.list,2023-11-07 05:18:42.850703
@@ -869,3 +858,14 @@ www.jwallet.network,AVAILABILITY,origin.list,2023-11-07 05:21:12.256515
 www.mining-rig.de,AVAILABILITY,origin.list,2023-11-07 05:21:12.532313
 www.peerhash.com,AVAILABILITY,origin.list,2023-11-07 05:21:15.211837
 www.luckybits.io,AVAILABILITY,origin.list,2023-11-07 05:21:31.243205
+static.coinbase.com,AVAILABILITY,origin.list,2023-11-08 05:18:22.690967
+preorder.trezor.io,AVAILABILITY,origin.list,2023-11-08 05:18:22.729339
+api.cryptoguiminer.com,AVAILABILITY,origin.list,2023-11-08 05:18:22.855603
+www.mellowads.com,AVAILABILITY,origin.list,2023-11-08 05:18:23.061715
+www.mymonero.com,AVAILABILITY,origin.list,2023-11-08 05:18:23.868607
+www.p2pool.in,AVAILABILITY,origin.list,2023-11-08 05:18:24.062856
+www.mineshop.eu,AVAILABILITY,origin.list,2023-11-08 05:18:24.787766
+www.selfx1.typeform.com,AVAILABILITY,origin.list,2023-11-08 05:18:25.143661
+www.support.binance.com,AVAILABILITY,origin.list,2023-11-08 05:18:26.108156
+www.kr.binance.com,AVAILABILITY,origin.list,2023-11-08 05:18:26.265026
+www.trezor.io,AVAILABILITY,origin.list,2023-11-08 05:18:31.134121
